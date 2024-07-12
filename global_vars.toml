@@ -81,3 +81,9 @@ last_change = 2024-07-12T15:46:46.210646Z
 addr = 0x4118420
 name = "aPremenulegalsc"
 size = 0x12
+
+[0x4118438]
+last_change = 2024-07-12T15:47:06.314847Z
+addr = 0x4118438
+name = "aScbuttontempla"
+size = 0x10
