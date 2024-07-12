@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:01.797444Z
+last_change = 2024-07-12T23:53:01.802392Z
 name = "CPad"
-size = 0x14c
+size = 0x150
 
 [members.0x0]
 name = "NewState"
@@ -281,5 +281,11 @@ size = 0x1
 [members.0x14a]
 name = "bSetTouchLayout"
 offset = 0x14a
-type = ""
+type = "uint8_t"
 size = 0x1
+
+[members.0x14c]
+name = "m_fAccelX"
+offset = 0x14c
+type = ""
+size = 0x4
