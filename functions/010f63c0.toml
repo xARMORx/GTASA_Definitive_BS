@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:36.984882Z
+last_change = 2024-07-12T20:22:37.579299Z
 addr = 0x10f63c0
 size = 0xfe4
 name = "_ZN10C3dMarkers11PlaceMarkerEjtR7CVectorfhhhhtfsfffb"
@@ -13,11 +13,11 @@ type = "C3dMarker *"
 [header.args]
 
 [stack_vars.-0x68]
-last_change = 2024-07-12T20:22:10.439392Z
+last_change = 2024-07-12T20:22:37.579299Z
 offset = -104
-name = "r"
-type = "unsigned char"
-size = 0x1
+name = "arg_20"
+type = "float"
+size = 0x4
 addr = 0x10f63c0
 
 [stack_vars.-0x60]
