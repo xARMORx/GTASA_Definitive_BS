@@ -821,10 +821,10 @@ name = "totalDist"
 size = 0x4
 
 [0x5571214]
-last_change = 2024-07-12T20:42:40.339672Z
+last_change = 2024-07-12T20:42:40.342673Z
 addr = 0x5571214
-name = "unk_5571214"
-size = 0x1
+name = ""
+size = 0x11c
 
 [0x55711b0]
 last_change = 2024-07-12T20:42:23.525806Z
