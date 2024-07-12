@@ -1,19 +1,11 @@
-last_change = 2024-07-12T20:38:00.973044Z
+last_change = 2024-07-12T04:28:57.210284Z
 addr = 0xf88010
 size = 0xbe0
 
 [stack_vars.-0x188]
-last_change = 2024-07-12T20:38:00.973044Z
+last_change = 2024-07-12T04:28:57.210284Z
 offset = -392
-name = "a4"
+name = "py"
 type = "float *"
 size = 0x8
-addr = 0xf88010
-
-[stack_vars.-0x100]
-last_change = 2024-07-12T20:38:00.968043Z
-offset = -256
-name = "y"
-type = "CVector"
-size = 0xc
 addr = 0xf88010
