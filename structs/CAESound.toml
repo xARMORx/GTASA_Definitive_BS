@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:26:34.855265Z
+last_change = 2024-07-12T02:26:34.856264Z
 name = "CAESound"
-size = 0x74
+size = 0x76
 
 [members.0x0]
 name = "m_pBaseAudio"
@@ -167,5 +167,11 @@ size = 0x2
 [members.0x70]
 name = "m_fSoundHeadRoom"
 offset = 0x70
-type = ""
+type = "float"
 size = 0x4
+
+[members.0x74]
+name = "field_70"
+offset = 0x74
+type = ""
+size = 0x2
