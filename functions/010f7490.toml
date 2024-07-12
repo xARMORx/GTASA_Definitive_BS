@@ -1,83 +1,11 @@
-last_change = 2024-07-12T20:22:39.662984Z
+last_change = 2024-07-12T20:22:12.735885Z
 addr = 0x10f7490
 size = 0x740
 
 [stack_vars.-0xc0]
-last_change = 2024-07-12T20:22:39.653912Z
+last_change = 2024-07-12T20:22:12.735885Z
 offset = -192
-name = "nrm_y"
+name = "nrm_z"
 type = "float"
 size = 0x4
-addr = 0x10f7490
-
-[stack_vars.-0x100]
-last_change = 2024-07-12T20:22:39.607264Z
-offset = -256
-name = "r"
-type = "unsigned char"
-size = 0x1
-addr = 0x10f7490
-
-[stack_vars.-0x78]
-last_change = 2024-07-12T20:22:39.613121Z
-offset = -120
-name = "type"
-type = "CVector"
-size = 0xc
-addr = 0x10f7490
-
-[stack_vars.-0xf8]
-last_change = 2024-07-12T20:22:39.618587Z
-offset = -248
-name = "g"
-type = "unsigned char"
-size = 0x1
-addr = 0x10f7490
-
-[stack_vars.-0xe8]
-last_change = 2024-07-12T20:22:39.625017Z
-offset = -232
-name = "a"
-type = "short"
-size = 0x2
-addr = 0x10f7490
-
-[stack_vars.-0xe0]
-last_change = 2024-07-12T20:22:39.630536Z
-offset = -224
-name = "pulsePeriod"
-type = "float"
-size = 0x4
-addr = 0x10f7490
-
-[stack_vars.-0xd8]
-last_change = 2024-07-12T20:22:39.635537Z
-offset = -216
-name = "pulseFraction"
-type = "short"
-size = 0x2
-addr = 0x10f7490
-
-[stack_vars.-0xd0]
-last_change = 2024-07-12T20:22:39.642538Z
-offset = -208
-name = "rotateRate"
-type = "float"
-size = 0x4
-addr = 0x10f7490
-
-[stack_vars.-0xc8]
-last_change = 2024-07-12T20:22:39.648723Z
-offset = -200
-name = "nrm_x"
-type = "float"
-size = 0x4
-addr = 0x10f7490
-
-[stack_vars.-0x88]
-last_change = 2024-07-12T20:22:39.662984Z
-offset = -136
-name = "var_60"
-type = "CVector"
-size = 0xc
 addr = 0x10f7490
