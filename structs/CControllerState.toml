@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:04.106619Z
+last_change = 2024-07-12T23:53:04.108620Z
 name = "CControllerState"
-size = 0xc
+size = 0xe
 
 [members.0x0]
 name = "LeftStickX"
@@ -35,5 +35,11 @@ size = 0x2
 [members.0xa]
 name = "LeftShoulder2"
 offset = 0xa
+type = "int16_t"
+size = 0x2
+
+[members.0xc]
+name = "RightShoulder1"
+offset = 0xc
 type = ""
 size = 0x2
