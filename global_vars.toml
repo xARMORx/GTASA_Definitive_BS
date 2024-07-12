@@ -3,3 +3,9 @@ last_change = 2024-07-12T02:15:51.406173Z
 addr = 0x5570580
 name = "_ZN11CTagManager10ms_numTagsE"
 size = 0x4
+
+[0x505f800]
+last_change = 2024-07-12T02:15:57.335358Z
+addr = 0x505f800
+name = "_ZN11CTagManager10ms_tagDescE"
+size = 0x8
