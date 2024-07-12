@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:38:14.792574Z
+last_change = 2024-07-12T20:38:14.793573Z
 addr = 0x124fae0
 size = 0x62d
-type = "char"
 
-[header]
-last_change = 2024-07-12T20:38:14.792574Z
+[stack_vars.-0xf4]
+last_change = 2024-07-12T20:38:14.793573Z
+offset = -244
+name = "a4"
+type = "float"
+size = 0x4
 addr = 0x124fae0
-type = "char"
-
-[header.args]
