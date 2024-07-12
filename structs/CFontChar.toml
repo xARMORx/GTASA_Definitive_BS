@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:04:09.405163Z
+last_change = 2024-07-12T16:04:09.406163Z
 name = "CFontChar"
-size = 0x18
+size = 0x1c
 
 [members.0x0]
 name = "m_cLetter"
@@ -35,5 +35,11 @@ size = 0x4
 [members.0x14]
 name = "m_color"
 offset = 0x14
+type = "CRGBA"
+size = 0x4
+
+[members.0x18]
+name = "m_fWrap"
+offset = 0x18
 type = ""
 size = 0x4
