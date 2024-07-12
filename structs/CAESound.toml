@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:26:36.922994Z
+last_change = 2024-07-12T02:26:36.923995Z
 name = "CAESound"
 size = 0x78
-
-[members.0x5a]
-name = "m_nIndividualEnvironment"
-offset = 0x5a
-type = "unsigned short"
-size = 0x2
 
 [members.0x5c]
 name = "m_wIsUsed"
