@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.003324Z
+last_change = 2024-07-12T23:54:12.008325Z
 name = "CPad"
 size = 0x158
-
-[members.0x60]
-name = "currentPadId"
-offset = 0x60
-type = "int32_t"
-size = 0x4
 
 [members.0x64]
 name = "SteeringLeftRightBuffer"
