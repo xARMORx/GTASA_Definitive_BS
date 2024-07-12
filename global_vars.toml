@@ -1073,10 +1073,10 @@ name = ""
 size = 0x68
 
 [0x55712cc]
-last_change = 2024-07-12T20:42:40.305665Z
+last_change = 2024-07-12T20:42:40.430693Z
 addr = 0x55712cc
-name = "dword_55712CC"
-size = 0x4
+name = ""
+size = 0x64
 
 [0x55712d0]
 last_change = 2024-07-12T20:42:40.308665Z
