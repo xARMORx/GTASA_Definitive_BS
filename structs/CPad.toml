@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.114745Z
+last_change = 2024-07-12T23:54:12.117745Z
 name = "CPad"
 size = 0x158
-
-[members.0x131]
-name = "bDisablePlayerCycleWeapon"
-offset = 0x131
-type = "uint8_t"
-size = 0x1
 
 [members.0x132]
 name = "bDisablePlayerJump"
