@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.536087Z
+last_change = 2024-07-12T23:53:01.540087Z
 name = "CPad"
 size = 0x180
-
-[members.0x154]
-name = "m_fAccelZ"
-offset = 0x154
-type = "float"
-size = 0x4
 
 [members.0x158]
 name = "field_158"
