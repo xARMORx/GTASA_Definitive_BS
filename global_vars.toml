@@ -563,10 +563,10 @@ name = "_ZL11aWeaponInfo_0"
 size = 0x1
 
 [0x54c2ef4]
-last_change = 2024-07-12T16:17:35.939502Z
+last_change = 2024-07-12T16:18:19.320902Z
 addr = 0x54c2ef4
-name = "word_54C2EF4"
-size = 0x2
+name = ""
+size = 0x12c
 
 [0x54c2ee4]
 last_change = 2024-07-12T16:18:19.315901Z
