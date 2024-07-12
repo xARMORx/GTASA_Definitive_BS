@@ -587,10 +587,10 @@ name = ""
 size = 0x130
 
 [0x5142520]
-last_change = 2024-07-12T16:19:40.673088Z
+last_change = 2024-07-12T16:19:40.832124Z
 addr = 0x5142520
-name = "dword_5142520"
-size = 0x4
+name = "qword_5142520"
+size = 0x8
 
 [0x5142524]
 last_change = 2024-07-12T16:19:40.677089Z
