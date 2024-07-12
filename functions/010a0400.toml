@@ -1,0 +1,11 @@
+last_change = 2024-07-12T22:46:58.598971Z
+addr = 0x10a0400
+size = 0x5d
+name = "_ZN10CEntryExit23ProcessStealableObjectsEP4CPed"
+
+[header]
+last_change = 2024-07-12T22:46:58.598971Z
+name = "_ZN10CEntryExit23ProcessStealableObjectsEP4CPed"
+addr = 0x10a0400
+
+[header.args]
