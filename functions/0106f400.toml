@@ -1,11 +1,11 @@
-last_change = 2024-07-12T16:00:33.519906Z
+last_change = 2024-07-12T16:19:40.976792Z
 addr = 0x106f400
 size = 0x223
 
-[stack_vars.-0x228]
-last_change = 2024-07-12T16:00:33.519906Z
-offset = -552
-name = "var_218"
-type = "char[512]"
-size = 0x200
+[stack_vars.-0x338]
+last_change = 2024-07-12T16:19:40.976792Z
+offset = -824
+name = "var_328"
+type = "unsigned int"
+size = 0x4
 addr = 0x106f400
