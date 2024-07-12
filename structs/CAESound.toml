@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:32:49.327507Z
+last_change = 2024-07-12T02:32:49.329507Z
 name = "CAESound"
-size = 0x68
+size = 0x70
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -143,5 +143,11 @@ size = 0x2
 [members.0x66]
 name = "field_5A"
 offset = 0x66
+type = "short"
+size = 0x2
+
+[members.0x68]
+name = "m_wPlayPercentage"
+offset = 0x68
 type = ""
 size = 0x2
