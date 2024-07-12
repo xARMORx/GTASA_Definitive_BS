@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:21:37.095864Z
+last_change = 2024-07-12T16:21:37.096864Z
 name = "CWeaponInfo"
-size = 0x30
+size = 0x34
 
 [members.0x0]
 name = "m_eFireType"
@@ -65,5 +65,11 @@ size = 0x2
 [members.0x24]
 name = "fireOffset"
 offset = 0x24
-type = ""
+type = "CVector"
 size = 0xc
+
+[members.0x30]
+name = "skillLevel"
+offset = 0x30
+type = ""
+size = 0x4
