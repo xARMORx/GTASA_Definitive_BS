@@ -1269,3 +1269,9 @@ last_change = 2024-07-12T22:52:55.206864Z
 addr = 0x522cda4
 name = ""
 size = 0x104
+
+[0x522cd70]
+last_change = 2024-07-12T22:52:55.210865Z
+addr = 0x522cd70
+name = "stru_522CD70"
+size = 0x138
