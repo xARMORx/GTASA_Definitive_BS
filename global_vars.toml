@@ -711,3 +711,9 @@ last_change = 2024-07-12T20:19:49.220169Z
 addr = 0x4ffe5c8
 name = "_triggerEntities"
 size = 0x1
+
+[0x4a4a0d0]
+last_change = 2024-07-12T20:21:09.477032Z
+addr = 0x4a4a0d0
+name = "size"
+size = 0x4
