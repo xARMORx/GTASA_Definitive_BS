@@ -1215,3 +1215,9 @@ last_change = 2024-07-12T22:31:36.961720Z
 addr = 0x50704c8
 name = "_ZN6CTimer13ms_fTimeScaleE_ptr"
 size = 0x4
+
+[0x507040c]
+last_change = 2024-07-12T22:31:56.932404Z
+addr = 0x507040c
+name = "_ZN6CTimer31m_snTimeInMillisecondsPauseModeE"
+size = 0x4
