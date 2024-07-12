@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:16:29.440335Z
+last_change = 2024-07-12T02:16:29.441335Z
 name = "tTagDesc"
 size = 0x10
 
@@ -11,5 +11,11 @@ size = 0x8
 [members.0x8]
 name = "m_nAlpha"
 offset = 0x8
-type = ""
+type = "char"
 size = 0x1
+
+[members.0x9]
+name = "_pad5"
+offset = 0x9
+type = ""
+size = 0x3
