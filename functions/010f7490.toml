@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:22:12.726380Z
+last_change = 2024-07-12T20:22:12.726882Z
 addr = 0x10f7490
 size = 0x740
 
-[stack_vars.-0x100]
-last_change = 2024-07-12T20:22:12.726380Z
-offset = -256
-name = "g"
+[stack_vars.-0xf8]
+last_change = 2024-07-12T20:22:12.726882Z
+offset = -248
+name = "var_D0"
 type = "unsigned char"
 size = 0x1
 addr = 0x10f7490
