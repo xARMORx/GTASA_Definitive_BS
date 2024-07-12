@@ -1,9 +1,15 @@
-last_change = 2024-07-12T02:26:34.821840Z
+last_change = 2024-07-12T02:26:34.822840Z
 name = "CAESound"
-size = 0x8
+size = 0x10
 
 [members.0x0]
 name = "m_pBaseAudio"
 offset = 0x0
+type = "CAEAudioEntity *"
+size = 0x8
+
+[members.0x8]
+name = "m_pPhysicalEntity"
+offset = 0x8
 type = ""
 size = 0x8
