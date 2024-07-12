@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:38.157430Z
+last_change = 2024-07-12T20:22:38.161430Z
 addr = 0x10f63c0
 size = 0xfe4
 name = "_ZN10C3dMarkers11PlaceMarkerEjtR7CVectorfhhhhtfsfffb"
@@ -21,9 +21,9 @@ size = 0x4
 addr = 0x10f63c0
 
 [stack_vars.-0x60]
-last_change = 2024-07-12T20:22:10.446395Z
+last_change = 2024-07-12T20:22:38.161430Z
 offset = -96
-name = "g"
+name = "arg_28"
 type = "unsigned char"
 size = 0x1
 addr = 0x10f63c0
