@@ -789,3 +789,9 @@ last_change = 2024-07-12T20:41:53.559571Z
 addr = 0x5571218
 name = "pTrackNodes"
 size = 0x8
+
+[0x5571220]
+last_change = 2024-07-12T20:42:06.610859Z
+addr = 0x5571220
+name = "qword_5571220"
+size = 0x8
