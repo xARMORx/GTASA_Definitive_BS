@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:32:36.557619Z
+last_change = 2024-07-12T02:32:36.558619Z
 name = "CAESound"
-size = 0x60
+size = 0x68
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -113,5 +113,11 @@ size = 0x4
 [members.0x5c]
 name = "m_fTimeScale"
 offset = 0x5c
-type = ""
+type = "float"
 size = 0x4
+
+[members.0x60]
+name = "field_54"
+offset = 0x60
+type = ""
+size = 0x1
