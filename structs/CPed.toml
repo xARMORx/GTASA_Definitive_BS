@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:26:35.077787Z
+last_change = 2024-07-12T02:26:35.078787Z
 name = "CPed"
-size = 0x98c
+size = 0x98e
 
 [members.0x0]
 name = "physical"
@@ -197,5 +197,11 @@ size = 0x4
 [members.0x988]
 name = "m_dwDelayedWeaponAmmo"
 offset = 0x988
-type = ""
+type = "int"
 size = 0x4
+
+[members.0x98c]
+name = "m_nActiveWeaponSlot"
+offset = 0x98c
+type = ""
+size = 0x1
