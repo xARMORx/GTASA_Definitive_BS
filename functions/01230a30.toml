@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:34:31.838394Z
+last_change = 2024-07-12T20:40:58.640942Z
 addr = 0x1230a30
 size = 0x18c
-name = "_ZN5CGame5Init3EPKc"
+name = "_ZN6CTrain10InitTrainsEv"
 
 [header]
-last_change = 2024-07-12T20:34:31.838394Z
-name = "_ZN5CGame5Init3EPKc"
+last_change = 2024-07-12T20:40:58.640942Z
+name = "_ZN6CTrain10InitTrainsEv"
 addr = 0x1230a30
 
 [header.args]
