@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:54:12.186717Z
+last_change = 2024-07-12T23:54:12.189929Z
 name = "CPad"
-size = 0xdc
+size = 0x10c
 
 [members.0x0]
 name = "NewState"
@@ -41,5 +41,11 @@ size = 0x30
 [members.0xac]
 name = "PCTempJoyState"
 offset = 0xac
+type = "CControllerState"
+size = 0x30
+
+[members.0xdc]
+name = "PCTempMouseState"
+offset = 0xdc
 type = ""
 size = 0x30
