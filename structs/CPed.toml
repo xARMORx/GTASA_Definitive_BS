@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:32:35.264172Z
+last_change = 2024-07-12T02:32:35.265172Z
 name = "CPed"
 size = 0xa3e
-
-[members.0x994]
-name = "m_nActiveWeaponSlot"
-offset = 0x994
-type = "char"
-size = 0x1
 
 [members.0x995]
 name = "m_nWeaponShootingRate"
