@@ -813,3 +813,9 @@ last_change = 2024-07-12T20:42:16.452400Z
 addr = 0x41a5ed8
 name = "filename"
 size = 0x16
+
+[0x55539d8]
+last_change = 2024-07-12T20:42:16.455401Z
+addr = 0x55539d8
+name = "totalDist"
+size = 0x4
