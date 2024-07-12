@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:27:47.479364Z
+last_change = 2024-07-12T02:27:47.480364Z
 name = "CAESound"
-size = 0x24
+size = 0x28
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -47,5 +47,11 @@ size = 0x4
 [members.0x20]
 name = "m_fVolume"
 offset = 0x20
+type = "float"
+size = 0x4
+
+[members.0x24]
+name = "m_fSoundDistance"
+offset = 0x24
 type = ""
 size = 0x4
