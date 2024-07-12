@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:19:38.294490Z
+last_change = 2024-07-12T16:19:38.317495Z
 addr = 0x1063060
 size = 0xfaf
 
@@ -14,6 +14,14 @@ addr = 0x1063060
 last_change = 2024-07-12T16:19:38.294490Z
 offset = -24
 name = "nColor"
+type = "unsigned int"
+size = 0x4
+addr = 0x1063060
+
+[stack_vars.-0x10]
+last_change = 2024-07-12T16:19:38.317495Z
+offset = -16
+name = "arg_8"
 type = "unsigned int"
 size = 0x4
 addr = 0x1063060
