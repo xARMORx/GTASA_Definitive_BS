@@ -365,9 +365,9 @@ name = "_ZN5CFont5ColorE"
 size = 0x4
 
 [0x549d689]
-last_change = 2024-07-12T16:03:47.515160Z
+last_change = 2024-07-12T16:04:55.182445Z
 addr = 0x549d689
-name = "unk_549D689"
+name = "m_bFontCentreAlign"
 size = 0x1
 
 [0x5142510]
