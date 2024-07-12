@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:34:31.838394Z
+addr = 0x1230a30
+size = 0x18c
+name = "_ZN5CGame5Init3EPKc"
+
+[header]
+last_change = 2024-07-12T20:34:31.838394Z
+name = "_ZN5CGame5Init3EPKc"
+addr = 0x1230a30
+
+[header.args]
