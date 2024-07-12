@@ -1,11 +1,13 @@
-last_change = 2024-07-12T20:48:54.563960Z
+last_change = 2024-07-12T20:48:57.840642Z
 addr = 0xe95df0
 size = 0x13a3
 name = "_ZN12CAudioEngine17ResetSoundEffectsEv"
+type = "char"
 
 [header]
-last_change = 2024-07-12T20:48:54.563960Z
+last_change = 2024-07-12T20:48:57.840642Z
 name = "_ZN12CAudioEngine17ResetSoundEffectsEv"
 addr = 0xe95df0
+type = "char"
 
 [header.args]
