@@ -1,9 +1,5 @@
-last_change = 2024-07-12T23:53:04.080616Z
+last_change = 2024-07-12T23:53:04.083616Z
 name = "CControllerState"
-size = 0x30
+size = 0x0
 
-[members.0x2e]
-name = "m_bRadioTrackSkip"
-offset = 0x2e
-type = "int16_t"
-size = 0x2
+[members]
