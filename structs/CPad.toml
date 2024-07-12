@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.540087Z
+last_change = 2024-07-12T23:53:01.543670Z
 name = "CPad"
 size = 0x180
-
-[members.0x158]
-name = "field_158"
-offset = 0x158
-type = "char[4]"
-size = 0x4
 
 [members.0x15c]
 name = "bApplyBrakes1"
