@@ -1,6 +1,6 @@
 last_change = 2024-07-12T02:24:32.058721Z
 name = "CAETwinLoopSoundEntity"
-size = 0x92
+size = 0x96
 
 [members.0x0]
 name = "audio"
@@ -11,5 +11,11 @@ size = 0x90
 [members.0x90]
 name = "m_wBankSlotId"
 offset = 0x90
-type = ""
+type = "short"
 size = 0x2
+
+[members.0x92]
+name = "m_wSoundType"
+offset = 0x92
+type = ""
+size = 0x4
