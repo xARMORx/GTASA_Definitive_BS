@@ -1197,3 +1197,9 @@ last_change = 2024-07-12T22:29:55.768644Z
 addr = 0x5070588
 name = "_ZN6CTimer14m_FrameCounterE"
 size = 0x4
+
+[0x5553458]
+last_change = 2024-07-12T22:29:59.908551Z
+addr = 0x5553458
+name = "_renderTimerPauseCount"
+size = 0x4
