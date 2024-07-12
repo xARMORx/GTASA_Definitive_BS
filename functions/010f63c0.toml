@@ -1,13 +1,13 @@
-last_change = 2024-07-12T20:21:26.565637Z
+last_change = 2024-07-12T20:22:09.297295Z
 addr = 0x10f63c0
 size = 0xfe4
 name = "_ZN10C3dMarkers11PlaceMarkerEjtR7CVectorfhhhhtfsfffb"
-type = "char *"
+type = "C3dMarker *"
 
 [header]
-last_change = 2024-07-12T20:21:26.565637Z
+last_change = 2024-07-12T20:22:09.297295Z
 name = "_ZN10C3dMarkers11PlaceMarkerEjtR7CVectorfhhhhtfsfffb"
 addr = 0x10f63c0
-type = "char *"
+type = "C3dMarker *"
 
 [header.args]
