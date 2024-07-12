@@ -87,3 +87,9 @@ last_change = 2024-07-12T15:47:06.314847Z
 addr = 0x4118438
 name = "aScbuttontempla"
 size = 0x10
+
+[0x41183c8]
+last_change = 2024-07-12T15:47:11.978723Z
+addr = 0x41183c8
+name = "aDialogsampleso"
+size = 0x11
