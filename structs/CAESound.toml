@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:27:18.024702Z
+last_change = 2024-07-12T02:27:18.025703Z
 name = "CAESound"
-size = 0x18
+size = 0x1c
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -23,5 +23,11 @@ size = 0x8
 [members.0x12]
 name = "m_dwEvent"
 offset = 0x12
+type = "unsigned int"
+size = 0x4
+
+[members.0x16]
+name = "m_fMaxVolume"
+offset = 0x16
 type = ""
 size = 0x4
