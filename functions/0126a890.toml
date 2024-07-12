@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:18:47.379967Z
+addr = 0x126a890
+size = 0x70
+name = "_ZN11CWeaponInfo13GetWeaponInfoE11eWeaponTypea"
+
+[header]
+last_change = 2024-07-12T16:18:47.379967Z
+name = "_ZN11CWeaponInfo13GetWeaponInfoE11eWeaponTypea"
+addr = 0x126a890
+
+[header.args]
