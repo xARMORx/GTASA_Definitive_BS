@@ -651,3 +651,9 @@ last_change = 2024-07-12T20:18:42.524334Z
 addr = 0x524321a
 name = "_ZN11CTheScripts14IntroTextLinesE"
 size = 0x1
+
+[0x524322d]
+last_change = 2024-07-12T20:18:45.495475Z
+addr = 0x524322d
+name = ""
+size = 0x6
