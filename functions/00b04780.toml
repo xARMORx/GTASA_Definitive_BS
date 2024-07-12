@@ -1,4 +1,4 @@
-last_change = 2024-07-12T04:40:01.444350Z
+last_change = 2024-07-12T04:40:01.445350Z
 addr = 0xb04780
 size = 0x72e
 name = "_ZN9CSprite2d4DrawEffffffffRK5CRGBA"
@@ -15,5 +15,13 @@ last_change = 2024-07-12T04:40:01.444350Z
 offset = -40
 name = "a5"
 type = "int"
+size = 0x4
+addr = 0xb04780
+
+[stack_vars.-0x20]
+last_change = 2024-07-12T04:40:01.445350Z
+offset = -32
+name = "a6"
+type = "float"
 size = 0x4
 addr = 0xb04780
