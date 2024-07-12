@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:26:36.996903Z
+last_change = 2024-07-12T02:26:36.997903Z
 name = "CAESound"
 size = 0x70
 
@@ -149,5 +149,11 @@ size = 0x4
 [members.0x68]
 name = "m_fFrequency"
 offset = 0x68
-type = ""
+type = "float"
 size = 0x4
+
+[members.0x6c]
+name = "m_wPlayingState"
+offset = 0x6c
+type = ""
+size = 0x2
