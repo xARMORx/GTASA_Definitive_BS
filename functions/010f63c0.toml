@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:10.480401Z
+last_change = 2024-07-12T20:22:10.483402Z
 addr = 0x10f63c0
 size = 0xfe4
 name = "_ZN10C3dMarkers11PlaceMarkerEjtR7CVectorfhhhhtfsfffb"
@@ -66,4 +66,12 @@ offset = -56
 name = "rotateRate"
 type = "short"
 size = 0x2
+addr = 0x10f63c0
+
+[stack_vars.-0x30]
+last_change = 2024-07-12T20:22:10.483402Z
+offset = -48
+name = "arg_58"
+type = "float"
+size = 0x4
 addr = 0x10f63c0
