@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:27:47.494367Z
+last_change = 2024-07-12T02:27:47.495368Z
 name = "CAESound"
-size = 0x64
+size = 0x68
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -131,5 +131,11 @@ size = 0x1
 [members.0x62]
 name = "m_nIndividualEnvironment"
 offset = 0x62
+type = "unsigned short"
+size = 0x2
+
+[members.0x64]
+name = "m_wIsUsed"
+offset = 0x64
 type = ""
 size = 0x2
