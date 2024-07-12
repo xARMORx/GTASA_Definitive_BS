@@ -1,6 +1,6 @@
-last_change = 2024-07-12T20:18:45.470468Z
+last_change = 2024-07-12T20:18:45.473470Z
 name = "tScriptText"
-size = 0x26
+size = 0x27
 
 [members.0x0]
 name = "letterWidth"
@@ -101,5 +101,11 @@ size = 0x1
 [members.0x25]
 name = "_pad_25"
 offset = 0x25
+type = "char"
+size = 0x1
+
+[members.0x26]
+name = "_pad_26"
+offset = 0x26
 type = ""
 size = 0x1
