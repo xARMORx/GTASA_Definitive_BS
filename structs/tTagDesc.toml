@@ -1,5 +1,9 @@
-last_change = 2024-07-12T02:16:29.439335Z
+last_change = 2024-07-12T02:16:29.440335Z
 name = "tTagDesc"
-size = 0x0
+size = 0x8
 
-[members]
+[members.0x0]
+name = "m_pEntity"
+offset = 0x0
+type = ""
+size = 0x8
