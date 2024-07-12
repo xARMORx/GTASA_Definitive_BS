@@ -1,6 +1,6 @@
-last_change = 2024-07-12T20:18:45.441463Z
+last_change = 2024-07-12T20:18:45.443463Z
 name = "tScriptText"
-size = 0xd
+size = 0xe
 
 [members.0x0]
 name = "letterWidth"
@@ -23,5 +23,11 @@ size = 0x4
 [members.0xc]
 name = "m_bJustify"
 offset = 0xc
+type = "char"
+size = 0x1
+
+[members.0xd]
+name = "centered"
+offset = 0xd
 type = ""
 size = 0x1
