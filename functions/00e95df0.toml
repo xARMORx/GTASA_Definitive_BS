@@ -1,12 +1,12 @@
-last_change = 2024-07-12T20:48:57.840642Z
+last_change = 2024-07-12T20:49:05.302674Z
 addr = 0xe95df0
 size = 0x13a3
-name = "_ZN12CAudioEngine17ResetSoundEffectsEv"
+name = "sub_E95DF0"
 type = "char"
 
 [header]
-last_change = 2024-07-12T20:48:57.840642Z
-name = "_ZN12CAudioEngine17ResetSoundEffectsEv"
+last_change = 2024-07-12T20:49:05.302674Z
+name = "sub_E95DF0"
 addr = 0xe95df0
 type = "char"
 
