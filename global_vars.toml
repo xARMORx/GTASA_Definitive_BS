@@ -429,3 +429,9 @@ last_change = 2024-07-12T16:03:54.738796Z
 addr = 0x549d68b
 name = "m_bFontBackground"
 size = 0x1
+
+[0x549d6c4]
+last_change = 2024-07-12T16:04:06.050378Z
+addr = 0x549d6c4
+name = "_ZN5CFont11RenderStateE"
+size = 0x2
