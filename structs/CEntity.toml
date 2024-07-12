@@ -1,6 +1,6 @@
 last_change = 2024-07-12T02:11:47.774765Z
 name = "CEntity"
-size = 0x40
+size = 0x48
 
 [members.0x0]
 name = "placeable"
@@ -41,5 +41,11 @@ size = 0x2
 [members.0x3c]
 name = "field_3C"
 offset = 0x3c
-type = ""
+type = "char[4]"
 size = 0x4
+
+[members.0x40]
+name = "m_pReferences"
+offset = 0x40
+type = ""
+size = 0x8
