@@ -1,6 +1,6 @@
 user = "ARMOR"
 version = "4.3.4"
-last_push_time = 2024-07-12T16:21:37.096864Z
+last_push_time = 2024-07-12T16:21:37.098864Z
 last_push_artifact = -1
 last_push_artifact_type = -1
-last_commit_msg = "Updated <Struct: CWeaponInfo membs=12 (0x34)>"
+last_commit_msg = "Updated <Struct: CWeaponInfo membs=13 (0x38)>"
