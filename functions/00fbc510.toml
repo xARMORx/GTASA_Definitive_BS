@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:40:24.252519Z
+addr = 0xfbc510
+size = 0xa03
+type = "int"
+
+[header]
+last_change = 2024-07-12T20:40:24.252519Z
+addr = 0xfbc510
+type = "int"
+
+[header.args]
