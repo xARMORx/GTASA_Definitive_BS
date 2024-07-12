@@ -1,0 +1,6 @@
+[eRadarSprite]
+last_change = 2024-07-12T04:23:40.347554Z
+name = "eRadarSprite"
+
+[eRadarSprite.members]
+RADAR_SPRITE_NONE = 0x0
