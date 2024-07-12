@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:25:32.192421Z
+addr = 0xfd1a00
+size = 0x67
+name = "_ZN9CPhysical15AddToMovingListEv"
+
+[header]
+last_change = 2024-07-12T20:25:32.192421Z
+name = "_ZN9CPhysical15AddToMovingListEv"
+addr = 0xfd1a00
+
+[header.args]
