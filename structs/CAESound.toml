@@ -1,6 +1,6 @@
 last_change = 2024-07-12T02:24:32.013648Z
 name = "CAESound"
-size = 0xc
+size = 0x14
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -17,5 +17,11 @@ size = 0x2
 [members.0x4]
 name = "m_pBaseAudio"
 offset = 0x4
+type = "CAEAudioEntity *"
+size = 0x8
+
+[members.0xc]
+name = "m_pPhysicalEntity"
+offset = 0xc
 type = ""
 size = 0x8
