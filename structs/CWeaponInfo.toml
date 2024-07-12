@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:21:37.091863Z
+last_change = 2024-07-12T16:21:37.093863Z
 name = "CWeaponInfo"
 size = 0x24
 
@@ -53,5 +53,11 @@ size = 0x4
 [members.0x20]
 name = "ammoClip"
 offset = 0x20
+type = "short"
+size = 0x2
+
+[members.0x22]
+name = "damage"
+offset = 0x22
 type = ""
 size = 0x2
