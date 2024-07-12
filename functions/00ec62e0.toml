@@ -1,0 +1,11 @@
+last_change = 2024-07-12T22:41:12.751633Z
+addr = 0xec62e0
+size = 0x84
+name = "_ZN9CColStore18RemoveAllCollisionEv"
+
+[header]
+last_change = 2024-07-12T22:41:12.751633Z
+name = "_ZN9CColStore18RemoveAllCollisionEv"
+addr = 0xec62e0
+
+[header.args]
