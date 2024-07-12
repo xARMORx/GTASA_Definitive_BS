@@ -1,11 +1,11 @@
-last_change = 2024-07-12T16:10:01.543507Z
+last_change = 2024-07-12T16:21:04.753674Z
 addr = 0x10601c0
 size = 0x2d6
+name = "?DrawWeaponIcon@CHud@@QAEXXZ"
 
-[stack_vars.-0x898]
-last_change = 2024-07-12T16:10:01.543507Z
-offset = -2200
-name = "titleKey"
-type = "char[4]"
-size = 0x4
+[header]
+last_change = 2024-07-12T16:21:04.753674Z
+name = "?DrawWeaponIcon@CHud@@QAEXXZ"
 addr = 0x10601c0
+
+[header.args]
