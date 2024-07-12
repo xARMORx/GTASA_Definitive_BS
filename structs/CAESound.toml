@@ -1,189 +1,189 @@
-last_change = 2024-07-12T02:27:19.893916Z
+last_change = 2024-07-12T02:27:47.440356Z
 name = "CAESound"
 size = 0x7c
 
-[members.0x0]
-name = "m_wBankSlotId"
-offset = 0x0
+[members.0x2]
+name = "m_wSoundIdInSlot"
+offset = 0x2
 type = "short"
 size = 0x2
 
-[members.0x2]
+[members.0x4]
 name = "m_pBaseAudio"
-offset = 0x2
+offset = 0x4
 type = "CAEAudioEntity *"
 size = 0x8
 
-[members.0xa]
+[members.0xc]
 name = "m_pPhysicalEntity"
-offset = 0xa
+offset = 0xc
 type = "CEntity *"
 size = 0x8
 
-[members.0x12]
+[members.0x14]
 name = "m_dwEvent"
-offset = 0x12
+offset = 0x14
 type = "unsigned int"
 size = 0x4
 
-[members.0x16]
+[members.0x18]
 name = "m_fMaxVolume"
-offset = 0x16
+offset = 0x18
 type = "float"
 size = 0x4
 
-[members.0x1a]
+[members.0x1c]
 name = "m_fVolume"
-offset = 0x1a
+offset = 0x1c
 type = "float"
 size = 0x4
 
-[members.0x1e]
+[members.0x20]
 name = "m_fSoundDistance"
-offset = 0x1e
+offset = 0x20
 type = "float"
 size = 0x4
 
-[members.0x22]
+[members.0x24]
 name = "m_fSpeed"
-offset = 0x22
+offset = 0x24
 type = "float"
 size = 0x4
 
-[members.0x26]
+[members.0x28]
 name = "field_20"
-offset = 0x26
+offset = 0x28
 type = "float"
 size = 0x4
 
-[members.0x2a]
+[members.0x2c]
 name = "m_vCurrPosn"
-offset = 0x2a
+offset = 0x2c
 type = "CVector"
 size = 0xc
 
-[members.0x36]
+[members.0x38]
 name = "m_vPrevPosn"
-offset = 0x36
+offset = 0x38
 type = "CVector"
 size = 0xc
 
-[members.0x42]
+[members.0x44]
 name = "m_dwLastFrameUpdate"
-offset = 0x42
+offset = 0x44
 type = "_DWORD"
 size = 0x4
 
-[members.0x46]
+[members.0x48]
 name = "m_dwCurrTimeUpdate"
-offset = 0x46
+offset = 0x48
 type = "int"
 size = 0x4
 
-[members.0x4a]
+[members.0x4c]
 name = "m_dwPrevTimeUpdate"
-offset = 0x4a
+offset = 0x4c
 type = "int"
 size = 0x4
 
-[members.0x4e]
+[members.0x50]
 name = "m_fCurrCamDist"
-offset = 0x4e
+offset = 0x50
 type = "float"
 size = 0x4
 
-[members.0x52]
+[members.0x54]
 name = "m_fPrevCamDist"
-offset = 0x52
+offset = 0x54
 type = "float"
 size = 0x4
 
-[members.0x56]
+[members.0x58]
 name = "m_fTimeScale"
-offset = 0x56
+offset = 0x58
 type = "float"
 size = 0x4
-
-[members.0x5a]
-name = "field_54"
-offset = 0x5a
-type = "char"
-size = 0x1
-
-[members.0x5b]
-name = "field_55"
-offset = 0x5b
-type = "char"
-size = 0x1
 
 [members.0x5c]
-name = "m_nIndividualEnvironment"
+name = "field_54"
 offset = 0x5c
-type = "unsigned short"
-size = 0x2
+type = "char"
+size = 0x1
+
+[members.0x5d]
+name = "field_55"
+offset = 0x5d
+type = "char"
+size = 0x1
 
 [members.0x5e]
-name = "m_wIsUsed"
+name = "m_nIndividualEnvironment"
 offset = 0x5e
 type = "unsigned short"
 size = 0x2
 
 [members.0x60]
-name = "field_5A"
+name = "m_wIsUsed"
 offset = 0x60
-type = "short"
+type = "unsigned short"
 size = 0x2
 
 [members.0x62]
-name = "m_wPlayPercentage"
+name = "field_5A"
 offset = 0x62
 type = "short"
 size = 0x2
 
 [members.0x64]
-name = "field_5E"
+name = "m_wPlayPercentage"
 offset = 0x64
 type = "short"
 size = 0x2
 
 [members.0x66]
-name = "m_fFinalVolume"
+name = "field_5E"
 offset = 0x66
-type = "float"
-size = 0x4
-
-[members.0x6a]
-name = "m_fFrequency"
-offset = 0x6a
-type = "float"
-size = 0x4
-
-[members.0x6e]
-name = "m_wPlayingState"
-offset = 0x6e
 type = "short"
 size = 0x2
 
+[members.0x68]
+name = "m_fFinalVolume"
+offset = 0x68
+type = "float"
+size = 0x4
+
+[members.0x6c]
+name = "m_fFrequency"
+offset = 0x6c
+type = "float"
+size = 0x4
+
 [members.0x70]
-name = "field_6A"
+name = "m_wPlayingState"
 offset = 0x70
-type = "char[2]"
+type = "short"
 size = 0x2
 
 [members.0x72]
-name = "m_fSoundHeadRoom"
+name = "field_6A"
 offset = 0x72
+type = "char[2]"
+size = 0x2
+
+[members.0x74]
+name = "m_fSoundHeadRoom"
+offset = 0x74
 type = "float"
 size = 0x4
 
-[members.0x76]
+[members.0x78]
 name = "field_70"
-offset = 0x76
+offset = 0x78
 type = "short"
 size = 0x2
 
-[members.0x78]
+[members.0x7a]
 name = "field_72"
-offset = 0x78
-type = ""
+offset = 0x7a
+type = "short"
 size = 0x2
