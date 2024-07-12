@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:02:05.392673Z
+addr = 0xa71db0
+size = 0x191
+name = "_ZN9CSprite2d8DrawRectERK5CRectRK5CRGBA"
+
+[header]
+last_change = 2024-07-12T16:02:05.392673Z
+name = "_ZN9CSprite2d8DrawRectERK5CRectRK5CRGBA"
+addr = 0xa71db0
+
+[header.args]
