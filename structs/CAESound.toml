@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:33:46.809407Z
+last_change = 2024-07-12T02:33:46.810407Z
 name = "CAESound"
 size = 0x8
 
@@ -11,5 +11,11 @@ size = 0x2
 [members.0x2]
 name = "m_wSoundIdInSlot"
 offset = 0x2
-type = ""
+type = "short"
 size = 0x2
+
+[members.0x4]
+name = "field_04"
+offset = 0x4
+type = ""
+size = 0x4
