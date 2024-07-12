@@ -1,0 +1,11 @@
+last_change = 2024-07-12T22:26:18.165597Z
+addr = 0xfbd2b0
+size = 0x32d
+name = "_ZN5CGame24InitialiseWhenRestartingEv"
+
+[header]
+last_change = 2024-07-12T22:26:18.165597Z
+name = "_ZN5CGame24InitialiseWhenRestartingEv"
+addr = 0xfbd2b0
+
+[header.args]
