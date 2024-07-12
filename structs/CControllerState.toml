@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:04.122427Z
+last_change = 2024-07-12T23:53:04.125539Z
 name = "CControllerState"
-size = 0x16
+size = 0x18
 
 [members.0x0]
 name = "LeftStickX"
@@ -65,5 +65,11 @@ size = 0x2
 [members.0x14]
 name = "DPadLeft"
 offset = 0x14
+type = "int16_t"
+size = 0x2
+
+[members.0x16]
+name = "DPadRight"
+offset = 0x16
 type = ""
 size = 0x2
