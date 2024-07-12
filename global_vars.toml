@@ -237,3 +237,9 @@ last_change = 2024-07-12T15:48:24.264503Z
 addr = 0x4118188
 name = "aLeftbuttonvert"
 size = 0x16
+
+[0x4118170]
+last_change = 2024-07-12T15:48:27.084774Z
+addr = 0x4118170
+name = "aHelptextshadow"
+size = 0x13
