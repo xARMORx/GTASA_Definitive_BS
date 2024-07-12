@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.069339Z
+last_change = 2024-07-12T23:54:12.072339Z
 name = "CPad"
 size = 0x158
-
-[members.0x11d]
-name = "bLaneCorrection"
-offset = 0x11d
-type = "uint8_t"
-size = 0x1
 
 [members.0x11e]
 name = "bUsingDebugCamera"
