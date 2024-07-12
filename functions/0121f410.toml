@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:38:12.541056Z
+last_change = 2024-07-12T20:38:12.543056Z
 addr = 0x121f410
 size = 0x756
 
-[stack_vars.-0x168]
-last_change = 2024-07-12T20:38:12.541056Z
-offset = -360
-name = "var_130"
-type = "int"
+[stack_vars.-0x190]
+last_change = 2024-07-12T20:38:12.543056Z
+offset = -400
+name = "a4"
+type = "float"
 size = 0x4
 addr = 0x121f410
