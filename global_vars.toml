@@ -783,3 +783,9 @@ last_change = 2024-07-12T20:41:34.432644Z
 addr = 0x4eac210
 name = "_ZN6CTrain13aStationCoorsE"
 size = 0x4
+
+[0x5571218]
+last_change = 2024-07-12T20:41:53.559571Z
+addr = 0x5571218
+name = "pTrackNodes"
+size = 0x8
