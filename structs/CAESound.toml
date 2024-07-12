@@ -1,5 +1,9 @@
-last_change = 2024-07-12T02:27:08.319582Z
+last_change = 2024-07-12T02:27:08.320581Z
 name = "CAESound"
-size = 0x0
+size = 0x4
 
-[members]
+[members.0x0]
+name = "m_wBankSlotId"
+offset = 0x0
+type = ""
+size = 0x2
