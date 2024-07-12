@@ -1,4 +1,4 @@
-last_change = 2024-07-12T23:53:01.666159Z
+last_change = 2024-07-12T23:53:01.669160Z
 name = "CPad"
 size = 0x11c
 
@@ -89,5 +89,11 @@ size = 0x4
 [members.0x118]
 name = "bRhythm"
 offset = 0x118
+type = "uint8_t"
+size = 0x1
+
+[members.0x119]
+name = "bWheelie"
+offset = 0x119
 type = ""
 size = 0x1
