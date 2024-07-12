@@ -189,3 +189,9 @@ last_change = 2024-07-12T15:48:03.821184Z
 addr = 0x4118240
 name = "aGetplayercontr"
 size = 0x17
+
+[0x4118228]
+last_change = 2024-07-12T15:48:07.235157Z
+addr = 0x4118228
+name = "aGetworldsettin"
+size = 0x10
