@@ -1,111 +1,105 @@
-last_change = 2024-07-12T02:26:34.981674Z
+last_change = 2024-07-12T02:30:56.004968Z
 name = "CAEPedAudioEntity"
-size = 0x190
+size = 0x1a0
 
-[members.0x0]
-name = "vmt"
-offset = 0x0
-type = "CAEAudioEntity"
-size = 0x88
-
-[members.0x88]
+[members.0x90]
 name = "field_7C"
-offset = 0x88
+offset = 0x90
 type = "_BYTE"
 size = 0x1
 
-[members.0x89]
+[members.0x91]
 name = "field_7D"
-offset = 0x89
+offset = 0x91
 type = "char"
 size = 0x1
 
-[members.0x8a]
+[members.0x92]
 name = "field_7E"
-offset = 0x8a
+offset = 0x92
 type = "short"
 size = 0x2
 
-[members.0x8c]
+[members.0x94]
 name = "field_80"
-offset = 0x8c
+offset = 0x94
 type = "int"
 size = 0x4
 
-[members.0x90]
-name = "field_84"
-offset = 0x90
-type = "float"
-size = 0x4
-
-[members.0x94]
-name = "field_88"
-offset = 0x94
-type = "float"
-size = 0x4
-
 [members.0x98]
-name = "field_8C"
+name = "field_84"
 offset = 0x98
+type = "float"
+size = 0x4
+
+[members.0x9c]
+name = "field_88"
+offset = 0x9c
+type = "float"
+size = 0x4
+
+[members.0xa0]
+name = "field_8C"
+offset = 0xa0
 type = "char[8]"
 size = 0x8
 
-[members.0xa0]
+[members.0xa8]
 name = "m_pPed"
-offset = 0xa0
+offset = 0xa8
 type = "CPed *"
 size = 0x8
 
-[members.0xa8]
+[members.0xb0]
 name = "field_98"
-offset = 0xa8
+offset = 0xb0
 type = "char"
 size = 0x1
 
-[members.0xa9]
+[members.0xb1]
 name = "field_99"
-offset = 0xa9
+offset = 0xb1
 type = "char[3]"
 size = 0x3
 
-[members.0xac]
+[members.0xb4]
 name = "field_9C"
-offset = 0xac
+offset = 0xb4
 type = "CAESound *"
 size = 0x8
 
-[members.0xb4]
+[members.0xbc]
 name = "field_A0"
-offset = 0xb4
+offset = 0xbc
 type = "_DWORD"
 size = 0x4
 
-[members.0xb8]
-name = "field_A4"
-offset = 0xb8
-type = "CAESound *"
-size = 0x8
-
 [members.0xc0]
-name = "m_85F438"
+name = "field_A4"
 offset = 0xc0
-type = "CAETwinLoopSoundEntity"
-size = 0xc0
-
-[members.0x180]
-name = "field_150"
-offset = 0x180
 type = "CAESound *"
 size = 0x8
 
-[members.0x188]
+[members.0xc8]
+name = "m_85F438"
+offset = 0xc8
+type = "CAETwinLoopSoundEntity"
+size = 0xc8
+
+[members.0x190]
+name = "field_150"
+offset = 0x190
+type = "CAESound *"
+size = 0x8
+
+[members.0x198]
 name = "field_154"
-offset = 0x188
+offset = 0x198
 type = "float"
 size = 0x4
 
-[members.0x18c]
+[members.0x19c]
 name = "field_158"
-offset = 0x18c
-type = ""
+offset = 0x19c
+type = "float"
 size = 0x4
