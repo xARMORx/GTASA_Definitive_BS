@@ -135,3 +135,9 @@ last_change = 2024-07-12T15:47:34.811792Z
 addr = 0x4118310
 name = "aRadiovolumemul"
 size = 0x15
+
+[0x41182f0]
+last_change = 2024-07-12T15:47:38.059216Z
+addr = 0x41182f0
+name = "aSetlocalizedst"
+size = 0x1b
