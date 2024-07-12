@@ -309,3 +309,9 @@ last_change = 2024-07-12T15:48:51.102989Z
 addr = 0x4118090
 name = "aBackgroundimag_0"
 size = 0xe
+
+[0x4118078]
+last_change = 2024-07-12T15:48:56.116301Z
+addr = 0x4118078
+name = "aBackgroundwidg"
+size = 0x10
