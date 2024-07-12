@@ -249,3 +249,9 @@ last_change = 2024-07-12T15:48:28.673194Z
 addr = 0x4118160
 name = "aStartupsound"
 size = 0xc
+
+[0x4118150]
+last_change = 2024-07-12T15:48:30.526876Z
+addr = 0x4118150
+name = "aExitsound"
+size = 0x9
