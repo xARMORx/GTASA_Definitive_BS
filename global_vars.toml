@@ -369,3 +369,9 @@ last_change = 2024-07-12T16:01:32.029564Z
 addr = 0x549d689
 name = "bEnlargeBackgroundBox"
 size = 0x4
+
+[0x5142510]
+last_change = 2024-07-12T16:02:08.422125Z
+addr = 0x5142510
+name = "qword_5142510"
+size = 0x8
