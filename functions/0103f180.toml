@@ -1,10 +1,12 @@
-last_change = 2024-07-12T04:28:22.515062Z
+last_change = 2024-07-12T04:28:35.791725Z
 addr = 0x103f180
 size = 0x14f
+name = "_ZN6CRadar23DrawRotatingRadarSpriteEP9CSprite2dfffh"
 type = "char"
 
 [header]
-last_change = 2024-07-12T04:26:51.758531Z
+last_change = 2024-07-12T04:28:35.791725Z
+name = "_ZN6CRadar23DrawRotatingRadarSpriteEP9CSprite2dfffh"
 addr = 0x103f180
 type = "char"
 
