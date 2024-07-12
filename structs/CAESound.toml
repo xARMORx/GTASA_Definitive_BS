@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:27:19.873912Z
+last_change = 2024-07-12T02:27:19.874912Z
 name = "CAESound"
-size = 0x54
+size = 0x58
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -89,5 +89,11 @@ size = 0x4
 [members.0x4e]
 name = "m_fCurrCamDist"
 offset = 0x4e
+type = "float"
+size = 0x4
+
+[members.0x52]
+name = "m_fPrevCamDist"
+offset = 0x52
 type = ""
 size = 0x4
