@@ -629,9 +629,9 @@ name = ""
 size = 0x4
 
 [0x4a4974c]
-last_change = 2024-07-12T16:59:52.502830Z
+last_change = 2024-07-12T20:21:05.628088Z
 addr = 0x4a4974c
-name = "w"
+name = "pulseFraction"
 size = 0x4
 
 [0x5071498]
