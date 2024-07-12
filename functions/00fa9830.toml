@@ -1,0 +1,11 @@
+last_change = 2024-07-12T22:42:53.438086Z
+addr = 0xfa9830
+size = 0x8aa
+type = "CPool *"
+
+[header]
+last_change = 2024-07-12T22:42:53.438086Z
+addr = 0xfa9830
+type = "CPool *"
+
+[header.args]
