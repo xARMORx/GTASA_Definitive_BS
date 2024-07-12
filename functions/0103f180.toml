@@ -1,4 +1,4 @@
-last_change = 2024-07-12T04:27:51.427193Z
+last_change = 2024-07-12T04:27:51.442196Z
 addr = 0x103f180
 size = 0x14f
 type = "char"
@@ -19,9 +19,9 @@ size = 0x8
 addr = 0x103f180
 
 [stack_vars.-0x8]
-last_change = 2024-07-12T04:27:51.427193Z
+last_change = 2024-07-12T04:27:51.442196Z
 offset = -8
-name = "arg_28"
+name = "Color"
 type = "CRGBA *"
 size = 0x8
 addr = 0x103f180
