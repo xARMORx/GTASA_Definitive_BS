@@ -1,11 +1,11 @@
-last_change = 2024-07-12T16:10:01.550508Z
+last_change = 2024-07-12T16:10:01.551509Z
 addr = 0x1063060
 size = 0xfaf
 
-[stack_vars.-0x1fb]
-last_change = 2024-07-12T16:10:01.550508Z
-offset = -507
-name = "var_1D0"
-type = "CRect"
-size = 0x10
+[stack_vars.-0x21b]
+last_change = 2024-07-12T16:10:01.551509Z
+offset = -539
+name = "fadeState"
+type = "short"
+size = 0x2
 addr = 0x1063060
