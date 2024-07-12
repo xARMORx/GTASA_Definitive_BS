@@ -1,9 +1,15 @@
-last_change = 2024-07-12T20:18:45.434461Z
+last_change = 2024-07-12T20:18:45.436461Z
 name = "tScriptText"
-size = 0x4
+size = 0x8
 
 [members.0x0]
 name = "letterWidth"
 offset = 0x0
+type = "float"
+size = 0x4
+
+[members.0x4]
+name = "letterHeight"
+offset = 0x4
 type = ""
 size = 0x4
