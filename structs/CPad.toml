@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.573484Z
+last_change = 2024-07-12T23:53:01.577679Z
 name = "CPad"
 size = 0x180
-
-[members.0x164]
-name = "LastTimeTouched1"
-offset = 0x164
-type = "uint32_t"
-size = 0x4
 
 [members.0x168]
 name = "AverageWeapon1"
