@@ -1209,3 +1209,9 @@ last_change = 2024-07-12T22:30:14.899838Z
 addr = 0x5072bf8
 name = "g_fFPS"
 size = 0x8
+
+[0x50704c8]
+last_change = 2024-07-12T22:31:36.961720Z
+addr = 0x50704c8
+name = "_ZN6CTimer13ms_fTimeScaleE_ptr"
+size = 0x4
