@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:25:35.819108Z
+addr = 0x1258250
+size = 0x129c
+
+[stack_vars.-0x1d8]
+last_change = 2024-07-12T20:25:35.819108Z
+offset = -472
+name = "var_1D0"
+type = "CPhysical *"
+size = 0x8
+addr = 0x1258250
