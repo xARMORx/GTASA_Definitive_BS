@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:26:34.808837Z
+last_change = 2024-07-12T02:26:34.809838Z
 name = "CAESound"
 size = 0x7c
-
-[members.0x58]
-name = "m_fTimeScale"
-offset = 0x58
-type = "float"
-size = 0x4
 
 [members.0x5c]
 name = "field_54"
