@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:32:49.338509Z
+last_change = 2024-07-12T02:32:49.339510Z
 name = "CAESound"
 size = 0x80
 
@@ -191,5 +191,11 @@ size = 0x4
 [members.0x7c]
 name = "field_70"
 offset = 0x7c
+type = "short"
+size = 0x2
+
+[members.0x7e]
+name = "field_72"
+offset = 0x7e
 type = ""
 size = 0x2
