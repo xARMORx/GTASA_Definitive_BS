@@ -243,3 +243,9 @@ last_change = 2024-07-12T15:48:27.084774Z
 addr = 0x4118170
 name = "aHelptextshadow"
 size = 0x13
+
+[0x4118160]
+last_change = 2024-07-12T15:48:28.673194Z
+addr = 0x4118160
+name = "aStartupsound"
+size = 0xc
