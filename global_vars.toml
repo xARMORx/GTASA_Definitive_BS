@@ -705,3 +705,9 @@ last_change = 2024-07-12T20:19:43.427573Z
 addr = 0x5242b12
 name = "_externalScriptTriggers_0"
 size = 0x1
+
+[0x4ffe5c8]
+last_change = 2024-07-12T20:19:49.220169Z
+addr = 0x4ffe5c8
+name = "_triggerEntities"
+size = 0x1
