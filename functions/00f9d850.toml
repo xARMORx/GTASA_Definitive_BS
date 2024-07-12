@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:38:12.481043Z
+last_change = 2024-07-12T20:38:12.482043Z
 addr = 0xf9d850
 size = 0x1a0
 
-[stack_vars.-0x18]
-last_change = 2024-07-12T20:38:12.481043Z
-offset = -24
-name = "arg_8"
-type = "float"
+[stack_vars.0x0]
+last_change = 2024-07-12T20:38:12.482043Z
+offset = 0x0
+name = "arg_20"
+type = "int"
 size = 0x4
 addr = 0xf9d850
