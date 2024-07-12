@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:16:00.483379Z
+last_change = 2024-07-12T16:19:38.277487Z
 addr = 0x10604a0
 size = 0x328
 type = "void"
@@ -9,3 +9,11 @@ addr = 0x10604a0
 type = "void"
 
 [header.args]
+
+[stack_vars.-0x8]
+last_change = 2024-07-12T16:19:38.277487Z
+offset = -8
+name = "arg_8"
+type = "unsigned int"
+size = 0x4
+addr = 0x10604a0
