@@ -827,10 +827,10 @@ name = ""
 size = 0x11c
 
 [0x55711b0]
-last_change = 2024-07-12T20:42:23.525806Z
+last_change = 2024-07-12T20:43:20.294676Z
 addr = 0x55711b0
-name = "NumTrackNodes"
-size = 0x64
+name = "dword_55711B0"
+size = 0x4
 
 [0x5571238]
 last_change = 2024-07-12T20:42:40.346674Z
