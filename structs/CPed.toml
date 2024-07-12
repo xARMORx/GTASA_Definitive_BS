@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:26:34.988675Z
+last_change = 2024-07-12T02:26:34.990765Z
 name = "CPed"
 size = 0xa46
-
-[members.0x588]
-name = "m_pPlayerData"
-offset = 0x588
-type = "CPlayerData *"
-size = 0x8
 
 [members.0x590]
 name = "m_nCreatedBy"
