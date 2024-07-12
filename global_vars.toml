@@ -507,3 +507,9 @@ last_change = 2024-07-12T16:05:08.682021Z
 addr = 0x549d68a
 name = "m_bFontRightAlign"
 size = 0x1
+
+[0x549d6a0]
+last_change = 2024-07-12T16:05:25.958306Z
+addr = 0x549d6a0
+name = "m_fRightJustifyWrap"
+size = 0x4
