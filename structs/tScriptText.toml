@@ -1,6 +1,6 @@
-last_change = 2024-07-12T20:18:45.478471Z
+last_change = 2024-07-12T20:18:45.481472Z
 name = "tScriptText"
-size = 0x2c
+size = 0x30
 
 [members.0x0]
 name = "letterWidth"
@@ -119,5 +119,11 @@ size = 0x1
 [members.0x28]
 name = "font"
 offset = 0x28
+type = "int"
+size = 0x4
+
+[members.0x2c]
+name = "xPosition"
+offset = 0x2c
 type = ""
 size = 0x4
