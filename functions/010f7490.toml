@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:39.630536Z
+last_change = 2024-07-12T20:22:39.633537Z
 addr = 0x10f7490
 size = 0x740
 
@@ -48,4 +48,12 @@ offset = -224
 name = "pulsePeriod"
 type = "float"
 size = 0x4
+addr = 0x10f7490
+
+[stack_vars.-0xd8]
+last_change = 2024-07-12T20:22:39.633537Z
+offset = -216
+name = "var_B0"
+type = "short"
+size = 0x2
 addr = 0x10f7490
