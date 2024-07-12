@@ -57,3 +57,9 @@ last_change = 2024-07-12T04:28:55.192579Z
 addr = 0x4ea9de0
 name = "px"
 size = 0x8
+
+[0x556bb88]
+last_change = 2024-07-12T04:35:16.248136Z
+addr = 0x556bb88
+name = "FrontEndMenuManager"
+size = 0x8
