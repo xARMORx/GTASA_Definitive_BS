@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:04.160291Z
+last_change = 2024-07-12T23:53:04.163970Z
 name = "CControllerState"
-size = 0x2c
+size = 0x2e
 
 [members.0x0]
 name = "LeftStickX"
@@ -131,5 +131,11 @@ size = 0x2
 [members.0x2a]
 name = "m_bPedWalk"
 offset = 0x2a
+type = "int16_t"
+size = 0x2
+
+[members.0x2c]
+name = "m_bVehicleMouseLook"
+offset = 0x2c
 type = ""
 size = 0x2
