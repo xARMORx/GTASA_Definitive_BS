@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.008325Z
+last_change = 2024-07-12T23:54:12.011325Z
 name = "CPad"
 size = 0x158
-
-[members.0x64]
-name = "SteeringLeftRightBuffer"
-offset = 0x64
-type = "int16_t[10]"
-size = 0x14
 
 [members.0x78]
 name = "DrunkDrivingBufferUsed"
