@@ -1,5 +1,9 @@
-last_change = 2024-07-12T23:53:04.083616Z
+last_change = 2024-07-12T23:53:04.087044Z
 name = "CControllerState"
-size = 0x0
+size = 0x2
 
-[members]
+[members.0x0]
+name = "LeftStickX"
+offset = 0x0
+type = ""
+size = 0x2
