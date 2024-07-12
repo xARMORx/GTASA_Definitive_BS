@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:04:09.417167Z
+last_change = 2024-07-12T16:04:09.419166Z
 name = "CFontChar"
 size = 0x30
 
@@ -89,5 +89,11 @@ size = 0x2
 [members.0x2e]
 name = "m_nOutline"
 offset = 0x2e
+type = "char"
+size = 0x1
+
+[members.0x2f]
+name = "_pad2"
+offset = 0x2f
 type = ""
 size = 0x1
