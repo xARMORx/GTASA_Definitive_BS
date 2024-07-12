@@ -195,3 +195,9 @@ last_change = 2024-07-12T15:48:07.235157Z
 addr = 0x4118228
 name = "aGetworldsettin"
 size = 0x10
+
+[0x4118218]
+last_change = 2024-07-12T15:48:08.937815Z
+addr = 0x4118218
+name = "aHandleback_0"
+size = 0xa
