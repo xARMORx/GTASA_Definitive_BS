@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:34:23.743293Z
+last_change = 2024-07-12T02:34:23.744293Z
 name = "CEntity"
 size = 0x60
-
-[members.0x56]
-name = "m_iplIndex"
-offset = 0x56
-type = "char"
-size = 0x1
 
 [members.0x57]
 name = "field_57"
