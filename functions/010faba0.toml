@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:12:39.033250Z
+last_change = 2024-07-12T16:12:39.075260Z
 addr = 0x10faba0
 size = 0x1a7
 type = "int"
@@ -19,9 +19,9 @@ size = 0x4
 addr = 0x10faba0
 
 [stack_vars.-0x8]
-last_change = 2024-07-12T16:10:02.528673Z
+last_change = 2024-07-12T16:12:39.075260Z
 offset = -8
 name = "a5"
-type = "int"
-size = 0x4
+type = "RwRGBA *"
+size = 0x8
 addr = 0x10faba0
