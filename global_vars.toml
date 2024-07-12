@@ -51,9 +51,3 @@ last_change = 2024-07-12T04:28:22.564073Z
 addr = 0x4a49eac
 name = "height"
 size = 0x4
-
-[0x4ea9de0]
-last_change = 2024-07-12T04:28:55.192579Z
-addr = 0x4ea9de0
-name = "px"
-size = 0x8
