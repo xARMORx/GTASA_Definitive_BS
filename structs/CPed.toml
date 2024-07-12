@@ -2,12 +2,6 @@ last_change = 2024-07-12T02:31:05.626512Z
 name = "CPed"
 size = 0xa4e
 
-[members.0x9ec]
-name = "m_dwWeaponModelId"
-offset = 0x9ec
-type = "int"
-size = 0x4
-
 [members.0x9f0]
 name = "field_9F8"
 offset = 0x9f0
