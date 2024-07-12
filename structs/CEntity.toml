@@ -29,5 +29,11 @@ size = 0x4
 [members.0x38]
 name = "m_nRandomSeed"
 offset = 0x38
+type = "unsigned short"
+size = 0x2
+
+[members.0x3a]
+name = "m_nModelIndex"
+offset = 0x3a
 type = ""
 size = 0x2
