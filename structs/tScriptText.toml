@@ -1,6 +1,6 @@
-last_change = 2024-07-12T20:18:45.461466Z
+last_change = 2024-07-12T20:18:45.463467Z
 name = "tScriptText"
-size = 0x22
+size = 0x23
 
 [members.0x0]
 name = "letterWidth"
@@ -77,5 +77,11 @@ size = 0x4
 [members.0x21]
 name = "shadowType"
 offset = 0x21
+type = "char"
+size = 0x1
+
+[members.0x22]
+name = "outlineType"
+offset = 0x22
 type = ""
 size = 0x1
