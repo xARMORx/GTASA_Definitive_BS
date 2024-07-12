@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:03.955434Z
+last_change = 2024-07-12T23:53:03.959432Z
 name = "CControllerState"
 size = 0x30
-
-[members.0x1a]
-name = "Select"
-offset = 0x1a
-type = "int16_t"
-size = 0x2
 
 [members.0x1c]
 name = "ButtonSquare"
