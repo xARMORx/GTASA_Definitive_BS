@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:32:35.325185Z
+last_change = 2024-07-12T02:32:48.086284Z
 name = "CPed"
 size = 0xa2e
-
-[members.0x0]
-name = "physical"
-offset = 0x0
-type = "CPhysical"
-size = 0x1a0
 
 [members.0x1a0]
 name = "m_pedAudio"
@@ -269,5 +263,5 @@ size = 0x3f
 [members.0xa2c]
 name = "m_wSpecialModelIndex"
 offset = 0xa2c
-type = ""
+type = "unsigned short"
 size = 0x2
