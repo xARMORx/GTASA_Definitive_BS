@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:33:46.961441Z
+last_change = 2024-07-12T02:33:46.962441Z
 name = "CPed"
 size = 0xa0e
-
-[members.0x694]
-name = "field_6DE"
-offset = 0x694
-type = "char[56]"
-size = 0x38
 
 [members.0x6cc]
 name = "m_fHealth"
