@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:26:34.945248Z
+last_change = 2024-07-12T02:26:34.947250Z
 name = "CAEPedAudioEntity"
 size = 0x1a0
-
-[members.0x89]
-name = "field_7D"
-offset = 0x89
-type = "char"
-size = 0x1
 
 [members.0x8a]
 name = "field_7E"
