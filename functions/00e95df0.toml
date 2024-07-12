@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:48:54.563960Z
+addr = 0xe95df0
+size = 0x13a3
+name = "_ZN12CAudioEngine17ResetSoundEffectsEv"
+
+[header]
+last_change = 2024-07-12T20:48:54.563960Z
+name = "_ZN12CAudioEngine17ResetSoundEffectsEv"
+addr = 0xe95df0
+
+[header.args]
