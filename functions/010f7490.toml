@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:39.625017Z
+last_change = 2024-07-12T20:22:39.627534Z
 addr = 0x10f7490
 size = 0x740
 
@@ -40,4 +40,12 @@ offset = -232
 name = "a"
 type = "short"
 size = 0x2
+addr = 0x10f7490
+
+[stack_vars.-0xe0]
+last_change = 2024-07-12T20:22:39.627534Z
+offset = -224
+name = "var_B8"
+type = "float"
+size = 0x4
 addr = 0x10f7490
