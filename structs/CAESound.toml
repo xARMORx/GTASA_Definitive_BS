@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:27:47.458359Z
+last_change = 2024-07-12T02:27:47.459359Z
 name = "CAESound"
 size = 0x7c
-
-[members.0x4c]
-name = "m_dwPrevTimeUpdate"
-offset = 0x4c
-type = "int"
-size = 0x4
 
 [members.0x50]
 name = "m_fCurrCamDist"
