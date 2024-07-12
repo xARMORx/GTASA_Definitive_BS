@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:04.128473Z
+last_change = 2024-07-12T23:53:04.132600Z
 name = "CControllerState"
-size = 0x1a
+size = 0x1c
 
 [members.0x0]
 name = "LeftStickX"
@@ -77,5 +77,11 @@ size = 0x2
 [members.0x18]
 name = "Start"
 offset = 0x18
+type = "int16_t"
+size = 0x2
+
+[members.0x1a]
+name = "Select"
+offset = 0x1a
 type = ""
 size = 0x2
