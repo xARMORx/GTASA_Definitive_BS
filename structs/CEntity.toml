@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:24:34.065481Z
+last_change = 2024-07-12T02:24:34.067483Z
 name = "CEntity"
 size = 0x60
-
-[members.0x34]
-name = "field_34"
-offset = 0x34
-type = "char[4]"
-size = 0x4
 
 [members.0x38]
 name = "m_nRandomSeed"
