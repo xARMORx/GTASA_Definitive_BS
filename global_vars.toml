@@ -159,3 +159,9 @@ last_change = 2024-07-12T15:47:48.069594Z
 addr = 0x41182b0
 name = "aUpdatelanguage"
 size = 0xe
+
+[0x4118298]
+last_change = 2024-07-12T15:47:49.824569Z
+addr = 0x4118298
+name = "aIswindowinfore"
+size = 0x14
