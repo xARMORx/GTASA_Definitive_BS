@@ -1,6 +1,6 @@
-last_change = 2024-07-12T20:18:45.450465Z
+last_change = 2024-07-12T20:18:45.452465Z
 name = "tScriptText"
-size = 0x18
+size = 0x1c
 
 [members.0x0]
 name = "letterWidth"
@@ -53,5 +53,11 @@ size = 0x4
 [members.0x14]
 name = "lineWidth"
 offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "backgroundBoxColor"
+offset = 0x18
 type = ""
 size = 0x4
