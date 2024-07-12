@@ -1263,3 +1263,9 @@ last_change = 2024-07-12T22:52:39.506508Z
 addr = 0x4ffe5b8
 name = "_ZN11CTheScripts12pIdleScriptsE"
 size = 0x8
+
+[0x522cda4]
+last_change = 2024-07-12T22:52:55.206864Z
+addr = 0x522cda4
+name = ""
+size = 0x104
