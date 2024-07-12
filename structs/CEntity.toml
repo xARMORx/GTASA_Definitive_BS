@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:07:07.869816Z
+last_change = 2024-07-12T02:07:07.870816Z
 name = "CEntity"
-size = 0x48
+size = 0x4b
 
 [members.0x0]
 name = "placeable"
@@ -47,5 +47,11 @@ size = 0x4
 [members.0x40]
 name = "m_pReferences"
 offset = 0x40
-type = ""
+type = "CReference *"
 size = 0x8
+
+[members.0x48]
+name = "field_48"
+offset = 0x48
+type = ""
+size = 0x3
