@@ -365,10 +365,10 @@ name = "_ZN5CFont5ColorE"
 size = 0x4
 
 [0x549d689]
-last_change = 2024-07-12T16:03:16.287639Z
+last_change = 2024-07-12T16:03:47.515160Z
 addr = 0x549d689
-name = "m_bFontBackground"
-size = 0x4
+name = "unk_549D689"
+size = 0x1
 
 [0x5142510]
 last_change = 2024-07-12T16:02:08.422125Z
