@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.098650Z
+last_change = 2024-07-12T23:54:12.102651Z
 name = "CPad"
 size = 0x158
-
-[members.0x12c]
-name = "bApplyBrakes"
-offset = 0x12c
-type = "uint8_t"
-size = 0x1
 
 [members.0x12d]
 name = "bDisablePlayerEnterCar"
