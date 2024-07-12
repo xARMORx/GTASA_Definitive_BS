@@ -981,3 +981,9 @@ last_change = 2024-07-12T20:42:40.271086Z
 addr = 0x557126c
 name = "dword_557126C"
 size = 0x4
+
+[0x5571270]
+last_change = 2024-07-12T20:42:40.273086Z
+addr = 0x5571270
+name = "dword_5571270"
+size = 0x4
