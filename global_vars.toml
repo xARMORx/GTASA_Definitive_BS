@@ -327,3 +327,9 @@ last_change = 2024-07-12T15:51:57.259217Z
 addr = 0x5001a56
 name = "_ZN11CTheScripts11bDisplayHudE"
 size = 0x1
+
+[0x507185c]
+last_change = 2024-07-12T15:54:08.226380Z
+addr = 0x507185c
+name = "_ZN4CHud11m_ZoneStateE"
+size = 0x4
