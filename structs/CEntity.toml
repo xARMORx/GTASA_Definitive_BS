@@ -2,12 +2,6 @@ last_change = 2024-07-12T02:07:07.864092Z
 name = "CEntity"
 size = 0x60
 
-[members.0x57]
-name = "field_57"
-offset = 0x57
-type = "char[3]"
-size = 0x3
-
 [members.0x5a]
 name = "m_nTypeStatus"
 offset = 0x5a
