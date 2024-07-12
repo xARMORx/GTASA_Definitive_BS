@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:19:38.317495Z
+last_change = 2024-07-12T16:19:38.322361Z
 addr = 0x1063060
 size = 0xfaf
 
@@ -22,6 +22,14 @@ addr = 0x1063060
 last_change = 2024-07-12T16:19:38.317495Z
 offset = -16
 name = "arg_8"
+type = "unsigned int"
+size = 0x4
+addr = 0x1063060
+
+[stack_vars.-0x210]
+last_change = 2024-07-12T16:19:38.322361Z
+offset = -528
+name = "var_1E8"
 type = "unsigned int"
 size = 0x4
 addr = 0x1063060
