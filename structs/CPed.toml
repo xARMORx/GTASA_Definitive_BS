@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:30:56.110996Z
+last_change = 2024-07-12T02:30:56.111996Z
 name = "CPed"
-size = 0x72c
+size = 0x730
 
 [members.0x0]
 name = "physical"
@@ -131,5 +131,11 @@ size = 0x4
 [members.0x718]
 name = "field_718"
 offset = 0x718
-type = ""
+type = "char[20]"
 size = 0x14
+
+[members.0x72c]
+name = "m_fHeadingChangeRate"
+offset = 0x72c
+type = ""
+size = 0x4
