@@ -231,3 +231,9 @@ last_change = 2024-07-12T15:48:22.187666Z
 addr = 0x41181a0
 name = "aGetlocalizedst"
 size = 0x19
+
+[0x4118188]
+last_change = 2024-07-12T15:48:24.264503Z
+addr = 0x4118188
+name = "aLeftbuttonvert"
+size = 0x16
