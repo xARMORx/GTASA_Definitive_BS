@@ -75,3 +75,9 @@ last_change = 2024-07-12T15:46:40.809908Z
 addr = 0x4118410
 name = "aLoadingscreen"
 size = 0xd
+
+[0x4118420]
+last_change = 2024-07-12T15:46:46.210646Z
+addr = 0x4118420
+name = "aPremenulegalsc"
+size = 0x12
