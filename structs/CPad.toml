@@ -1,9 +1,15 @@
-last_change = 2024-07-12T23:53:01.618286Z
+last_change = 2024-07-12T23:53:01.621577Z
 name = "CPad"
-size = 0x30
+size = 0x60
 
 [members.0x0]
 name = "NewState"
 offset = 0x0
+type = "CControllerState"
+size = 0x30
+
+[members.0x30]
+name = "OldState"
+offset = 0x30
 type = ""
 size = 0x30
