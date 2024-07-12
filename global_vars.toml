@@ -633,3 +633,9 @@ last_change = 2024-07-12T16:59:52.502830Z
 addr = 0x4a4974c
 name = "w"
 size = 0x4
+
+[0x5071498]
+last_change = 2024-07-12T20:14:26.073221Z
+addr = 0x5071498
+name = "ms_fTimeStepNonClipped"
+size = 0x4
