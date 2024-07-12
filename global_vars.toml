@@ -801,3 +801,9 @@ last_change = 2024-07-12T20:42:06.612860Z
 addr = 0x5571228
 name = "qword_5571228"
 size = 0x8
+
+[0x5571230]
+last_change = 2024-07-12T20:42:06.615860Z
+addr = 0x5571230
+name = "qword_5571230"
+size = 0x8
