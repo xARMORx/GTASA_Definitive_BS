@@ -2,10 +2,10 @@ last_change = 2024-07-12T20:22:12.730884Z
 addr = 0x10f7490
 size = 0x740
 
-[stack_vars.-0x100]
+[stack_vars.-0x88]
 last_change = 2024-07-12T20:22:12.730884Z
-offset = -256
-name = "var_D8"
-type = "unsigned char"
-size = 0x1
+offset = -136
+name = "var_60"
+type = "CVector"
+size = 0xc
 addr = 0x10f7490
