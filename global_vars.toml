@@ -1203,3 +1203,9 @@ last_change = 2024-07-12T22:29:59.908551Z
 addr = 0x5553458
 name = "_renderTimerPauseCount"
 size = 0x4
+
+[0x5072bf8]
+last_change = 2024-07-12T22:30:14.899838Z
+addr = 0x5072bf8
+name = "g_fFPS"
+size = 0x8
