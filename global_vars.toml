@@ -723,3 +723,9 @@ last_change = 2024-07-12T20:24:21.703143Z
 addr = 0x52045b0
 name = "byte_52045B0"
 size = 0xc
+
+[0x5570370]
+last_change = 2024-07-12T20:25:00.912725Z
+addr = 0x5570370
+name = "_ZN9CColStore11ms_pColPoolE"
+size = 0x8
