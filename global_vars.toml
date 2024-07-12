@@ -93,3 +93,9 @@ last_change = 2024-07-12T15:47:11.978723Z
 addr = 0x41183c8
 name = "aDialogsampleso"
 size = 0x11
+
+[0x41183b8]
+last_change = 2024-07-12T15:47:15.152916Z
+addr = 0x41183b8
+name = "aSfxsamplesound"
+size = 0xe
