@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.015326Z
+last_change = 2024-07-12T23:54:12.018327Z
 name = "CPad"
 size = 0x158
-
-[members.0x7c]
-name = "PCTempKeyState"
-offset = 0x7c
-type = "CControllerState"
-size = 0x30
 
 [members.0xac]
 name = "PCTempJoyState"
