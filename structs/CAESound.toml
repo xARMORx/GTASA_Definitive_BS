@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:27:47.440356Z
+last_change = 2024-07-12T02:27:47.442356Z
 name = "CAESound"
 size = 0x7c
-
-[members.0x2]
-name = "m_wSoundIdInSlot"
-offset = 0x2
-type = "short"
-size = 0x2
 
 [members.0x4]
 name = "m_pBaseAudio"
