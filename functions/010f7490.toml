@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:22:12.732884Z
+last_change = 2024-07-12T20:22:12.733885Z
 addr = 0x10f7490
 size = 0x740
 
-[stack_vars.-0xd0]
-last_change = 2024-07-12T20:22:12.732884Z
-offset = -208
-name = "var_A8"
+[stack_vars.-0xe0]
+last_change = 2024-07-12T20:22:12.733885Z
+offset = -224
+name = "pulseFraction"
 type = "float"
 size = 0x4
 addr = 0x10f7490
