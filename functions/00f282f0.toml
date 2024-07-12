@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:23:31.593534Z
+addr = 0xf282f0
+size = 0x1f4
+type = "void"
+
+[header]
+last_change = 2024-07-12T20:23:31.593534Z
+addr = 0xf282f0
+type = "void"
+
+[header.args]
