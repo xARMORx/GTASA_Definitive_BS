@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:39.622017Z
+last_change = 2024-07-12T20:22:39.625017Z
 addr = 0x10f7490
 size = 0x740
 
@@ -35,9 +35,9 @@ size = 0x1
 addr = 0x10f7490
 
 [stack_vars.-0xe8]
-last_change = 2024-07-12T20:22:39.622017Z
+last_change = 2024-07-12T20:22:39.625017Z
 offset = -232
-name = "var_C0"
+name = "a"
 type = "short"
 size = 0x2
 addr = 0x10f7490
