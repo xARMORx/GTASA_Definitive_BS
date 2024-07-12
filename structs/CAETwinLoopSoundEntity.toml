@@ -1,105 +1,99 @@
-last_change = 2024-07-12T02:26:34.941248Z
+last_change = 2024-07-12T02:33:46.835413Z
 name = "CAETwinLoopSoundEntity"
-size = 0xc0
+size = 0xc8
 
-[members.0x0]
-name = "audio"
-offset = 0x0
-type = "CAEAudioEntity"
-size = 0x88
-
-[members.0x88]
+[members.0x90]
 name = "m_wBankSlotId"
-offset = 0x88
+offset = 0x90
 type = "short"
 size = 0x2
 
-[members.0x8a]
+[members.0x92]
 name = "m_wSoundType"
-offset = 0x8a
+offset = 0x92
 type = "short[2]"
 size = 0x4
 
-[members.0x8e]
+[members.0x96]
 name = "_pad1"
-offset = 0x8e
+offset = 0x96
 type = "char[2]"
 size = 0x2
 
-[members.0x90]
+[members.0x98]
 name = "m_pAudioEntity"
-offset = 0x90
+offset = 0x98
 type = "CAEAudioEntity *"
 size = 0x8
 
-[members.0x98]
+[members.0xa0]
 name = "field_88"
-offset = 0x98
+offset = 0xa0
 type = "_WORD"
 size = 0x2
 
-[members.0x9a]
-name = "field_8A"
-offset = 0x9a
-type = "short"
-size = 0x2
-
-[members.0x9c]
-name = "field_8C"
-offset = 0x9c
-type = "short"
-size = 0x2
-
-[members.0x9e]
-name = "m_wPlayTimeMin"
-offset = 0x9e
-type = "short"
-size = 0x2
-
-[members.0xa0]
-name = "m_wPlayTimeMax"
-offset = 0xa0
-type = "short"
-size = 0x2
-
 [members.0xa2]
-name = "_pad2"
+name = "field_8A"
 offset = 0xa2
-type = "char[2]"
+type = "short"
 size = 0x2
 
 [members.0xa4]
-name = "m_dwTimeToSwapSounds"
+name = "field_8C"
 offset = 0xa4
-type = "int"
-size = 0x4
-
-[members.0xa8]
-name = "m_bPlayingFirstSound"
-offset = 0xa8
-type = "char"
-size = 0x1
-
-[members.0xa9]
-name = "_pad3"
-offset = 0xa9
-type = "char"
-size = 0x1
-
-[members.0xaa]
-name = "m_wStartingPlayPercentage"
-offset = 0xaa
-type = "short[2]"
-size = 0x4
-
-[members.0xae]
-name = "field_9E"
-offset = 0xae
 type = "short"
 size = 0x2
 
+[members.0xa6]
+name = "m_wPlayTimeMin"
+offset = 0xa6
+type = "short"
+size = 0x2
+
+[members.0xa8]
+name = "m_wPlayTimeMax"
+offset = 0xa8
+type = "short"
+size = 0x2
+
+[members.0xaa]
+name = "_pad2"
+offset = 0xaa
+type = "char[2]"
+size = 0x2
+
+[members.0xac]
+name = "m_dwTimeToSwapSounds"
+offset = 0xac
+type = "int"
+size = 0x4
+
 [members.0xb0]
-name = "m_apSounds"
+name = "m_bPlayingFirstSound"
 offset = 0xb0
-type = ""
+type = "char"
+size = 0x1
+
+[members.0xb1]
+name = "_pad3"
+offset = 0xb1
+type = "char"
+size = 0x1
+
+[members.0xb2]
+name = "m_wStartingPlayPercentage"
+offset = 0xb2
+type = "short[2]"
+size = 0x4
+
+[members.0xb6]
+name = "field_9E"
+offset = 0xb6
+type = "short"
+size = 0x2
+
+[members.0xb8]
+name = "m_apSounds"
+offset = 0xb8
+type = "CAESound *[2]"
 size = 0x10
