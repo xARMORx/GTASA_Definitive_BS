@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:21:05.582295Z
+last_change = 2024-07-12T20:21:05.585295Z
 addr = 0x10f73b0
 size = 0xd5
 name = "_ZN10C3dMarkers14PlaceMarkerSetEjtR7CVectorfhhhhtfs"
@@ -50,4 +50,12 @@ offset = -24
 name = "pulsePeriod"
 type = "short"
 size = 0x2
+addr = 0x10f73b0
+
+[stack_vars.-0x10]
+last_change = 2024-07-12T20:21:05.585295Z
+offset = -16
+name = "arg_48"
+type = "float"
+size = 0x4
 addr = 0x10f73b0
