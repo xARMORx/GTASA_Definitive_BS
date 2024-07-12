@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:21:37.082861Z
+last_change = 2024-07-12T16:21:37.084862Z
 name = "CWeaponInfo"
-size = 0x10
+size = 0x14
 
 [members.0x0]
 name = "m_eFireType"
@@ -23,5 +23,11 @@ size = 0x4
 [members.0xc]
 name = "dwModelId1"
 offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "dwModelId2"
+offset = 0x10
 type = ""
 size = 0x4
