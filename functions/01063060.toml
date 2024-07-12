@@ -1,11 +1,11 @@
-last_change = 2024-07-12T16:10:01.551509Z
+last_change = 2024-07-12T16:10:01.552509Z
 addr = 0x1063060
 size = 0xfaf
 
-[stack_vars.-0x21b]
-last_change = 2024-07-12T16:10:01.551509Z
-offset = -539
-name = "fadeState"
+[stack_vars.-0x217]
+last_change = 2024-07-12T16:10:01.552509Z
+offset = -535
+name = "titleKey"
 type = "short"
 size = 0x2
 addr = 0x1063060
