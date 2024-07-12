@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:09:56.783120Z
+last_change = 2024-07-12T16:10:02.528673Z
 addr = 0x10faba0
 size = 0x1a7
 type = "void"
@@ -15,5 +15,13 @@ last_change = 2024-07-12T16:09:56.781119Z
 offset = 0x0
 name = "bDrawBox"
 type = "float"
+size = 0x4
+addr = 0x10faba0
+
+[stack_vars.-0x8]
+last_change = 2024-07-12T16:10:02.528673Z
+offset = -8
+name = "a5"
+type = "int"
 size = 0x4
 addr = 0x10faba0
