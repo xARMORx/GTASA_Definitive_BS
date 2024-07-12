@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:38:05.666374Z
+last_change = 2024-07-12T20:38:05.669374Z
 addr = 0x10f63c0
 size = 0xfe4
 name = "_ZN10C3dMarkers11PlaceMarkerEjtR7CVectorfhhhhtfsfffb"
@@ -154,4 +154,12 @@ offset = -600
 name = "y"
 type = "long long"
 size = 0x8
+addr = 0x10f63c0
+
+[stack_vars.-0x250]
+last_change = 2024-07-12T20:38:05.669374Z
+offset = -592
+name = "var_1B8"
+type = "float"
+size = 0x4
 addr = 0x10f63c0
