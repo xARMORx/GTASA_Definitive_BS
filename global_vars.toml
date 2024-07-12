@@ -1107,3 +1107,9 @@ last_change = 2024-07-12T20:42:40.317666Z
 addr = 0x55712e8
 name = "qword_55712E8"
 size = 0x8
+
+[0x55712f0]
+last_change = 2024-07-12T20:42:40.319667Z
+addr = 0x55712f0
+name = "qword_55712F0"
+size = 0x8
