@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:27:19.849907Z
+last_change = 2024-07-12T02:27:19.850907Z
 name = "CAESound"
 size = 0x7c
-
-[members.0x5a]
-name = "field_54"
-offset = 0x5a
-type = "char"
-size = 0x1
 
 [members.0x5b]
 name = "field_55"
