@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:33:46.925433Z
+last_change = 2024-07-12T02:33:46.926433Z
 name = "CAETwinLoopSoundEntity"
-size = 0x94
+size = 0x98
 
 [members.0x0]
 name = "audio"
@@ -65,5 +65,11 @@ size = 0x2
 [members.0x92]
 name = "_pad2"
 offset = 0x92
-type = ""
+type = "char[2]"
 size = 0x2
+
+[members.0x94]
+name = "m_dwTimeToSwapSounds"
+offset = 0x94
+type = ""
+size = 0x4
