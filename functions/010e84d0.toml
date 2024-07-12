@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:19:48.649434Z
+addr = 0x10e84d0
+size = 0x5b
+name = "_ZN5CFont12SetDropColorE5CRGBA"
+
+[header]
+last_change = 2024-07-12T16:19:48.649434Z
+name = "_ZN5CFont12SetDropColorE5CRGBA"
+addr = 0x10e84d0
+
+[header.args]
