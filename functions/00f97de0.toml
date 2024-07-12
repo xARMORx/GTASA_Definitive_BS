@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:38:03.632337Z
+last_change = 2024-07-12T20:38:03.633338Z
 addr = 0xf97de0
 size = 0x2c38
-type = "bool"
 
-[header]
-last_change = 2024-07-12T20:38:03.632337Z
+[stack_vars.-0xb8]
+last_change = 2024-07-12T20:38:03.633338Z
+offset = -184
+name = "z"
+type = "float"
+size = 0x4
 addr = 0xf97de0
-type = "bool"
-
-[header.args]
