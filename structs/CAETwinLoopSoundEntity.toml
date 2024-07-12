@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:24:32.061897Z
+last_change = 2024-07-12T02:24:32.062982Z
 name = "CAETwinLoopSoundEntity"
-size = 0xa2
+size = 0xa4
 
 [members.0x0]
 name = "audio"
@@ -35,5 +35,11 @@ size = 0x8
 [members.0xa0]
 name = "field_88"
 offset = 0xa0
+type = "_WORD"
+size = 0x2
+
+[members.0xa2]
+name = "field_8A"
+offset = 0xa2
 type = ""
 size = 0x2
