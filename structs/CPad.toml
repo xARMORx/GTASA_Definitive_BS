@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.085813Z
+last_change = 2024-07-12T23:54:12.088814Z
 name = "CPad"
 size = 0x158
-
-[members.0x122]
-name = "bStopRhythmSprites"
-offset = 0x122
-type = "uint8_t"
-size = 0x1
 
 [members.0x123]
 name = "bDoorsLocked"
