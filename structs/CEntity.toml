@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:34:23.749294Z
+last_change = 2024-07-12T02:34:23.750294Z
 name = "CEntity"
-size = 0x38
+size = 0x40
 
 [members.0x0]
 name = "placeable"
@@ -23,5 +23,11 @@ size = 0x4
 [members.0x34]
 name = "field_34"
 offset = 0x34
-type = ""
+type = "char[4]"
 size = 0x4
+
+[members.0x38]
+name = "m_nRandomSeed"
+offset = 0x38
+type = ""
+size = 0x2
