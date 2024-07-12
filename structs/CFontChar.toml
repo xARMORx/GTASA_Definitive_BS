@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:04:09.407164Z
+last_change = 2024-07-12T16:04:09.409165Z
 name = "CFontChar"
-size = 0x20
+size = 0x28
 
 [members.0x0]
 name = "m_cLetter"
@@ -47,5 +47,11 @@ size = 0x4
 [members.0x1c]
 name = "m_fSlant"
 offset = 0x1c
-type = ""
+type = "float"
 size = 0x4
+
+[members.0x20]
+name = "m_vSlanRefPoint"
+offset = 0x20
+type = ""
+size = 0x8
