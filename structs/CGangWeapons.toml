@@ -1,6 +1,6 @@
-last_change = 2024-07-12T20:34:51.301853Z
+last_change = 2024-07-12T20:34:51.303853Z
 name = "CGangWeapons"
-size = 0x8
+size = 0xc
 
 [members.0x0]
 name = "field_0"
@@ -17,5 +17,11 @@ size = 0x3
 [members.0x4]
 name = "field_4"
 offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "field_8"
+offset = 0x8
 type = ""
 size = 0x4
