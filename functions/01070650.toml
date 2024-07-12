@@ -1,11 +1,11 @@
-last_change = 2024-07-12T16:10:01.557510Z
+last_change = 2024-07-12T16:10:01.558511Z
 addr = 0x1070650
 size = 0x6f7
 
-[stack_vars.-0xb]
-last_change = 2024-07-12T16:10:01.557510Z
-offset = -11
-name = "fadeState"
+[stack_vars.-0x13]
+last_change = 2024-07-12T16:10:01.558511Z
+offset = -19
+name = "rgba"
 type = "short"
 size = 0x2
 addr = 0x1070650
