@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:09:19.897619Z
+last_change = 2024-07-12T02:09:19.898620Z
 name = "CPlaceable"
-size = 0x18
+size = 0x20
 
 [members.0x0]
 name = "vtbl"
@@ -11,5 +11,11 @@ size = 0x8
 [members.0x8]
 name = "m_SimpleCoors"
 offset = 0x8
-type = ""
+type = "CSimpleTransform"
 size = 0x10
+
+[members.0x18]
+name = "m_pMatrix"
+offset = 0x18
+type = ""
+size = 0x8
