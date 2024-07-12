@@ -1,11 +1,11 @@
-last_change = 2024-07-12T16:10:01.553510Z
+last_change = 2024-07-12T16:10:01.556510Z
 addr = 0x1070650
 size = 0x6f7
 
 [stack_vars.-0x3]
-last_change = 2024-07-12T16:10:01.553510Z
+last_change = 2024-07-12T16:10:01.556510Z
 offset = -3
-name = "titleKey"
+name = "arg_18"
 type = "short"
 size = 0x2
 addr = 0x1070650
