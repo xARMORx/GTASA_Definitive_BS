@@ -1,0 +1,11 @@
+last_change = 2024-07-12T22:47:50.134364Z
+addr = 0xf78960
+size = 0x44e
+name = "_ZN9CShopping8LoadShopEPKc"
+
+[header]
+last_change = 2024-07-12T22:47:50.134364Z
+name = "_ZN9CShopping8LoadShopEPKc"
+addr = 0xf78960
+
+[header.args]
