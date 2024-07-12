@@ -1257,3 +1257,9 @@ last_change = 2024-07-12T22:52:27.201585Z
 addr = 0x504e5c0
 name = "startIP"
 size = 0x1
+
+[0x4ffe5b8]
+last_change = 2024-07-12T22:52:39.506508Z
+addr = 0x4ffe5b8
+name = "_ZN11CTheScripts12pIdleScriptsE"
+size = 0x8
