@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.243564Z
+last_change = 2024-07-12T23:53:01.249564Z
 name = "CPad"
 size = 0x180
-
-[members.0x30]
-name = "OldState"
-offset = 0x30
-type = "CControllerState"
-size = 0x30
 
 [members.0x60]
 name = "currentPadId"
