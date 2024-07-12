@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:39.642538Z
+last_change = 2024-07-12T20:22:39.644644Z
 addr = 0x10f7490
 size = 0x740
 
@@ -62,6 +62,14 @@ addr = 0x10f7490
 last_change = 2024-07-12T20:22:39.642538Z
 offset = -208
 name = "rotateRate"
+type = "float"
+size = 0x4
+addr = 0x10f7490
+
+[stack_vars.-0xc8]
+last_change = 2024-07-12T20:22:39.644644Z
+offset = -200
+name = "var_A0"
 type = "float"
 size = 0x4
 addr = 0x10f7490
