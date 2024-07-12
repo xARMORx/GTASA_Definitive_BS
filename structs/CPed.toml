@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:32:35.291178Z
+last_change = 2024-07-12T02:32:35.292179Z
 name = "CPed"
-size = 0x6f8
+size = 0x70c
 
 [members.0x0]
 name = "physical"
@@ -125,5 +125,11 @@ size = 0x4
 [members.0x6f4]
 name = "m_fArmour"
 offset = 0x6f4
-type = ""
+type = "float"
 size = 0x4
+
+[members.0x6f8]
+name = "field_718"
+offset = 0x6f8
+type = ""
+size = 0x14
