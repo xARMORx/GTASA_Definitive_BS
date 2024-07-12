@@ -1,4 +1,4 @@
-last_change = 2024-07-12T23:53:01.735271Z
+last_change = 2024-07-12T23:53:01.738559Z
 name = "CPad"
 size = 0x134
 
@@ -197,5 +197,11 @@ size = 0x1
 [members.0x130]
 name = "bDisablePlayerFireWeaponWithL1"
 offset = 0x130
+type = "uint8_t"
+size = 0x1
+
+[members.0x131]
+name = "bDisablePlayerCycleWeapon"
+offset = 0x131
 type = ""
 size = 0x1
