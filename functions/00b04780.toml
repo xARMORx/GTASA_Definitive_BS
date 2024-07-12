@@ -1,4 +1,4 @@
-last_change = 2024-07-12T04:26:23.282208Z
+last_change = 2024-07-12T04:40:01.444350Z
 addr = 0xb04780
 size = 0x72e
 name = "_ZN9CSprite2d4DrawEffffffffRK5CRGBA"
@@ -9,3 +9,11 @@ name = "_ZN9CSprite2d4DrawEffffffffRK5CRGBA"
 addr = 0xb04780
 
 [header.args]
+
+[stack_vars.-0x28]
+last_change = 2024-07-12T04:40:01.444350Z
+offset = -40
+name = "a5"
+type = "int"
+size = 0x4
+addr = 0xb04780
