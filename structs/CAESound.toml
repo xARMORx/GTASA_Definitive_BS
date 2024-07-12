@@ -47,5 +47,11 @@ size = 0x4
 [members.0x20]
 name = "m_fVolume"
 offset = 0x20
+type = "float"
+size = 0x4
+
+[members.0x24]
+name = "m_fSoundDistance"
+offset = 0x24
 type = ""
 size = 0x4
