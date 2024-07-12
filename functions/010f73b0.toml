@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:21:05.577294Z
+last_change = 2024-07-12T20:21:05.580294Z
 addr = 0x10f73b0
 size = 0xd5
 name = "_ZN10C3dMarkers14PlaceMarkerSetEjtR7CVectorfhhhhtfs"
@@ -42,4 +42,12 @@ offset = -32
 name = "a"
 type = "unsigned char"
 size = 0x1
+addr = 0x10f73b0
+
+[stack_vars.-0x18]
+last_change = 2024-07-12T20:21:05.580294Z
+offset = -24
+name = "pulsePeriod"
+type = "short"
+size = 0x2
 addr = 0x10f73b0
