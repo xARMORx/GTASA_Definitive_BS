@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:34:29.314398Z
+addr = 0xf92a00
+size = 0x1d73
+name = "_ZN7CCamera7ProcessEv"
+
+[header]
+last_change = 2024-07-12T20:34:29.314398Z
+name = "_ZN7CCamera7ProcessEv"
+addr = 0xf92a00
+
+[header.args]
