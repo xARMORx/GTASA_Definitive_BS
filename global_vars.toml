@@ -69,3 +69,9 @@ last_change = 2024-07-12T04:40:01.541158Z
 addr = 0x42edbfc
 name = "nColor"
 size = 0x4
+
+[0x4118410]
+last_change = 2024-07-12T15:46:40.809908Z
+addr = 0x4118410
+name = "aLoadingscreen"
+size = 0xd
