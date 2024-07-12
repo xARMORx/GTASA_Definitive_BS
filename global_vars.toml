@@ -321,3 +321,9 @@ last_change = 2024-07-12T15:48:58.020181Z
 addr = 0x4118068
 name = "aGameicon"
 size = 0x8
+
+[0x5001a56]
+last_change = 2024-07-12T15:51:57.259217Z
+addr = 0x5001a56
+name = "_ZN11CTheScripts11bDisplayHudE"
+size = 0x1
