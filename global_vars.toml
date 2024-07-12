@@ -279,3 +279,9 @@ last_change = 2024-07-12T15:48:40.599016Z
 addr = 0x41180e8
 name = "aLeftbuttonsele"
 size = 0x24
+
+[0x41180d0]
+last_change = 2024-07-12T15:48:42.976052Z
+addr = 0x41180d0
+name = "aMainbuttonsoff"
+size = 0x12
