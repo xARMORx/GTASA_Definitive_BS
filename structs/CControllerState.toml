@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:03.934538Z
+last_change = 2024-07-12T23:53:03.937072Z
 name = "CControllerState"
 size = 0x30
-
-[members.0xe]
-name = "RightShoulder2"
-offset = 0xe
-type = "int16_t"
-size = 0x2
 
 [members.0x10]
 name = "DPadUp"
