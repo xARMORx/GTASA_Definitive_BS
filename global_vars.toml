@@ -693,3 +693,9 @@ last_change = 2024-07-12T20:18:45.509478Z
 addr = 0x5244b90
 name = ""
 size = 0xa
+
+[0x4ff5abf]
+last_change = 2024-07-12T20:19:06.446147Z
+addr = 0x4ff5abf
+name = "_textDrawEnbled"
+size = 0x1
