@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:21:37.135376Z
+last_change = 2024-07-12T16:21:37.137377Z
 name = "CWeaponInfo"
-size = 0x60
+size = 0x64
 
 [members.0x0]
 name = "m_eFireType"
@@ -137,5 +137,11 @@ size = 0x4
 [members.0x5c]
 name = "speed"
 offset = 0x5c
+type = "float"
+size = 0x4
+
+[members.0x60]
+name = "radius"
+offset = 0x60
 type = ""
 size = 0x4
