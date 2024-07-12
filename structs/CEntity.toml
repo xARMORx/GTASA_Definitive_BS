@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:24:34.083990Z
+last_change = 2024-07-12T02:24:34.084990Z
 name = "CEntity"
 size = 0x40
 
@@ -29,5 +29,11 @@ size = 0x4
 [members.0x38]
 name = "m_nRandomSeed"
 offset = 0x38
+type = "unsigned short"
+size = 0x2
+
+[members.0x3a]
+name = "m_nModelIndex"
+offset = 0x3a
 type = ""
 size = 0x2
