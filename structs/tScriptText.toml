@@ -1,5 +1,9 @@
-last_change = 2024-07-12T20:18:45.431460Z
+last_change = 2024-07-12T20:18:45.434461Z
 name = "tScriptText"
-size = 0x0
+size = 0x4
 
-[members]
+[members.0x0]
+name = "letterWidth"
+offset = 0x0
+type = ""
+size = 0x4
