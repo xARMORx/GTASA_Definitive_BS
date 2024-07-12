@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:38:03.631338Z
+last_change = 2024-07-12T20:38:03.632337Z
 addr = 0xf97de0
 size = 0x2c38
+type = "bool"
 
-[stack_vars.-0xe0]
-last_change = 2024-07-12T20:38:03.631338Z
-offset = -224
-name = "a4"
-type = "CPool *"
-size = 0x8
+[header]
+last_change = 2024-07-12T20:38:03.632337Z
 addr = 0xf97de0
+type = "bool"
+
+[header.args]
