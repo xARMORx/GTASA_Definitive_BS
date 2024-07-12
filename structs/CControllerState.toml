@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:04.146454Z
+last_change = 2024-07-12T23:53:04.150166Z
 name = "CControllerState"
-size = 0x24
+size = 0x26
 
 [members.0x0]
 name = "LeftStickX"
@@ -107,5 +107,11 @@ size = 0x2
 [members.0x22]
 name = "ButtonCircle"
 offset = 0x22
+type = "int16_t"
+size = 0x2
+
+[members.0x24]
+name = "ShockButtonL"
+offset = 0x24
 type = ""
 size = 0x2
