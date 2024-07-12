@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:11:47.773765Z
+last_change = 2024-07-12T02:11:47.774765Z
 name = "CEntity"
-size = 0x3c
+size = 0x40
 
 [members.0x0]
 name = "placeable"
@@ -35,5 +35,11 @@ size = 0x2
 [members.0x3a]
 name = "m_nModelIndex"
 offset = 0x3a
-type = ""
+type = "unsigned short"
 size = 0x2
+
+[members.0x3c]
+name = "field_3C"
+offset = 0x3c
+type = ""
+size = 0x4
