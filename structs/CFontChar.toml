@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:04:09.414165Z
+last_change = 2024-07-12T16:04:09.415166Z
 name = "CFontChar"
-size = 0x2c
+size = 0x30
 
 [members.0x0]
 name = "m_cLetter"
@@ -77,5 +77,11 @@ size = 0x1
 [members.0x2b]
 name = "_pad1"
 offset = 0x2b
-type = ""
+type = "char"
 size = 0x1
+
+[members.0x2c]
+name = "m_wFontTexture"
+offset = 0x2c
+type = ""
+size = 0x2
