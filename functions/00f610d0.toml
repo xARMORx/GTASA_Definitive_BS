@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:21:09.498097Z
+last_change = 2024-07-12T20:21:09.499098Z
 addr = 0xf610d0
 size = 0x23f0
 
 [stack_vars.-0x9c0]
-last_change = 2024-07-12T20:21:09.498097Z
+last_change = 2024-07-12T20:21:09.499098Z
 offset = -2496
-name = "var_9B8"
+name = "g"
 type = "int"
 size = 0x4
 addr = 0xf610d0
