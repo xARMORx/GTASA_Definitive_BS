@@ -1221,3 +1221,9 @@ last_change = 2024-07-12T22:31:56.932404Z
 addr = 0x507040c
 name = "_ZN6CTimer31m_snTimeInMillisecondsPauseModeE"
 size = 0x4
+
+[0x5553460]
+last_change = 2024-07-12T22:33:00.391443Z
+addr = 0x5553460
+name = "_renderStartTimeLow"
+size = 0x8
