@@ -21,3 +21,9 @@ last_change = 2024-07-12T02:28:40.607033Z
 addr = 0x419b4b0
 name = "_ZTV18CPedCollisionAudio"
 size = 0x1
+
+[0x409af2a]
+last_change = 2024-07-12T03:05:03.401210Z
+addr = 0x409af2a
+name = ""
+size = 0x1
