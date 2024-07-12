@@ -363,3 +363,9 @@ last_change = 2024-07-12T16:01:14.559197Z
 addr = 0x549d670
 name = "_ZN5CFont5ColorE"
 size = 0x4
+
+[0x549d689]
+last_change = 2024-07-12T16:01:32.029564Z
+addr = 0x549d689
+name = "bEnlargeBackgroundBox"
+size = 0x4
