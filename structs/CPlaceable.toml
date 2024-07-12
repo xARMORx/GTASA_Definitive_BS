@@ -1,9 +1,5 @@
-last_change = 2024-07-12T02:09:19.895625Z
+last_change = 2024-07-12T02:09:19.897619Z
 name = "CPlaceable"
-size = 0x20
+size = 0x0
 
-[members.0x18]
-name = "m_pMatrix"
-offset = 0x18
-type = "CMatrixLink *"
-size = 0x8
+[members]
