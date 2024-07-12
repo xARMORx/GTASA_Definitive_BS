@@ -1,6 +1,6 @@
-last_change = 2024-07-12T20:18:45.487473Z
+last_change = 2024-07-12T20:18:45.490474Z
 name = "tScriptText"
-size = 0x3c
+size = 0x40
 
 [members.0x0]
 name = "letterWidth"
@@ -137,5 +137,11 @@ size = 0x4
 [members.0x34]
 name = "gxtEntry"
 offset = 0x34
-type = ""
+type = "char[8]"
 size = 0x8
+
+[members.0x3c]
+name = "param1"
+offset = 0x3c
+type = ""
+size = 0x4
