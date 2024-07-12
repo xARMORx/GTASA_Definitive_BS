@@ -1251,9 +1251,3 @@ last_change = 2024-07-12T22:47:54.097540Z
 addr = 0x55703b8
 name = "sectionName"
 size = 0x8
-
-[0x504e5c0]
-last_change = 2024-07-12T22:52:23.024604Z
-addr = 0x504e5c0
-name = "startIP"
-size = 0x1
