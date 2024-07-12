@@ -117,3 +117,9 @@ last_change = 2024-07-12T15:47:24.736328Z
 addr = 0x4118368
 name = "aFullscreenconf"
 size = 0x1b
+
+[0x4118348]
+last_change = 2024-07-12T15:47:28.128782Z
+addr = 0x4118348
+name = "aControllerdisc"
+size = 0x19
