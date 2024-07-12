@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:26:34.832843Z
+last_change = 2024-07-12T02:26:34.833844Z
 name = "CAESound"
-size = 0x4c
+size = 0x50
 
 [members.0x0]
 name = "m_pBaseAudio"
@@ -77,5 +77,11 @@ size = 0x4
 [members.0x48]
 name = "m_dwPrevTimeUpdate"
 offset = 0x48
+type = "int"
+size = 0x4
+
+[members.0x4c]
+name = "m_fCurrCamDist"
+offset = 0x4c
 type = ""
 size = 0x4
