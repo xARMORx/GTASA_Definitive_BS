@@ -447,3 +447,9 @@ last_change = 2024-07-12T16:04:09.421168Z
 addr = 0x549d6c7
 name = "byte_549D6C7"
 size = 0x1
+
+[0x549d6c8]
+last_change = 2024-07-12T16:04:09.423168Z
+addr = 0x549d6c8
+name = "xmmword_549D6C8"
+size = 0x10
