@@ -1,10 +1,12 @@
-last_change = 2024-07-12T16:12:39.097264Z
+last_change = 2024-07-12T16:13:02.626923Z
 addr = 0x10faba0
 size = 0x1a7
+name = "_ZN9CSprite2d11SetVerticesERK5CRectRK5CRGBAS5_S5_S5_"
 type = "int"
 
 [header]
-last_change = 2024-07-12T16:12:39.033250Z
+last_change = 2024-07-12T16:13:02.626923Z
+name = "_ZN9CSprite2d11SetVerticesERK5CRectRK5CRGBAS5_S5_S5_"
 addr = 0x10faba0
 type = "int"
 
