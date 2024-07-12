@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.584590Z
+last_change = 2024-07-12T23:53:01.587682Z
 name = "CPad"
 size = 0x180
-
-[members.0x170]
-name = "NoShakeBeforeThis1"
-offset = 0x170
-type = "uint32_t"
-size = 0x4
 
 [members.0x174]
 name = "NoShakeFreq1"
