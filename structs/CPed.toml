@@ -2,12 +2,6 @@ last_change = 2024-07-12T02:33:46.985446Z
 name = "CPed"
 size = 0xa0e
 
-[members.0x98c]
-name = "m_nWeaponSkill"
-offset = 0x98c
-type = "char"
-size = 0x1
-
 [members.0x98d]
 name = "field_9D5"
 offset = 0x98d
