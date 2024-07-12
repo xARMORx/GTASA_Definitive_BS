@@ -1,5 +1,9 @@
-last_change = 2024-07-12T23:54:12.166277Z
+last_change = 2024-07-12T23:54:12.169278Z
 name = "CPad"
-size = 0x0
+size = 0x30
 
-[members]
+[members.0x0]
+name = "NewState"
+offset = 0x0
+type = ""
+size = 0x30
