@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.590339Z
+last_change = 2024-07-12T23:53:01.593342Z
 name = "CPad"
 size = 0x180
-
-[members.0x175]
-name = "bHasJetPack1"
-offset = 0x175
-type = "uint8_t"
-size = 0x1
 
 [members.0x176]
 name = "bRocketLocked1"
