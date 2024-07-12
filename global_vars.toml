@@ -791,10 +791,10 @@ name = "pTrackNodes"
 size = 0x8
 
 [0x5571220]
-last_change = 2024-07-12T20:42:06.617861Z
+last_change = 2024-07-12T20:42:06.619862Z
 addr = 0x5571220
-name = "unk_5571220"
-size = 0x1
+name = ""
+size = 0x18
 
 [0x5571228]
 last_change = 2024-07-12T20:42:06.612860Z
