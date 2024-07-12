@@ -1,6 +1,6 @@
-last_change = 2024-07-12T20:34:51.299852Z
+last_change = 2024-07-12T20:34:51.301853Z
 name = "CGangWeapons"
-size = 0x4
+size = 0x8
 
 [members.0x0]
 name = "field_0"
@@ -11,5 +11,11 @@ size = 0x1
 [members.0x1]
 name = "__pad"
 offset = 0x1
-type = ""
+type = "char[3]"
 size = 0x3
+
+[members.0x4]
+name = "field_4"
+offset = 0x4
+type = ""
+size = 0x4
