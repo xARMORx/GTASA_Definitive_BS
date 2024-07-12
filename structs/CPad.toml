@@ -1,4 +1,4 @@
-last_change = 2024-07-12T23:53:01.688148Z
+last_change = 2024-07-12T23:53:01.691667Z
 name = "CPad"
 size = 0x120
 
@@ -125,5 +125,11 @@ size = 0x1
 [members.0x11e]
 name = "bUsingDebugCamera"
 offset = 0x11e
+type = "uint8_t"
+size = 0x1
+
+[members.0x11f]
+name = "bUsingDebugPlayerFreeze"
+offset = 0x11f
 type = ""
 size = 0x1
