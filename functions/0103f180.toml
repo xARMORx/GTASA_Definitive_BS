@@ -1,11 +1,11 @@
-last_change = 2024-07-12T04:26:30.355788Z
+last_change = 2024-07-12T04:26:30.356789Z
 addr = 0x103f180
 size = 0x14f
 
 [stack_vars.0x0]
-last_change = 2024-07-12T04:26:30.355788Z
+last_change = 2024-07-12T04:26:30.356789Z
 offset = 0x0
-name = "arg_30"
+name = "color"
 type = "CRGBA *"
 size = 0x8
 addr = 0x103f180
