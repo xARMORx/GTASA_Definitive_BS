@@ -777,3 +777,9 @@ last_change = 2024-07-12T20:41:08.450300Z
 addr = 0x5157f04
 name = "_ZN6CTrain15GenTrain_StatusE"
 size = 0x4
+
+[0x4eac210]
+last_change = 2024-07-12T20:41:34.432644Z
+addr = 0x4eac210
+name = "_ZN6CTrain13aStationCoorsE"
+size = 0x4
