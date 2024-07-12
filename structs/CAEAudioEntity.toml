@@ -1,9 +1,15 @@
-last_change = 2024-07-12T02:26:34.862187Z
+last_change = 2024-07-12T02:26:34.863186Z
 name = "CAEAudioEntity"
-size = 0x8
+size = 0x10
 
 [members.0x0]
 name = "vmt"
 offset = 0x0
+type = "void *"
+size = 0x8
+
+[members.0x8]
+name = "m_pEntity"
+offset = 0x8
 type = ""
 size = 0x8
