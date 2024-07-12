@@ -423,3 +423,9 @@ last_change = 2024-07-12T16:02:08.779586Z
 addr = 0x5553928
 name = ""
 size = 0x8
+
+[0x549d68b]
+last_change = 2024-07-12T16:03:54.738796Z
+addr = 0x549d68b
+name = "m_bFontBackground"
+size = 0x1
