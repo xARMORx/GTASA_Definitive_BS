@@ -1,9 +1,15 @@
-last_change = 2024-07-12T02:32:48.135295Z
+last_change = 2024-07-12T02:32:48.136295Z
 name = "CPed"
-size = 0x1a0
+size = 0x314
 
 [members.0x0]
 name = "physical"
 offset = 0x0
-type = ""
+type = "CPhysical"
 size = 0x1a0
+
+[members.0x1a0]
+name = "m_pedAudio"
+offset = 0x1a0
+type = ""
+size = 0x174
