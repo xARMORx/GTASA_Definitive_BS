@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:30:57.844985Z
+last_change = 2024-07-12T02:30:57.845967Z
 name = "CAESound"
 size = 0x20
 
@@ -35,5 +35,11 @@ size = 0x8
 [members.0x18]
 name = "m_dwEvent"
 offset = 0x18
+type = "unsigned int"
+size = 0x4
+
+[members.0x1c]
+name = "m_fMaxVolume"
+offset = 0x1c
 type = ""
 size = 0x4
