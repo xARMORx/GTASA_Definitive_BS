@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.321537Z
+last_change = 2024-07-12T23:53:01.327542Z
 name = "CPad"
 size = 0x180
-
-[members.0x11b]
-name = "bApplyGas"
-offset = 0x11b
-type = "uint8_t"
-size = 0x1
 
 [members.0x11c]
 name = "bApplyBrake"
