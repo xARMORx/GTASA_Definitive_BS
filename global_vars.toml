@@ -165,3 +165,9 @@ last_change = 2024-07-12T15:47:49.824569Z
 addr = 0x4118298
 name = "aIswindowinfore"
 size = 0x14
+
+[0x4118288]
+last_change = 2024-07-12T15:47:53.184717Z
+addr = 0x4118288
+name = "aLaunchgame"
+size = 0xa
