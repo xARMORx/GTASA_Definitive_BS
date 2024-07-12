@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.569334Z
+last_change = 2024-07-12T23:53:01.573484Z
 name = "CPad"
 size = 0x180
-
-[members.0x163]
-name = "bDisablePlayerDisplayVitalStats1"
-offset = 0x163
-type = "uint8_t"
-size = 0x1
 
 [members.0x164]
 name = "LastTimeTouched1"
