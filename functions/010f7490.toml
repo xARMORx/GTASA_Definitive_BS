@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:22:39.648723Z
+last_change = 2024-07-12T20:22:39.651554Z
 addr = 0x10f7490
 size = 0x740
 
 [stack_vars.-0xc0]
-last_change = 2024-07-12T20:22:12.735885Z
+last_change = 2024-07-12T20:22:39.651554Z
 offset = -192
-name = "nrm_z"
+name = "var_98"
 type = "float"
 size = 0x4
 addr = 0x10f7490
