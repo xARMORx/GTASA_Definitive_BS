@@ -1,4 +1,4 @@
-last_change = 2024-07-12T23:53:01.695009Z
+last_change = 2024-07-12T23:53:01.699772Z
 name = "CPad"
 size = 0x124
 
@@ -137,5 +137,11 @@ size = 0x1
 [members.0x120]
 name = "bHasCheated"
 offset = 0x120
+type = "uint8_t"
+size = 0x1
+
+[members.0x121]
+name = "bDisableForbiddenTerr"
+offset = 0x121
 type = ""
 size = 0x1
