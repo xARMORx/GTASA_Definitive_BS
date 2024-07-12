@@ -669,3 +669,9 @@ last_change = 2024-07-12T20:18:45.499476Z
 addr = 0x5243244
 name = "word_5243244"
 size = 0x2
+
+[0x5244b94]
+last_change = 2024-07-12T20:18:45.501476Z
+addr = 0x5244b94
+name = "byte_5244B94"
+size = 0x6
