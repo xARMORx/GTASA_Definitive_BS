@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:26:34.906021Z
+last_change = 2024-07-12T02:26:34.908022Z
 name = "CAETwinLoopSoundEntity"
 size = 0xc8
-
-[members.0x90]
-name = "m_wBankSlotId"
-offset = 0x90
-type = "short"
-size = 0x2
 
 [members.0x92]
 name = "m_wSoundType"
