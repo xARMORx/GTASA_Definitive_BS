@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.044333Z
+last_change = 2024-07-12T23:54:12.048334Z
 name = "CPad"
 size = 0x158
-
-[members.0x114]
-name = "fCruisingSpeed"
-offset = 0x114
-type = "float"
-size = 0x4
 
 [members.0x118]
 name = "bRhythm"
