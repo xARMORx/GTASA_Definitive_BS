@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:38:14.796575Z
+last_change = 2024-07-12T20:38:14.798575Z
 addr = 0x124fae0
 size = 0x62d
 
-[stack_vars.-0xf4]
-last_change = 2024-07-12T20:38:14.796575Z
-offset = -244
-name = "var_CC"
+[stack_vars.-0x100]
+last_change = 2024-07-12T20:38:14.798575Z
+offset = -256
+name = "var_D8"
 type = "float"
 size = 0x4
 addr = 0x124fae0
