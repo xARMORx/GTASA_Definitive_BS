@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:38:17.337226Z
+last_change = 2024-07-12T20:38:23.637977Z
 addr = 0x1251880
 size = 0xab
 
-[stack_vars.0x0]
-last_change = 2024-07-12T20:38:17.337226Z
-offset = 0x0
-name = "a6"
-type = "int"
-size = 0x4
+[stack_vars.-0x8]
+last_change = 2024-07-12T20:38:23.637977Z
+offset = -8
+name = "bUnderWater"
+type = "char"
+size = 0x1
 addr = 0x1251880
