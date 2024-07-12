@@ -297,3 +297,9 @@ last_change = 2024-07-12T15:48:46.674753Z
 addr = 0x41180b0
 name = "aTabareaoffsets"
 size = 0xe
+
+[0x41180a0]
+last_change = 2024-07-12T15:48:49.209590Z
+addr = 0x41180a0
+name = "aLogoareaanchor"
+size = 0xf
