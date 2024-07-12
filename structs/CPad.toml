@@ -1,4 +1,4 @@
-last_change = 2024-07-12T23:54:12.202906Z
+last_change = 2024-07-12T23:54:12.205911Z
 name = "CPad"
 size = 0x114
 
@@ -71,5 +71,11 @@ size = 0x2
 [members.0x112]
 name = "ShakeFreq"
 offset = 0x112
+type = "uint8_t"
+size = 0x1
+
+[members.0x113]
+name = "JustOutOfFrontEnd"
+offset = 0x113
 type = ""
 size = 0x1
