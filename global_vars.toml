@@ -633,39 +633,3 @@ last_change = 2024-07-12T16:59:52.502830Z
 addr = 0x4a4974c
 name = "w"
 size = 0x4
-
-[0x522b230]
-last_change = 2024-07-12T19:48:11.952213Z
-addr = 0x522b230
-name = "qword_522B230"
-size = 0x8
-
-[0x522b238]
-last_change = 2024-07-12T19:48:11.956587Z
-addr = 0x522b238
-name = ""
-size = 0x4
-
-[0x52045b0]
-last_change = 2024-07-12T19:48:11.958589Z
-addr = 0x52045b0
-name = "qword_52045B0"
-size = 0x8
-
-[0x52045b8]
-last_change = 2024-07-12T19:48:11.962888Z
-addr = 0x52045b8
-name = ""
-size = 0x4
-
-[0x5202c78]
-last_change = 2024-07-12T19:48:11.965417Z
-addr = 0x5202c78
-name = "qword_5202C78"
-size = 0x8
-
-[0x5202c80]
-last_change = 2024-07-12T19:48:11.970019Z
-addr = 0x5202c80
-name = ""
-size = 0x4
