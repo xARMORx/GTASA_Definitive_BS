@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:21:21.552401Z
+last_change = 2024-07-12T16:21:04.753674Z
 addr = 0x10601c0
 size = 0x2d6
 name = "?DrawWeaponIcon@CHud@@QAEXXZ"
@@ -9,11 +9,3 @@ name = "?DrawWeaponIcon@CHud@@QAEXXZ"
 addr = 0x10601c0
 
 [header.args]
-
-[stack_vars.-0x868]
-last_change = 2024-07-12T16:21:21.552401Z
-offset = -2152
-name = "var_868"
-type = "char[64]"
-size = 0x40
-addr = 0x10601c0
