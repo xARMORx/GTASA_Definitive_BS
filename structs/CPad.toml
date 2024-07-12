@@ -1,4 +1,4 @@
-last_change = 2024-07-12T23:53:01.680865Z
+last_change = 2024-07-12T23:53:01.684517Z
 name = "CPad"
 size = 0x120
 
@@ -113,5 +113,11 @@ size = 0x1
 [members.0x11c]
 name = "bApplyBrake"
 offset = 0x11c
+type = "uint8_t"
+size = 0x1
+
+[members.0x11d]
+name = "bLaneCorrection"
+offset = 0x11d
 type = ""
 size = 0x1
