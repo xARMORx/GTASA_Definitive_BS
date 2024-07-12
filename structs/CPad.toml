@@ -1,4 +1,4 @@
-last_change = 2024-07-12T23:53:01.645418Z
+last_change = 2024-07-12T23:53:01.649419Z
 name = "CPad"
 size = 0x110
 
@@ -53,5 +53,11 @@ size = 0x30
 [members.0x10c]
 name = "Phase"
 offset = 0x10c
-type = ""
+type = "uint8_t"
 size = 0x1
+
+[members.0x10e]
+name = "ShakeDur"
+offset = 0x10e
+type = ""
+size = 0x2
