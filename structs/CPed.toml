@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:33:47.035457Z
+last_change = 2024-07-12T02:33:47.037458Z
 name = "CPed"
-size = 0x9dc
+size = 0x9de
 
 [members.0x0]
 name = "physical"
@@ -263,5 +263,11 @@ size = 0x1
 [members.0x99d]
 name = "field_A05"
 offset = 0x99d
-type = ""
+type = "char[63]"
 size = 0x3f
+
+[members.0x9dc]
+name = "m_wSpecialModelIndex"
+offset = 0x9dc
+type = ""
+size = 0x2
