@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:54:12.180715Z
+last_change = 2024-07-12T23:54:12.183716Z
 name = "CPad"
-size = 0x7c
+size = 0xac
 
 [members.0x0]
 name = "NewState"
@@ -29,5 +29,11 @@ size = 0x14
 [members.0x78]
 name = "DrunkDrivingBufferUsed"
 offset = 0x78
-type = ""
+type = "int32_t"
 size = 0x4
+
+[members.0x7c]
+name = "PCTempKeyState"
+offset = 0x7c
+type = ""
+size = 0x30
