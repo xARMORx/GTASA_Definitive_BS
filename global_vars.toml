@@ -915,3 +915,9 @@ last_change = 2024-07-12T20:42:40.248081Z
 addr = 0x557125f
 name = "byte_557125F"
 size = 0x1
+
+[0x5571260]
+last_change = 2024-07-12T20:42:40.250081Z
+addr = 0x5571260
+name = "byte_5571260"
+size = 0x1
