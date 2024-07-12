@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:39.633537Z
+last_change = 2024-07-12T20:22:39.635537Z
 addr = 0x10f7490
 size = 0x740
 
@@ -51,9 +51,9 @@ size = 0x4
 addr = 0x10f7490
 
 [stack_vars.-0xd8]
-last_change = 2024-07-12T20:22:39.633537Z
+last_change = 2024-07-12T20:22:39.635537Z
 offset = -216
-name = "var_B0"
+name = "pulseFraction"
 type = "short"
 size = 0x2
 addr = 0x10f7490
