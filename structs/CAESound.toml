@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:33:20.335241Z
+last_change = 2024-07-12T02:33:20.336242Z
 name = "CAESound"
-size = 0x50
+size = 0x58
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -89,5 +89,11 @@ size = 0x4
 [members.0x4c]
 name = "m_dwCurrTimeUpdate"
 offset = 0x4c
+type = "int"
+size = 0x4
+
+[members.0x50]
+name = "m_dwPrevTimeUpdate"
+offset = 0x50
 type = ""
 size = 0x4
