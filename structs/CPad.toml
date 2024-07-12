@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.443481Z
+last_change = 2024-07-12T23:53:01.447656Z
 name = "CPad"
 size = 0x180
-
-[members.0x128]
-name = "fBikeStickY"
-offset = 0x128
-type = "float"
-size = 0x4
 
 [members.0x12c]
 name = "bApplyBrakes"
