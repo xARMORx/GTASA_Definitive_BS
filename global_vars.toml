@@ -1239,3 +1239,9 @@ last_change = 2024-07-12T22:43:45.772715Z
 addr = 0x55702f8
 name = "_ZN9CColAccel13m_iCacheStateE"
 size = 0x4
+
+[0x4ff4550]
+last_change = 2024-07-12T22:46:35.507409Z
+addr = 0x4ff4550
+name = "_ZN10CEntryExit13ms_spawnPointE"
+size = 0x8
