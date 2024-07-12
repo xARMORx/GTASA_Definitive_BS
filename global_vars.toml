@@ -225,3 +225,9 @@ last_change = 2024-07-12T15:48:18.455282Z
 addr = 0x41181c0
 name = "aGetlastuserind"
 size = 0x10
+
+[0x41181a0]
+last_change = 2024-07-12T15:48:22.187666Z
+addr = 0x41181a0
+name = "aGetlocalizedst"
+size = 0x19
