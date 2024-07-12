@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:32:48.084283Z
+last_change = 2024-07-12T02:33:19.707234Z
 name = "CAEPedAudioEntity"
-size = 0x174
-
-[members.0x0]
-name = "vmt"
-offset = 0x0
-type = "CAEAudioEntity"
-size = 0x90
+size = 0x198
 
 [members.0x90]
 name = "field_7C"
@@ -27,31 +21,79 @@ type = "short"
 size = 0x2
 
 [members.0x94]
-name = "m_pPed"
+name = "field_80"
 offset = 0x94
-type = "CPed *"
-size = 0x8
+type = "int"
+size = 0x4
 
-[members.0x9c]
-name = "m_85F438"
-offset = 0x9c
-type = "CAETwinLoopSoundEntity"
-size = 0xc8
-
-[members.0x164]
-name = "field_150"
-offset = 0x164
-type = "CAESound *"
-size = 0x8
-
-[members.0x16c]
-name = "field_154"
-offset = 0x16c
+[members.0x98]
+name = "field_84"
+offset = 0x98
 type = "float"
 size = 0x4
 
-[members.0x170]
+[members.0x9c]
+name = "field_88"
+offset = 0x9c
+type = "float"
+size = 0x4
+
+[members.0xa0]
+name = "field_8C"
+offset = 0xa0
+type = "char[8]"
+size = 0x8
+
+[members.0xa8]
+name = "m_pPed"
+offset = 0xa8
+type = "CPed *"
+size = 0x8
+
+[members.0xb0]
+name = "field_98"
+offset = 0xb0
+type = "char"
+size = 0x1
+
+[members.0xb1]
+name = "field_99"
+offset = 0xb1
+type = "char[3]"
+size = 0x3
+
+[members.0xb4]
+name = "field_9C"
+offset = 0xb4
+type = "CAESound *"
+size = 0x8
+
+[members.0xbc]
+name = "field_A0"
+offset = 0xbc
+type = "_DWORD"
+size = 0x4
+
+[members.0xc0]
+name = "m_85F438"
+offset = 0xc0
+type = "CAETwinLoopSoundEntity"
+size = 0xc8
+
+[members.0x188]
+name = "field_150"
+offset = 0x188
+type = "CAESound *"
+size = 0x8
+
+[members.0x190]
+name = "field_154"
+offset = 0x190
+type = "float"
+size = 0x4
+
+[members.0x194]
 name = "field_158"
-offset = 0x170
-type = ""
+offset = 0x194
+type = "float"
 size = 0x4
