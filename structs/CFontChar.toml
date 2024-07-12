@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:04:09.398162Z
+last_change = 2024-07-12T16:04:09.400163Z
 name = "CFontChar"
-size = 0x4
+size = 0xc
 
 [members.0x0]
 name = "m_cLetter"
@@ -11,5 +11,11 @@ size = 0x1
 [members.0x1]
 name = "_pad0"
 offset = 0x1
-type = ""
+type = "char[3]"
 size = 0x3
+
+[members.0x4]
+name = "m_vPosn"
+offset = 0x4
+type = ""
+size = 0x8
