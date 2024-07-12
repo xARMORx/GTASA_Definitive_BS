@@ -639,3 +639,9 @@ last_change = 2024-07-12T20:14:26.073221Z
 addr = 0x5071498
 name = "ms_fTimeStepNonClipped"
 size = 0x4
+
+[0x5002674]
+last_change = 2024-07-12T20:14:38.479324Z
+addr = 0x5002674
+name = "_ZN11CTheScripts16CommandsExecutedE"
+size = 0x2
