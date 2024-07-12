@@ -207,3 +207,9 @@ last_change = 2024-07-12T15:48:10.800361Z
 addr = 0x4118208
 name = "aIsplayingmovie_0"
 size = 0xe
+
+[0x41181f0]
+last_change = 2024-07-12T15:48:14.282630Z
+addr = 0x41181f0
+name = "aFinduvsfrommap"
+size = 0x12
