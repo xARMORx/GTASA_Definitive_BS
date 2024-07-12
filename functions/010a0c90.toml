@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:00:33.519906Z
+last_change = 2024-07-12T16:19:40.612643Z
 addr = 0x10a0c90
 size = 0x341
 
@@ -8,4 +8,12 @@ offset = -600
 name = "szText"
 type = "char[512]"
 size = 0x200
+addr = 0x10a0c90
+
+[stack_vars.-0x3a8]
+last_change = 2024-07-12T16:19:40.612643Z
+offset = -936
+name = "var_380"
+type = "unsigned int"
+size = 0x4
 addr = 0x10a0c90
