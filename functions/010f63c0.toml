@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:38.209442Z
+last_change = 2024-07-12T20:24:11.614814Z
 addr = 0x10f63c0
 size = 0xfe4
 name = "_ZN10C3dMarkers11PlaceMarkerEjtR7CVectorfhhhhtfsfffb"
@@ -106,4 +106,12 @@ offset = -16
 name = "zCheck"
 type = "char"
 size = 0x1
+addr = 0x10f63c0
+
+[stack_vars.-0x208]
+last_change = 2024-07-12T20:24:11.614814Z
+offset = -520
+name = "var_170"
+type = "unsigned long long"
+size = 0x8
 addr = 0x10f63c0
