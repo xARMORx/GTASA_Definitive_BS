@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:32:48.234317Z
+last_change = 2024-07-12T02:32:48.235317Z
 name = "CPed"
-size = 0x9d0
+size = 0x9d8
 
 [members.0x0]
 name = "physical"
@@ -245,5 +245,11 @@ size = 0x12
 [members.0x9ce]
 name = "m_nMoneyCount"
 offset = 0x9ce
-type = ""
+type = "unsigned short"
 size = 0x2
+
+[members.0x9d0]
+name = "field_A0C"
+offset = 0x9d0
+type = ""
+size = 0x8
