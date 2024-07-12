@@ -1179,3 +1179,9 @@ last_change = 2024-07-12T20:43:36.836254Z
 addr = 0x5571210
 name = ""
 size = 0x8
+
+[0x50633dc]
+last_change = 2024-07-12T20:48:45.119306Z
+addr = 0x50633dc
+name = "_ZN5CGame9currLevelE"
+size = 0x4
