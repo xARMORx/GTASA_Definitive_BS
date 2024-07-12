@@ -1,9 +1,5 @@
-last_change = 2024-07-12T23:53:01.610523Z
+last_change = 2024-07-12T23:53:01.613520Z
 name = "CPad"
-size = 0x180
+size = 0x0
 
-[members.0x17b]
-name = "field_17c"
-offset = 0x17b
-type = "char[2]"
-size = 0x2
+[members]
