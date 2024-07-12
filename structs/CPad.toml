@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.148510Z
+last_change = 2024-07-12T23:54:12.151592Z
 name = "CPad"
 size = 0x158
-
-[members.0x148]
-name = "bSavedForTrain"
-offset = 0x148
-type = "uint8_t"
-size = 0x1
 
 [members.0x149]
 name = "bSetSteeringMode"
