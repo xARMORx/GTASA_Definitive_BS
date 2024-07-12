@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:26:34.827841Z
+last_change = 2024-07-12T02:26:34.828842Z
 name = "CAESound"
-size = 0x28
+size = 0x34
 
 [members.0x0]
 name = "m_pBaseAudio"
@@ -47,5 +47,11 @@ size = 0x4
 [members.0x24]
 name = "field_20"
 offset = 0x24
-type = ""
+type = "float"
 size = 0x4
+
+[members.0x28]
+name = "m_vCurrPosn"
+offset = 0x28
+type = ""
+size = 0xc
