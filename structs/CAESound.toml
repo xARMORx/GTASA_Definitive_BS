@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:27:08.296271Z
+last_change = 2024-07-12T02:27:08.297271Z
 name = "CAESound"
 size = 0x7c
-
-[members.0x28]
-name = "field_20"
-offset = 0x28
-type = "float"
-size = 0x4
 
 [members.0x2c]
 name = "m_vCurrPosn"
