@@ -5,7 +5,7 @@ size = 0x4f5
 [stack_vars.-0xf8]
 last_change = 2024-07-12T04:28:57.347082Z
 offset = -248
-name = "px"
+name = "var_D8"
 type = "float *[16]"
 size = 0x80
 addr = 0x1007270
