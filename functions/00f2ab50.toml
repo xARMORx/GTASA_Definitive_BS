@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:09:57.190393Z
+addr = 0xf2ab50
+size = 0x33c
+
+[stack_vars.-0xe8]
+last_change = 2024-07-12T16:09:57.190393Z
+offset = -232
+name = "coords"
+type = "CRect"
+size = 0x10
+addr = 0xf2ab50
