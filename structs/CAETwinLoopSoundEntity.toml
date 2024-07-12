@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:33:46.928433Z
+last_change = 2024-07-12T02:33:46.929434Z
 name = "CAETwinLoopSoundEntity"
-size = 0x9a
+size = 0x9e
 
 [members.0x0]
 name = "audio"
@@ -83,5 +83,11 @@ size = 0x1
 [members.0x99]
 name = "_pad3"
 offset = 0x99
-type = ""
+type = "char"
 size = 0x1
+
+[members.0x9a]
+name = "m_wStartingPlayPercentage"
+offset = 0x9a
+type = ""
+size = 0x4
