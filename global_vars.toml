@@ -141,3 +141,9 @@ last_change = 2024-07-12T15:47:38.059216Z
 addr = 0x41182f0
 name = "aSetlocalizedst"
 size = 0x1b
+
+[0x41182e0]
+last_change = 2024-07-12T15:47:42.050289Z
+addr = 0x41182e0
+name = "aTakefocus_0"
+size = 0x9
