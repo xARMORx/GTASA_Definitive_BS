@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:01.316874Z
+last_change = 2024-07-12T23:53:01.321537Z
 name = "CPad"
 size = 0x180
-
-[members.0x11a]
-name = "bStoppie"
-offset = 0x11a
-type = "uint8_t"
-size = 0x1
 
 [members.0x11b]
 name = "bApplyGas"
