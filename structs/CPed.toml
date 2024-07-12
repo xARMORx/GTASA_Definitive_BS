@@ -1,9 +1,5 @@
 last_change = 2024-07-12T02:32:35.272173Z
 name = "CPed"
-size = 0xa3e
+size = 0x0
 
-[members.0xa3c]
-name = "m_wSpecialModelIndex"
-offset = 0xa3c
-type = "unsigned short"
-size = 0x2
+[members]
