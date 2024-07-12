@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:33:19.745243Z
+last_change = 2024-07-12T02:33:19.746243Z
 name = "CPed"
 size = 0xa3e
-
-[members.0x680]
-name = "m_dwAnimGroup"
-offset = 0x680
-type = "int"
-size = 0x4
 
 [members.0x684]
 name = "field_68C"
