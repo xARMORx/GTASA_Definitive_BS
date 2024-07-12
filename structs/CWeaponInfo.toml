@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:21:37.145378Z
+last_change = 2024-07-12T16:21:37.147379Z
 name = "CWeaponInfo"
 size = 0x70
 
@@ -167,5 +167,11 @@ size = 0x1
 [members.0x6d]
 name = "field_6D"
 offset = 0x6d
+type = "char"
+size = 0x1
+
+[members.0x6e]
+name = "baseCombo"
+offset = 0x6e
 type = ""
 size = 0x1
