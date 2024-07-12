@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:38:25.199838Z
+last_change = 2024-07-12T20:38:27.606072Z
 addr = 0x121f410
 size = 0x756
 
@@ -7,5 +7,21 @@ last_change = 2024-07-12T20:38:25.199838Z
 offset = -368
 name = "z"
 type = "float"
+size = 0x4
+addr = 0x121f410
+
+[stack_vars.-0x188]
+last_change = 2024-07-12T20:38:27.603071Z
+offset = -392
+name = "var_150"
+type = "float"
+size = 0x4
+addr = 0x121f410
+
+[stack_vars.-0x168]
+last_change = 2024-07-12T20:38:27.606072Z
+offset = -360
+name = "var_130"
+type = "int"
 size = 0x4
 addr = 0x121f410
