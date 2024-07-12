@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:33:10.896571Z
+last_change = 2024-07-12T02:33:10.897571Z
 name = "CAESound"
 size = 0x60
 
@@ -107,5 +107,11 @@ size = 0x4
 [members.0x58]
 name = "m_fPrevCamDist"
 offset = 0x58
+type = "float"
+size = 0x4
+
+[members.0x5c]
+name = "m_fTimeScale"
+offset = 0x5c
 type = ""
 size = 0x4
