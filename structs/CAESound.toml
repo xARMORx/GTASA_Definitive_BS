@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:26:34.828842Z
+last_change = 2024-07-12T02:26:34.829842Z
 name = "CAESound"
-size = 0x34
+size = 0x40
 
 [members.0x0]
 name = "m_pBaseAudio"
@@ -53,5 +53,11 @@ size = 0x4
 [members.0x28]
 name = "m_vCurrPosn"
 offset = 0x28
+type = "CVector"
+size = 0xc
+
+[members.0x34]
+name = "m_vPrevPosn"
+offset = 0x34
 type = ""
 size = 0xc
