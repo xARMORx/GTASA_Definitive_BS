@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:33:19.728239Z
+last_change = 2024-07-12T02:33:19.730241Z
 name = "CPed"
 size = 0xa3e
-
-[members.0x1a0]
-name = "m_pedAudio"
-offset = 0x1a0
-type = "CAEPedAudioEntity"
-size = 0x198
 
 [members.0x338]
 name = "field_0"
