@@ -371,10 +371,10 @@ name = "m_bFontCentreAlign"
 size = 0x1
 
 [0x5142510]
-last_change = 2024-07-12T16:02:08.422125Z
+last_change = 2024-07-12T16:11:07.123864Z
 addr = 0x5142510
-name = "qword_5142510"
-size = 0x8
+name = "stru_5142510"
+size = 0x10
 
 [0x5142518]
 last_change = 2024-07-12T16:02:08.425837Z
