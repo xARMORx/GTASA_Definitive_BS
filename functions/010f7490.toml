@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:22:12.730884Z
+last_change = 2024-07-12T20:22:12.731884Z
 addr = 0x10f7490
 size = 0x740
 
-[stack_vars.-0x88]
-last_change = 2024-07-12T20:22:12.730884Z
-offset = -136
-name = "var_60"
-type = "CVector"
-size = 0xc
+[stack_vars.-0xc8]
+last_change = 2024-07-12T20:22:12.731884Z
+offset = -200
+name = "var_A0"
+type = "float"
+size = 0x4
 addr = 0x10f7490
