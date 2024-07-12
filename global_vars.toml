@@ -45,9 +45,3 @@ last_change = 2024-07-12T03:05:03.767317Z
 addr = 0x4fab740
 name = ""
 size = 0x1
-
-[0x4a49eac]
-last_change = 2024-07-12T04:26:28.993707Z
-addr = 0x4a49eac
-name = "width"
-size = 0x4
