@@ -983,10 +983,10 @@ name = ""
 size = 0xc4
 
 [0x5571270]
-last_change = 2024-07-12T20:42:40.273086Z
+last_change = 2024-07-12T20:42:40.399685Z
 addr = 0x5571270
-name = "dword_5571270"
-size = 0x4
+name = ""
+size = 0xc0
 
 [0x5571280]
 last_change = 2024-07-12T20:42:40.275087Z
