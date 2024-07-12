@@ -219,3 +219,9 @@ last_change = 2024-07-12T15:48:16.314200Z
 addr = 0x41181d8
 name = "aGetimagefilena"
 size = 0x10
+
+[0x41181c0]
+last_change = 2024-07-12T15:48:18.455282Z
+addr = 0x41181c0
+name = "aGetlastuserind"
+size = 0x10
