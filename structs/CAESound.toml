@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:33:47.578060Z
+last_change = 2024-07-12T02:33:47.579060Z
 name = "CAESound"
-size = 0x48
+size = 0x50
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -77,5 +77,11 @@ size = 0xc
 [members.0x3c]
 name = "m_vPrevPosn"
 offset = 0x3c
-type = ""
+type = "CVector"
 size = 0xc
+
+[members.0x48]
+name = "m_dwLastFrameUpdate"
+offset = 0x48
+type = ""
+size = 0x4
