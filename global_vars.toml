@@ -315,3 +315,9 @@ last_change = 2024-07-12T15:48:56.116301Z
 addr = 0x4118078
 name = "aBackgroundwidg"
 size = 0x10
+
+[0x4118068]
+last_change = 2024-07-12T15:48:58.020181Z
+addr = 0x4118068
+name = "aGameicon"
+size = 0x8
