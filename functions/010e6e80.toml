@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:08:30.606312Z
+last_change = 2024-07-12T16:08:37.376322Z
 addr = 0x10e6e80
 size = 0x216
 name = "_ZN5CFont11PrintStringEffPh"
@@ -30,6 +30,14 @@ addr = 0x10e6e80
 last_change = 2024-07-12T16:08:30.606312Z
 offset = -92
 name = "var_44"
+type = "CRect"
+size = 0x10
+addr = 0x10e6e80
+
+[stack_vars.-0x58]
+last_change = 2024-07-12T16:08:37.376322Z
+offset = -88
+name = "var_40"
 type = "CRect"
 size = 0x10
 addr = 0x10e6e80
