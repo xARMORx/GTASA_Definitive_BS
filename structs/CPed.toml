@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:32:48.220314Z
+last_change = 2024-07-12T02:32:48.221315Z
 name = "CPed"
-size = 0x968
+size = 0x96c
 
 [members.0x0]
 name = "physical"
@@ -185,5 +185,11 @@ size = 0x208
 [members.0x964]
 name = "m_nSavedWeapon"
 offset = 0x964
+type = "int"
+size = 0x4
+
+[members.0x968]
+name = "m_nDelayedWeapon"
+offset = 0x968
 type = ""
 size = 0x4
