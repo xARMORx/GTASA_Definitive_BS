@@ -1,0 +1,15 @@
+last_change = 2024-07-12T02:03:03.358743Z
+name = "CPlaceable"
+size = 0x20
+
+[members.0x8]
+name = "m_SimpleCoors"
+offset = 0x8
+type = "CSimpleTransform"
+size = 0x10
+
+[members.0x18]
+name = "m_pMatrix"
+offset = 0x18
+type = "CMatrixLink *"
+size = 0x8
