@@ -1,5 +1,9 @@
-last_change = 2024-07-12T02:32:48.076282Z
+last_change = 2024-07-12T02:32:48.077282Z
 name = "CAEPedAudioEntity"
-size = 0x0
+size = 0x90
 
-[members]
+[members.0x0]
+name = "vmt"
+offset = 0x0
+type = ""
+size = 0x90
