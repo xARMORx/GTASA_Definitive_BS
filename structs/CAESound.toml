@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:26:36.912993Z
+last_change = 2024-07-12T02:26:36.913993Z
 name = "CAESound"
 size = 0x78
-
-[members.0x34]
-name = "m_vPrevPosn"
-offset = 0x34
-type = "CVector"
-size = 0xc
 
 [members.0x40]
 name = "m_dwLastFrameUpdate"
