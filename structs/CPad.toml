@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:01.711457Z
+last_change = 2024-07-12T23:53:01.715461Z
 name = "CPad"
-size = 0x128
+size = 0x12c
 
 [members.0x0]
 name = "NewState"
@@ -161,5 +161,11 @@ size = 0x1
 [members.0x124]
 name = "bRegainControl"
 offset = 0x124
-type = ""
+type = "uint8_t"
 size = 0x1
+
+[members.0x128]
+name = "fBikeStickY"
+offset = 0x128
+type = ""
+size = 0x4
