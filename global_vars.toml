@@ -359,7 +359,7 @@ name = ""
 size = 0x1
 
 [0x549d670]
-last_change = 2024-07-12T16:01:10.882451Z
+last_change = 2024-07-12T16:01:14.559197Z
 addr = 0x549d670
-name = "dword_549D670"
+name = "_ZN5CFont5ColorE"
 size = 0x4
