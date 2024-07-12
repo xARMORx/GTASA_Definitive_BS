@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:27:18.013688Z
+last_change = 2024-07-12T02:27:18.014689Z
 name = "CAESound"
 size = 0x7c
-
-[members.0x62]
-name = "field_5A"
-offset = 0x62
-type = "short"
-size = 0x2
 
 [members.0x64]
 name = "m_wPlayPercentage"
