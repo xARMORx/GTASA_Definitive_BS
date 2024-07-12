@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:33:19.747243Z
+last_change = 2024-07-12T02:33:19.748244Z
 name = "CPed"
 size = 0xa3e
-
-[members.0x6be]
-name = "m_nWeaponGunflashStateLeftHand"
-offset = 0x6be
-type = "short"
-size = 0x2
 
 [members.0x6c0]
 name = "field_6DA"
