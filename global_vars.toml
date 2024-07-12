@@ -267,3 +267,9 @@ last_change = 2024-07-12T15:48:34.399133Z
 addr = 0x4118128
 name = "aLeftbuttons"
 size = 0xb
+
+[0x4118110]
+last_change = 2024-07-12T15:48:36.473348Z
+addr = 0x4118110
+name = "aAltleftbuttont"
+size = 0x11
