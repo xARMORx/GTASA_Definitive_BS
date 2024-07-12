@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.129961Z
+last_change = 2024-07-12T23:54:12.132962Z
 name = "CPad"
 size = 0x158
-
-[members.0x13c]
-name = "AverageEntries"
-offset = 0x13c
-type = "int32_t"
-size = 0x4
 
 [members.0x140]
 name = "NoShakeBeforeThis"
