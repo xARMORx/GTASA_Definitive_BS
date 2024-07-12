@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:01.691667Z
+last_change = 2024-07-12T23:53:01.695009Z
 name = "CPad"
-size = 0x120
+size = 0x124
 
 [members.0x0]
 name = "NewState"
@@ -131,5 +131,11 @@ size = 0x1
 [members.0x11f]
 name = "bUsingDebugPlayerFreeze"
 offset = 0x11f
+type = "uint8_t"
+size = 0x1
+
+[members.0x120]
+name = "bHasCheated"
+offset = 0x120
 type = ""
 size = 0x1
