@@ -1,0 +1,11 @@
+last_change = 2024-07-12T15:52:33.730082Z
+addr = 0xebc760
+size = 0x39c2
+
+[stack_vars.-0x20]
+last_change = 2024-07-12T15:52:33.730082Z
+offset = -32
+name = "arg_20"
+type = "unsigned long long"
+size = 0x8
+addr = 0xebc760
