@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:33:10.885569Z
+last_change = 2024-07-12T02:33:10.886569Z
 name = "CAESound"
 size = 0x28
 
@@ -47,5 +47,11 @@ size = 0x4
 [members.0x20]
 name = "m_fVolume"
 offset = 0x20
+type = "float"
+size = 0x4
+
+[members.0x24]
+name = "m_fSoundDistance"
+offset = 0x24
 type = ""
 size = 0x4
