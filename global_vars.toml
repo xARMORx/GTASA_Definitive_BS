@@ -741,3 +741,9 @@ last_change = 2024-07-12T20:25:33.861537Z
 addr = 0x54c0f64
 name = ""
 size = 0x4
+
+[0x4ffd5f8]
+last_change = 2024-07-12T20:32:41.127937Z
+addr = 0x4ffd5f8
+name = "_currentTextDrawer"
+size = 0x2
