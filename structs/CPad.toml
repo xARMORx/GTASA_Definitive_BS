@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:01.658808Z
+last_change = 2024-07-12T23:53:01.662273Z
 name = "CPad"
-size = 0x114
+size = 0x118
 
 [members.0x0]
 name = "NewState"
@@ -77,5 +77,11 @@ size = 0x1
 [members.0x113]
 name = "JustOutOfFrontEnd"
 offset = 0x113
-type = ""
+type = "uint8_t"
 size = 0x1
+
+[members.0x114]
+name = "fCruisingSpeed"
+offset = 0x114
+type = ""
+size = 0x4
