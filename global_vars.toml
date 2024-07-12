@@ -543,15 +543,3 @@ last_change = 2024-07-12T16:09:30.639241Z
 addr = 0x549d694
 name = "m_FontBackgroundColor"
 size = 0x4
-
-[0x5244bac]
-last_change = 2024-07-12T16:09:56.993349Z
-addr = 0x5244bac
-name = "rgba"
-size = 0x4
-
-[0x5244bae]
-last_change = 2024-07-12T16:09:56.992349Z
-addr = 0x5244bae
-name = ""
-size = 0x2
