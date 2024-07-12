@@ -555,3 +555,9 @@ last_change = 2024-07-12T16:09:56.992349Z
 addr = 0x5244bae
 name = ""
 size = 0x2
+
+[0x54c2ee0]
+last_change = 2024-07-12T16:17:28.604443Z
+addr = 0x54c2ee0
+name = "_ZL11aWeaponInfo_0"
+size = 0x1
