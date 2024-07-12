@@ -1,11 +1,11 @@
-last_change = 2024-07-12T16:10:01.540506Z
+last_change = 2024-07-12T16:10:01.541507Z
 addr = 0x10601c0
 size = 0x2d6
-type = "void"
 
-[header]
-last_change = 2024-07-12T16:10:01.540506Z
+[stack_vars.-0x898]
+last_change = 2024-07-12T16:10:01.541507Z
+offset = -2200
+name = "var_898"
+type = "short"
+size = 0x2
 addr = 0x10601c0
-type = "void"
-
-[header.args]
