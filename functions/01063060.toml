@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:10:36.658603Z
+last_change = 2024-07-12T16:19:38.290488Z
 addr = 0x1063060
 size = 0xfaf
 
@@ -8,4 +8,12 @@ offset = -8
 name = "a"
 type = "short"
 size = 0x2
+addr = 0x1063060
+
+[stack_vars.-0x18]
+last_change = 2024-07-12T16:19:38.290488Z
+offset = -24
+name = "arg_0"
+type = "unsigned int"
+size = 0x4
 addr = 0x1063060
