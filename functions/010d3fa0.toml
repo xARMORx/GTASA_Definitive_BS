@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:38:27.641005Z
+last_change = 2024-07-12T20:38:27.644005Z
 addr = 0x10d3fa0
 size = 0x1db
+type = "void"
 
-[stack_vars.0x0]
-last_change = 2024-07-12T20:38:27.641005Z
-offset = 0x0
-name = "arg_18"
-type = "float"
-size = 0x4
+[header]
+last_change = 2024-07-12T20:38:27.644005Z
 addr = 0x10d3fa0
+type = "void"
+
+[header.args]
