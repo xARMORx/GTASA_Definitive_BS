@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:24:34.094491Z
+last_change = 2024-07-12T02:24:34.095757Z
 name = "CEntity"
 size = 0x60
 
@@ -83,5 +83,11 @@ size = 0x3
 [members.0x5a]
 name = "m_nTypeStatus"
 offset = 0x5a
-type = ""
+type = "char"
 size = 0x1
+
+[members.0x5b]
+name = "field_6B"
+offset = 0x5b
+type = ""
+size = 0x5
