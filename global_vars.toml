@@ -171,3 +171,9 @@ last_change = 2024-07-12T15:47:53.184717Z
 addr = 0x4118288
 name = "aLaunchgame"
 size = 0xa
+
+[0x4118270]
+last_change = 2024-07-12T15:47:55.810304Z
+addr = 0x4118270
+name = "aOnsynchronizep_0"
+size = 0x17
