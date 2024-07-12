@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.022328Z
+last_change = 2024-07-12T23:54:12.026342Z
 name = "CPad"
 size = 0x158
-
-[members.0xdc]
-name = "PCTempMouseState"
-offset = 0xdc
-type = "CControllerState"
-size = 0x30
 
 [members.0x10c]
 name = "Phase"
