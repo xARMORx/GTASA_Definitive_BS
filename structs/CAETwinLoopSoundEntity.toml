@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:26:34.931137Z
+last_change = 2024-07-12T02:26:34.933139Z
 name = "CAETwinLoopSoundEntity"
-size = 0xa0
+size = 0xa2
 
 [members.0x0]
 name = "audio"
@@ -53,5 +53,11 @@ size = 0x2
 [members.0x9e]
 name = "m_wPlayTimeMin"
 offset = 0x9e
+type = "short"
+size = 0x2
+
+[members.0xa0]
+name = "m_wPlayTimeMax"
+offset = 0xa0
 type = ""
 size = 0x2
