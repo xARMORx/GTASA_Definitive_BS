@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:21:05.564291Z
+last_change = 2024-07-12T20:21:05.567292Z
 addr = 0x10f73b0
 size = 0xd5
 name = "_ZN10C3dMarkers14PlaceMarkerSetEjtR7CVectorfhhhhtfs"
@@ -16,6 +16,14 @@ type = "void"
 last_change = 2024-07-12T20:21:05.564291Z
 offset = -56
 name = "r"
+type = "char"
+size = 0x1
+addr = 0x10f73b0
+
+[stack_vars.-0x30]
+last_change = 2024-07-12T20:21:05.567292Z
+offset = -48
+name = "arg_28"
 type = "char"
 size = 0x1
 addr = 0x10f73b0
