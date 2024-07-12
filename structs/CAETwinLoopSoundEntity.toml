@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:26:34.917025Z
+last_change = 2024-07-12T02:26:34.918025Z
 name = "CAETwinLoopSoundEntity"
 size = 0xc8
-
-[members.0xac]
-name = "m_dwTimeToSwapSounds"
-offset = 0xac
-type = "int"
-size = 0x4
 
 [members.0xb0]
 name = "m_bPlayingFirstSound"
