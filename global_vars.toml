@@ -285,3 +285,9 @@ last_change = 2024-07-12T15:48:42.976052Z
 addr = 0x41180d0
 name = "aMainbuttonsoff"
 size = 0x12
+
+[0x41180c0]
+last_change = 2024-07-12T15:48:44.348649Z
+addr = 0x41180c0
+name = "aTabareaanchors"
+size = 0xe
