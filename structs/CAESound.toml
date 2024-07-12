@@ -1,4 +1,4 @@
-last_change = 2024-07-12T02:32:36.548616Z
+last_change = 2024-07-12T02:32:36.549617Z
 name = "CAESound"
 size = 0x30
 
@@ -59,5 +59,11 @@ size = 0x4
 [members.0x28]
 name = "m_fSpeed"
 offset = 0x28
+type = "float"
+size = 0x4
+
+[members.0x2c]
+name = "field_20"
+offset = 0x2c
 type = ""
 size = 0x4
