@@ -1043,10 +1043,10 @@ name = ""
 size = 0x88
 
 [0x55712b0]
-last_change = 2024-07-12T20:42:40.295179Z
+last_change = 2024-07-12T20:42:40.420690Z
 addr = 0x55712b0
-name = "qword_55712B0"
-size = 0x8
+name = ""
+size = 0x80
 
 [0x55712b8]
 last_change = 2024-07-12T20:42:40.297179Z
