@@ -1,9 +1,15 @@
-last_change = 2024-07-12T02:07:07.866093Z
+last_change = 2024-07-12T02:07:07.866511Z
 name = "CEntity"
-size = 0x20
+size = 0x30
 
 [members.0x0]
 name = "placeable"
 offset = 0x0
-type = ""
+type = "CPlaceable"
 size = 0x20
+
+[members.0x20]
+name = "field_0"
+offset = 0x20
+type = ""
+size = 0x10
