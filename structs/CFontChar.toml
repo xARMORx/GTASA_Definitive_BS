@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:04:09.400163Z
+last_change = 2024-07-12T16:04:09.402163Z
 name = "CFontChar"
-size = 0xc
+size = 0x10
 
 [members.0x0]
 name = "m_cLetter"
@@ -17,5 +17,11 @@ size = 0x3
 [members.0x4]
 name = "m_vPosn"
 offset = 0x4
-type = ""
+type = "CVector2D"
 size = 0x8
+
+[members.0xc]
+name = "m_fWidth"
+offset = 0xc
+type = ""
+size = 0x4
