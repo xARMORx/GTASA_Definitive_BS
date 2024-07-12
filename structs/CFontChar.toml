@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:04:09.411165Z
+last_change = 2024-07-12T16:04:09.413166Z
 name = "CFontChar"
 size = 0x2c
 
@@ -65,5 +65,11 @@ size = 0x1
 [members.0x29]
 name = "m_nFontStyle"
 offset = 0x29
+type = "char"
+size = 0x1
+
+[members.0x2a]
+name = "m_bPropOn"
+offset = 0x2a
 type = ""
 size = 0x1
