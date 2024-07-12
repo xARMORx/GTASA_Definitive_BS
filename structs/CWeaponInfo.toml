@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:21:37.087862Z
+last_change = 2024-07-12T16:21:37.089863Z
 name = "CWeaponInfo"
-size = 0x1c
+size = 0x20
 
 [members.0x0]
 name = "m_eFireType"
@@ -41,5 +41,11 @@ size = 0x4
 [members.0x18]
 name = "m_nFlags"
 offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "AssocGroupId"
+offset = 0x1c
 type = ""
 size = 0x4
