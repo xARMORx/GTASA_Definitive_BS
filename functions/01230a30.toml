@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:40:58.640942Z
+last_change = 2024-07-12T20:44:10.033785Z
 addr = 0x1230a30
 size = 0x18c
 name = "_ZN6CTrain10InitTrainsEv"
@@ -9,3 +9,11 @@ name = "_ZN6CTrain10InitTrainsEv"
 addr = 0x1230a30
 
 [header.args]
+
+[stack_vars.-0x48]
+last_change = 2024-07-12T20:44:10.033785Z
+offset = -72
+name = "var_28"
+type = "long long"
+size = 0x8
+addr = 0x1230a30
