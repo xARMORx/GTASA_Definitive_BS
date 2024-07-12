@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:33:46.994448Z
+last_change = 2024-07-12T02:33:46.995448Z
 name = "CPed"
-size = 0x52c
+size = 0x530
 
 [members.0x0]
 name = "physical"
@@ -41,5 +41,11 @@ size = 0x1
 [members.0x529]
 name = "field_5A0"
 offset = 0x529
-type = ""
+type = "char[3]"
 size = 0x3
+
+[members.0x52c]
+name = "m_nPedState"
+offset = 0x52c
+type = ""
+size = 0x4
