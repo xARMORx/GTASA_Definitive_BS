@@ -485,10 +485,10 @@ name = ""
 size = 0x16
 
 [0x549d6e8]
-last_change = 2024-07-12T16:04:09.430169Z
+last_change = 2024-07-12T16:04:09.443172Z
 addr = 0x549d6e8
-name = "qword_549D6E8"
-size = 0x8
+name = ""
+size = 0xc
 
 [0x549d6f0]
 last_change = 2024-07-12T16:04:09.431170Z
