@@ -821,9 +821,9 @@ name = "totalDist"
 size = 0x4
 
 [0x5571214]
-last_change = 2024-07-12T20:42:16.460403Z
+last_change = 2024-07-12T20:42:40.215071Z
 addr = 0x5571214
-name = "lineCount"
+name = "dword_5571214"
 size = 0x4
 
 [0x55711b0]
