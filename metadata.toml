@@ -3,4 +3,4 @@ version = "4.3.4"
 last_push_time = 2024-07-12T16:27:02.103425Z
 last_push_artifact = -1
 last_push_artifact_type = -1
-last_commit_msg = "Merged in <Function: None Handler(args=0); @0xa60000 vars=0 len=0x75> from ARMOR"
+last_commit_msg = "Merged in <Function: None _ZN9CSprite2d4DrawEffffffffRK5CRGBA(args=0); @0xb04780 vars=6 len=0x72e> from ARMOR"
