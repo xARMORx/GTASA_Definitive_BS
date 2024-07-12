@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:24:32.013648Z
+last_change = 2024-07-12T02:24:32.014650Z
 name = "CAESound"
-size = 0x14
+size = 0x18
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -23,5 +23,11 @@ size = 0x8
 [members.0xc]
 name = "m_pPhysicalEntity"
 offset = 0xc
-type = ""
+type = "CEntity *"
 size = 0x8
+
+[members.0x14]
+name = "m_dwEvent"
+offset = 0x14
+type = ""
+size = 0x4
