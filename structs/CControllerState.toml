@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:53:03.979908Z
+last_change = 2024-07-12T23:53:03.983931Z
 name = "CControllerState"
 size = 0x30
-
-[members.0x28]
-name = "m_bChatIndicated"
-offset = 0x28
-type = "int16_t"
-size = 0x2
 
 [members.0x2a]
 name = "m_bPedWalk"
