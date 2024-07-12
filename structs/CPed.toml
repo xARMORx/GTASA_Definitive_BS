@@ -1,273 +1,267 @@
-last_change = 2024-07-12T02:32:48.240319Z
+last_change = 2024-07-12T02:33:19.728239Z
 name = "CPed"
-size = 0xa1a
-
-[members.0x0]
-name = "physical"
-offset = 0x0
-type = "CPhysical"
-size = 0x1a0
+size = 0xa3e
 
 [members.0x1a0]
 name = "m_pedAudio"
 offset = 0x1a0
 type = "CAEPedAudioEntity"
-size = 0x174
+size = 0x198
 
-[members.0x314]
+[members.0x338]
 name = "field_0"
-offset = 0x314
+offset = 0x338
 type = "char[576]"
 size = 0x240
 
-[members.0x554]
+[members.0x578]
 name = "m_pIntelligence"
-offset = 0x554
+offset = 0x578
 type = "CPedIntelligence *"
 size = 0x8
 
-[members.0x55c]
+[members.0x580]
 name = "m_pPlayerData"
-offset = 0x55c
+offset = 0x580
 type = "CPlayerData *"
 size = 0x8
 
-[members.0x564]
+[members.0x588]
 name = "m_nCreatedBy"
-offset = 0x564
+offset = 0x588
 type = "char"
 size = 0x1
 
-[members.0x565]
+[members.0x589]
 name = "field_5A0"
-offset = 0x565
+offset = 0x589
 type = "char[3]"
 size = 0x3
 
-[members.0x568]
+[members.0x58c]
 name = "m_nPedState"
-offset = 0x568
+offset = 0x58c
 type = "ePedState"
 size = 0x4
 
-[members.0x56c]
+[members.0x590]
 name = "field_598"
-offset = 0x56c
+offset = 0x590
 type = "char[52]"
 size = 0x34
 
-[members.0x5a0]
+[members.0x5c4]
 name = "m_nPedFlags"
-offset = 0x5a0
+offset = 0x5c4
 type = "int[4]"
 size = 0x10
 
-[members.0x5b0]
+[members.0x5d4]
 name = "field_5EC"
-offset = 0x5b0
+offset = 0x5d4
 type = "char[156]"
 size = 0x9c
 
-[members.0x64c]
+[members.0x670]
 name = "field_688"
-offset = 0x64c
+offset = 0x670
 type = "char[16]"
 size = 0x10
 
-[members.0x65c]
+[members.0x680]
 name = "m_dwAnimGroup"
-offset = 0x65c
+offset = 0x680
 type = "int"
 size = 0x4
 
-[members.0x660]
+[members.0x684]
 name = "field_68C"
-offset = 0x660
+offset = 0x684
 type = "char[58]"
 size = 0x3a
 
-[members.0x69a]
+[members.0x6be]
 name = "m_nWeaponGunflashStateLeftHand"
-offset = 0x69a
+offset = 0x6be
 type = "short"
 size = 0x2
 
-[members.0x69c]
+[members.0x6c0]
 name = "field_6DA"
-offset = 0x69c
+offset = 0x6c0
 type = "char[2]"
 size = 0x2
 
-[members.0x69e]
+[members.0x6c2]
 name = "m_nWeaponGunflashStateRightHand"
-offset = 0x69e
+offset = 0x6c2
 type = "short"
 size = 0x2
 
-[members.0x6a0]
+[members.0x6c4]
 name = "field_6DE"
-offset = 0x6a0
+offset = 0x6c4
 type = "char[56]"
 size = 0x38
 
-[members.0x6d8]
+[members.0x6fc]
 name = "m_fHealth"
-offset = 0x6d8
+offset = 0x6fc
 type = "float"
 size = 0x4
 
-[members.0x6dc]
+[members.0x700]
 name = "m_fMaxHealth"
-offset = 0x6dc
+offset = 0x700
 type = "float"
 size = 0x4
 
-[members.0x6e0]
+[members.0x704]
 name = "m_fArmour"
-offset = 0x6e0
+offset = 0x704
 type = "float"
 size = 0x4
 
-[members.0x6e4]
+[members.0x708]
 name = "field_718"
-offset = 0x6e4
+offset = 0x708
 type = "char[20]"
 size = 0x14
 
-[members.0x6f8]
+[members.0x71c]
 name = "m_fHeadingChangeRate"
-offset = 0x6f8
+offset = 0x71c
 type = "float"
 size = 0x4
 
-[members.0x6fc]
+[members.0x720]
 name = "field_738"
-offset = 0x6fc
+offset = 0x720
 type = "char[56]"
 size = 0x38
 
-[members.0x734]
+[members.0x758]
 name = "m_pVehicle"
-offset = 0x734
+offset = 0x758
 type = "CVehicle *"
 size = 0x8
 
-[members.0x73c]
+[members.0x760]
 name = "field_778"
-offset = 0x73c
+offset = 0x760
 type = "char[16]"
 size = 0x10
 
-[members.0x74c]
+[members.0x770]
 name = "m_nPedType"
-offset = 0x74c
+offset = 0x770
 type = "int"
 size = 0x4
 
-[members.0x750]
+[members.0x774]
 name = "field_78C"
-offset = 0x750
+offset = 0x774
 type = "char[4]"
 size = 0x4
 
-[members.0x754]
+[members.0x778]
 name = "m_pStats"
-offset = 0x754
+offset = 0x778
 type = "CPedStat *"
 size = 0x8
 
-[members.0x75c]
+[members.0x780]
 name = "m_aWeapon"
-offset = 0x75c
+offset = 0x780
 type = "CWeapon[13]"
 size = 0x208
 
-[members.0x964]
+[members.0x988]
 name = "m_nSavedWeapon"
-offset = 0x964
+offset = 0x988
 type = "int"
 size = 0x4
 
-[members.0x968]
+[members.0x98c]
 name = "m_nDelayedWeapon"
-offset = 0x968
+offset = 0x98c
 type = "int"
 size = 0x4
 
-[members.0x96c]
+[members.0x990]
 name = "m_dwDelayedWeaponAmmo"
-offset = 0x96c
+offset = 0x990
 type = "int"
 size = 0x4
 
-[members.0x970]
+[members.0x994]
 name = "m_nActiveWeaponSlot"
-offset = 0x970
+offset = 0x994
 type = "char"
 size = 0x1
 
-[members.0x971]
+[members.0x995]
 name = "m_nWeaponShootingRate"
-offset = 0x971
+offset = 0x995
 type = "char"
 size = 0x1
 
-[members.0x972]
+[members.0x996]
 name = "field_9AD"
-offset = 0x972
+offset = 0x996
 type = "char[38]"
 size = 0x26
 
-[members.0x998]
+[members.0x9bc]
 name = "m_nWeaponSkill"
-offset = 0x998
+offset = 0x9bc
 type = "char"
 size = 0x1
 
-[members.0x999]
+[members.0x9bd]
 name = "field_9D5"
-offset = 0x999
+offset = 0x9bd
 type = "char[31]"
 size = 0x1f
 
-[members.0x9b8]
+[members.0x9dc]
 name = "m_dwWeaponModelId"
-offset = 0x9b8
+offset = 0x9dc
 type = "int"
 size = 0x4
 
-[members.0x9bc]
+[members.0x9e0]
 name = "field_9F8"
-offset = 0x9bc
+offset = 0x9e0
 type = "char[18]"
 size = 0x12
 
-[members.0x9ce]
+[members.0x9f2]
 name = "m_nMoneyCount"
-offset = 0x9ce
+offset = 0x9f2
 type = "unsigned short"
 size = 0x2
 
-[members.0x9d0]
+[members.0x9f4]
 name = "field_A0C"
-offset = 0x9d0
+offset = 0x9f4
 type = "char[8]"
 size = 0x8
 
-[members.0x9d8]
+[members.0x9fc]
 name = "m_nLastWeaponDamage"
-offset = 0x9d8
+offset = 0x9fc
 type = "char"
 size = 0x1
 
-[members.0x9d9]
+[members.0x9fd]
 name = "field_A05"
-offset = 0x9d9
+offset = 0x9fd
 type = "char[63]"
 size = 0x3f
 
-[members.0xa18]
+[members.0xa3c]
 name = "m_wSpecialModelIndex"
-offset = 0xa18
-type = ""
+offset = 0xa3c
+type = "unsigned short"
 size = 0x2
