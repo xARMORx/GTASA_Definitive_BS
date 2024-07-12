@@ -653,7 +653,7 @@ name = "qword_52045B0"
 size = 0x8
 
 [0x52045b8]
-last_change = 2024-07-12T19:48:11.960887Z
+last_change = 2024-07-12T19:48:11.962888Z
 addr = 0x52045b8
-name = "dword_52045B8"
+name = ""
 size = 0x4
