@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:26:34.789834Z
+last_change = 2024-07-12T02:26:34.791834Z
 name = "CAESound"
 size = 0x7c
-
-[members.0xc]
-name = "m_pPhysicalEntity"
-offset = 0xc
-type = "CEntity *"
-size = 0x8
 
 [members.0x14]
 name = "m_dwEvent"
