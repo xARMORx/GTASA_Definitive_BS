@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:30:57.835602Z
+last_change = 2024-07-12T02:30:57.836598Z
 name = "CAESound"
 size = 0x80
-
-[members.0x6c]
-name = "m_fFinalVolume"
-offset = 0x6c
-type = "float"
-size = 0x4
 
 [members.0x70]
 name = "m_fFrequency"
