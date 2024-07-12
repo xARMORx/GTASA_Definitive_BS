@@ -821,9 +821,9 @@ name = "totalDist"
 size = 0x4
 
 [0x5571214]
-last_change = 2024-07-12T20:43:36.830253Z
+last_change = 2024-07-12T20:43:36.839256Z
 addr = 0x5571214
-name = "dword_5571214"
+name = ""
 size = 0x4
 
 [0x55711b0]
