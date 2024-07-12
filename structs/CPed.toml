@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:33:19.779250Z
+last_change = 2024-07-12T02:33:19.780251Z
 name = "CPed"
-size = 0x558
+size = 0x55a
 
 [members.0x0]
 name = "physical"
@@ -29,5 +29,11 @@ size = 0x8
 [members.0x550]
 name = "m_pPlayerData"
 offset = 0x550
-type = ""
+type = "CPlayerData *"
 size = 0x8
+
+[members.0x558]
+name = "m_nCreatedBy"
+offset = 0x558
+type = ""
+size = 0x1
