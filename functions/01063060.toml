@@ -1,11 +1,11 @@
-last_change = 2024-07-12T16:10:36.657602Z
+last_change = 2024-07-12T16:10:36.658603Z
 addr = 0x1063060
 size = 0xfaf
 
 [stack_vars.-0x8]
-last_change = 2024-07-12T16:10:36.657602Z
+last_change = 2024-07-12T16:10:36.658603Z
 offset = -8
-name = "arg_10"
+name = "a"
 type = "short"
 size = 0x2
 addr = 0x1063060
