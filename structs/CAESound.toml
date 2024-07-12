@@ -5,5 +5,11 @@ size = 0x8
 [members.0x0]
 name = "m_wBankSlotId"
 offset = 0x0
+type = "short"
+size = 0x2
+
+[members.0x2]
+name = "m_wSoundIdInSlot"
+offset = 0x2
 type = ""
 size = 0x2
