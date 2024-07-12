@@ -1,11 +1,11 @@
-last_change = 2024-07-12T20:21:09.340911Z
+last_change = 2024-07-12T20:38:12.508048Z
 addr = 0xe76870
 size = 0x44
-type = "float"
+type = "double"
 
 [header]
-last_change = 2024-07-12T20:21:09.340911Z
+last_change = 2024-07-12T20:38:12.508048Z
 addr = 0xe76870
-type = "float"
+type = "double"
 
 [header.args]
