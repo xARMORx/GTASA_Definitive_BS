@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.136963Z
+last_change = 2024-07-12T23:54:12.138963Z
 name = "CPad"
 size = 0x158
-
-[members.0x144]
-name = "NoShakeFreq"
-offset = 0x144
-type = "uint8_t"
-size = 0x1
 
 [members.0x145]
 name = "bHasJetPack"
