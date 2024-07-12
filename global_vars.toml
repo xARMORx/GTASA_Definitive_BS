@@ -123,3 +123,9 @@ last_change = 2024-07-12T15:47:28.128782Z
 addr = 0x4118348
 name = "aControllerdisc"
 size = 0x19
+
+[0x4118328]
+last_change = 2024-07-12T15:47:31.346192Z
+addr = 0x4118328
+name = "aMissionretryco"
+size = 0x1d
