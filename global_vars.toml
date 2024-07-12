@@ -63,3 +63,9 @@ last_change = 2024-07-12T04:35:16.248136Z
 addr = 0x556bb88
 name = "FrontEndMenuManager"
 size = 0x8
+
+[0x42edbfc]
+last_change = 2024-07-12T04:40:01.541158Z
+addr = 0x42edbfc
+name = "nColor"
+size = 0x4
