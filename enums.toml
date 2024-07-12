@@ -1,5 +1,5 @@
 [eRadarSprite]
-last_change = 2024-07-12T04:23:40.381754Z
+last_change = 2024-07-12T04:23:40.382756Z
 name = "eRadarSprite"
 
 [eRadarSprite.members]
@@ -34,3 +34,4 @@ RADAR_SPRITE_MODGARAGE = 0x1b
 RADAR_SPRITE_OGLOC = 0x1c
 RADAR_SPRITE_PIZZA = 0x1d
 RADAR_SPRITE_POLICE = 0x1e
+RADAR_SPRITE_PROPERTYG = 0x1f
