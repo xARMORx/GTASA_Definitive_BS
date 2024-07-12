@@ -1245,3 +1245,9 @@ last_change = 2024-07-12T22:46:35.507409Z
 addr = 0x4ff4550
 name = "_ZN10CEntryExit13ms_spawnPointE"
 size = 0x8
+
+[0x55703b8]
+last_change = 2024-07-12T22:47:54.097540Z
+addr = 0x55703b8
+name = "sectionName"
+size = 0x8
