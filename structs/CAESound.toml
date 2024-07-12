@@ -1,12 +1,6 @@
-last_change = 2024-07-12T02:33:47.559056Z
+last_change = 2024-07-12T02:33:47.560055Z
 name = "CAESound"
 size = 0x68
-
-[members.0x30]
-name = "m_vCurrPosn"
-offset = 0x30
-type = "CVector"
-size = 0xc
 
 [members.0x3c]
 name = "m_vPrevPosn"
