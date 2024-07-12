@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:53:01.784023Z
+last_change = 2024-07-12T23:53:01.789442Z
 name = "CPad"
-size = 0x148
+size = 0x14c
 
 [members.0x0]
 name = "NewState"
@@ -263,5 +263,11 @@ size = 0x1
 [members.0x147]
 name = "bTrainPassenger"
 offset = 0x147
+type = "uint8_t"
+size = 0x1
+
+[members.0x148]
+name = "bSavedForTrain"
+offset = 0x148
 type = ""
 size = 0x1
