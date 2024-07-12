@@ -549,3 +549,9 @@ last_change = 2024-07-12T16:09:56.987348Z
 addr = 0x5244bac
 name = "byte_5244BAC"
 size = 0x2
+
+[0x5244bae]
+last_change = 2024-07-12T16:09:56.991348Z
+addr = 0x5244bae
+name = "byte_5244BAE"
+size = 0x2
