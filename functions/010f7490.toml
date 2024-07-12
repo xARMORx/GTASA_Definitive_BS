@@ -1,4 +1,4 @@
-last_change = 2024-07-12T20:22:39.613121Z
+last_change = 2024-07-12T20:22:39.616121Z
 addr = 0x10f7490
 size = 0x740
 
@@ -24,4 +24,12 @@ offset = -120
 name = "type"
 type = "CVector"
 size = 0xc
+addr = 0x10f7490
+
+[stack_vars.-0xf8]
+last_change = 2024-07-12T20:22:39.616121Z
+offset = -248
+name = "var_D0"
+type = "unsigned char"
+size = 0x1
 addr = 0x10f7490
