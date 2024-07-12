@@ -1,6 +1,6 @@
-last_change = 2024-07-12T16:21:37.105866Z
+last_change = 2024-07-12T16:21:37.106866Z
 name = "CWeaponInfo"
-size = 0x48
+size = 0x4c
 
 [members.0x0]
 name = "m_eFireType"
@@ -101,5 +101,11 @@ size = 0x4
 [members.0x44]
 name = "animLoopEnd"
 offset = 0x44
+type = "float"
+size = 0x4
+
+[members.0x48]
+name = "animLoopFire"
+offset = 0x48
 type = ""
 size = 0x4
