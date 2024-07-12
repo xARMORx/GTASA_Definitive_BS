@@ -831,3 +831,9 @@ last_change = 2024-07-12T20:42:23.525806Z
 addr = 0x55711b0
 name = "NumTrackNodes"
 size = 0x64
+
+[0x5571238]
+last_change = 2024-07-12T20:42:40.220073Z
+addr = 0x5571238
+name = "dword_5571238"
+size = 0x4
