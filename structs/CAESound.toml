@@ -1,6 +1,6 @@
-last_change = 2024-07-12T02:24:32.036335Z
+last_change = 2024-07-12T02:24:32.037731Z
 name = "CAESound"
-size = 0x70
+size = 0x72
 
 [members.0x0]
 name = "m_wBankSlotId"
@@ -161,5 +161,11 @@ size = 0x4
 [members.0x6c]
 name = "m_fFrequency"
 offset = 0x6c
-type = ""
+type = "float"
 size = 0x4
+
+[members.0x70]
+name = "m_wPlayingState"
+offset = 0x70
+type = ""
+size = 0x2
