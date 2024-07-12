@@ -1,4 +1,4 @@
-last_change = 2024-07-12T16:10:35.367251Z
+last_change = 2024-07-12T16:19:37.821725Z
 addr = 0x105cc10
 size = 0x22c9
 
@@ -16,4 +16,12 @@ offset = -5936
 name = "a"
 type = "short"
 size = 0x2
+addr = 0x105cc10
+
+[stack_vars.-0x1774]
+last_change = 2024-07-12T16:19:37.821725Z
+offset = -6004
+name = "var_174C"
+type = "unsigned int"
+size = 0x4
 addr = 0x105cc10
