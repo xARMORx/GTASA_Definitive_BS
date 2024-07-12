@@ -1,12 +1,6 @@
-last_change = 2024-07-12T23:54:12.030330Z
+last_change = 2024-07-12T23:54:12.034331Z
 name = "CPad"
 size = 0x158
-
-[members.0x10e]
-name = "ShakeDur"
-offset = 0x10e
-type = "int16_t"
-size = 0x2
 
 [members.0x110]
 name = "DisablePlayerControls"
