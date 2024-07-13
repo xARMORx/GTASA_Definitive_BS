@@ -1,4 +1,4 @@
-last_change = 2024-07-13T02:20:58.994133Z
+last_change = 2024-07-13T02:20:58.998201Z
 name = "CEntity"
 size = 0x40
 
@@ -35,5 +35,11 @@ size = 0x2
 [members.0x3a]
 name = "m_nModelIndex"
 offset = 0x3a
-type = ""
+type = "unsigned short"
 size = 0x2
+
+[members.0x3c]
+name = "field_3C"
+offset = 0x3c
+type = ""
+size = 0x4
