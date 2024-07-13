@@ -1,12 +1,6 @@
-last_change = 2024-07-13T02:20:58.924044Z
+last_change = 2024-07-13T02:20:58.927889Z
 name = "CEntity"
 size = 0x60
-
-[members.0x38]
-name = "m_nRandomSeed"
-offset = 0x38
-type = "unsigned short"
-size = 0x2
 
 [members.0x3a]
 name = "m_nModelIndex"
