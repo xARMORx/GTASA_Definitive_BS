@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:58:07.391574Z
+last_change = 2024-07-13T02:58:07.395575Z
 name = "CPhysical"
-size = 0xdc
+size = 0xe8
 
 [members.0x0]
 name = "entity"
@@ -41,5 +41,11 @@ size = 0x54
 [members.0xd8]
 name = "m_pCollisionList"
 offset = 0xd8
-type = ""
+type = "int"
 size = 0x4
+
+[members.0xdc]
+name = "field_DC"
+offset = 0xdc
+type = ""
+size = 0xc
