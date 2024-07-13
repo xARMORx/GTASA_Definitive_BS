@@ -1,6 +1,6 @@
-last_change = 2024-07-13T03:08:28.775280Z
+last_change = 2024-07-13T03:08:28.779281Z
 name = "CPlayerInfo"
-size = 0x110
+size = 0x111
 
 [members.0x0]
 name = "m_pPed"
@@ -41,5 +41,11 @@ size = 0x4
 [members.0xec]
 name = "field_100"
 offset = 0xec
-type = ""
+type = "char[36]"
 size = 0x24
+
+[members.0x110]
+name = "m_nPlayerState"
+offset = 0x110
+type = ""
+size = 0x1
