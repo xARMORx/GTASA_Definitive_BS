@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:58:07.398575Z
+last_change = 2024-07-13T02:58:07.402576Z
 name = "CPhysical"
-size = 0xe9
+size = 0xf0
 
 [members.0x0]
 name = "entity"
@@ -53,5 +53,11 @@ size = 0xc
 [members.0xe8]
 name = "m_nNumEntitiesCollided"
 offset = 0xe8
-type = ""
+type = "char"
 size = 0x1
+
+[members.0xe9]
+name = "field_FA"
+offset = 0xe9
+type = ""
+size = 0x7
