@@ -1,12 +1,6 @@
-last_change = 2024-07-13T03:08:28.728444Z
+last_change = 2024-07-13T03:08:28.732444Z
 name = "CPlayerInfo"
 size = 0x1c0
-
-[members.0xec]
-name = "field_100"
-offset = 0xec
-type = "char[36]"
-size = 0x24
 
 [members.0x110]
 name = "m_nPlayerState"
