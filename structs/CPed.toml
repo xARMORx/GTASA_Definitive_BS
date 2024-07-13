@@ -1,12 +1,6 @@
-last_change = 2024-07-13T02:45:29.434639Z
+last_change = 2024-07-13T02:45:29.437639Z
 name = "CPed"
 size = 0xa46
-
-[members.0xa04]
-name = "m_nLastWeaponDamage"
-offset = 0xa04
-type = "char"
-size = 0x1
 
 [members.0xa05]
 name = "field_A05"
