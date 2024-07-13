@@ -1467,3 +1467,9 @@ last_change = 2024-07-13T02:25:39.523046Z
 addr = 0x4ea9fa0
 name = "xmmword_4EA9FA0"
 size = 0x10
+
+[0x4ea9fb0]
+last_change = 2024-07-13T02:25:39.528367Z
+addr = 0x4ea9fb0
+name = "xmmword_4EA9FB0"
+size = 0x10
