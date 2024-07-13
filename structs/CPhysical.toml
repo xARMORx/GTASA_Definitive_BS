@@ -1,12 +1,6 @@
-last_change = 2024-07-13T02:58:07.360567Z
+last_change = 2024-07-13T02:58:07.364568Z
 name = "CPhysical"
 size = 0x1a0
-
-[members.0x190]
-name = "m_fContactSurfaceBrightness"
-offset = 0x190
-type = "float"
-size = 0x4
 
 [members.0x194]
 name = "field_198"
