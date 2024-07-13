@@ -1,4 +1,4 @@
-last_change = 2024-07-12T23:54:12.242505Z
+last_change = 2024-07-12T23:54:12.245908Z
 name = "CPad"
 size = 0x124
 
@@ -143,5 +143,11 @@ size = 0x1
 [members.0x121]
 name = "bDisableForbiddenTerr"
 offset = 0x121
+type = "uint8_t"
+size = 0x1
+
+[members.0x122]
+name = "bStopRhythmSprites"
+offset = 0x122
 type = ""
 size = 0x1
