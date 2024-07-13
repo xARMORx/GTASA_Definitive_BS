@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:58:17.711898Z
+last_change = 2024-07-13T02:58:17.714899Z
 name = "CEntity"
-size = 0x34
+size = 0x38
 
 [members.0x0]
 name = "placeable"
@@ -17,5 +17,11 @@ size = 0x10
 [members.0x30]
 name = "m_nFlags"
 offset = 0x30
+type = "eEntityFlags"
+size = 0x4
+
+[members.0x34]
+name = "field_34"
+offset = 0x34
 type = ""
 size = 0x4
