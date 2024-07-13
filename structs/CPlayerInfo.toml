@@ -1,5 +1,9 @@
-last_change = 2024-07-13T03:08:28.753448Z
+last_change = 2024-07-13T03:08:28.756276Z
 name = "CPlayerInfo"
-size = 0x0
+size = 0x8
 
-[members]
+[members.0x0]
+name = "m_pPed"
+offset = 0x0
+type = ""
+size = 0x8
