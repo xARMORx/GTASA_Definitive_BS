@@ -1281,3 +1281,9 @@ last_change = 2024-07-12T22:53:20.204196Z
 addr = 0x500aff8
 name = "_ZN11CTheScripts14pActiveScriptsE"
 size = 0x8
+
+[0x54c3894]
+last_change = 2024-07-13T01:08:05.673456Z
+addr = 0x54c3894
+name = "a3"
+size = 0x4
