@@ -1,6 +1,6 @@
-last_change = 2024-07-13T03:08:28.769279Z
+last_change = 2024-07-13T03:08:28.772279Z
 name = "CPlayerInfo"
-size = 0xe8
+size = 0xec
 
 [members.0x0]
 name = "m_pPed"
@@ -29,5 +29,11 @@ size = 0x8
 [members.0xe0]
 name = "field_E0"
 offset = 0xe0
-type = ""
+type = "char[8]"
 size = 0x8
+
+[members.0xe8]
+name = "m_nMoneyCount"
+offset = 0xe8
+type = ""
+size = 0x4
