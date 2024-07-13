@@ -1305,3 +1305,9 @@ last_change = 2024-07-13T02:21:06.246723Z
 addr = 0x1000
 name = ""
 size = 0x1
+
+[0xaab0]
+last_change = 2024-07-13T02:21:06.598406Z
+addr = 0xaab0
+name = "qword_AAB0"
+size = 0xd80
