@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:58:07.377571Z
+last_change = 2024-07-13T02:58:07.381571Z
 name = "CPhysical"
-size = 0x6c
+size = 0x78
 
 [members.0x0]
 name = "entity"
@@ -17,5 +17,11 @@ size = 0x8
 [members.0x68]
 name = "m_dwFlags"
 offset = 0x68
-type = ""
+type = "int"
 size = 0x4
+
+[members.0x6c]
+name = "m_vecMoveSpeed"
+offset = 0x6c
+type = ""
+size = 0xc
