@@ -1,12 +1,6 @@
-last_change = 2024-07-13T03:08:28.718440Z
+last_change = 2024-07-13T03:08:28.721441Z
 name = "CPlayerInfo"
 size = 0x1c0
-
-[members.0xd8]
-name = "m_pRemoteVehicle"
-offset = 0xd8
-type = "CVehicle *"
-size = 0x8
 
 [members.0xe0]
 name = "field_E0"
