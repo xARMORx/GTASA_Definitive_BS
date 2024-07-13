@@ -1583,10 +1583,10 @@ name = ""
 size = 0x2c
 
 [0x54abe18]
-last_change = 2024-07-13T02:25:40.445533Z
+last_change = 2024-07-13T02:25:40.479795Z
 addr = 0x54abe18
-name = "dword_54ABE18"
-size = 0x4
+name = ""
+size = 0x28
 
 [0x54abe30]
 last_change = 2024-07-13T02:25:40.448533Z
