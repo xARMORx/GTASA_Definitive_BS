@@ -1,12 +1,6 @@
-last_change = 2024-07-13T02:20:58.940593Z
+last_change = 2024-07-13T02:20:58.944152Z
 name = "CEntity"
 size = 0x60
-
-[members.0x48]
-name = "field_48"
-offset = 0x48
-type = "char[3]"
-size = 0x3
 
 [members.0x4b]
 name = "m_nbInterior"
