@@ -1,12 +1,6 @@
-last_change = 2024-07-13T02:58:17.672889Z
+last_change = 2024-07-13T02:58:17.676890Z
 name = "CEntity"
 size = 0x60
-
-[members.0x40]
-name = "m_pReferences"
-offset = 0x40
-type = "CReference *"
-size = 0x8
 
 [members.0x48]
 name = "field_48"
