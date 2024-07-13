@@ -1,12 +1,6 @@
-last_change = 2024-07-13T02:58:07.323558Z
+last_change = 2024-07-13T02:58:07.327559Z
 name = "CPhysical"
 size = 0x1a0
-
-[members.0x6c]
-name = "m_vecMoveSpeed"
-offset = 0x6c
-type = "CVector"
-size = 0xc
 
 [members.0x78]
 name = "m_vecTurnSpeed"
