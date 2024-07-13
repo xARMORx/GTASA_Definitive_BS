@@ -1,12 +1,6 @@
-last_change = 2024-07-13T02:58:17.649884Z
+last_change = 2024-07-13T02:58:17.654885Z
 name = "CEntity"
 size = 0x60
-
-[members.0x20]
-name = "field_0"
-offset = 0x20
-type = "char[16]"
-size = 0x10
 
 [members.0x30]
 name = "m_nFlags"
