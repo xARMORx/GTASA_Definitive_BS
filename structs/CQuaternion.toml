@@ -1,5 +1,9 @@
-last_change = 2024-07-13T02:25:06.759723Z
+last_change = 2024-07-13T02:25:06.762724Z
 name = "CQuaternion"
-size = 0x0
+size = 0xc
 
-[members]
+[members.0x0]
+name = "imag"
+offset = 0x0
+type = ""
+size = 0xc
