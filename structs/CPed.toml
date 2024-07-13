@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:45:29.582322Z
+last_change = 2024-07-13T02:45:29.586326Z
 name = "CPed"
-size = 0x6ca
+size = 0x6cc
 
 [members.0x0]
 name = "physical"
@@ -95,5 +95,11 @@ size = 0x2
 [members.0x6c8]
 name = "field_6DA"
 offset = 0x6c8
+type = "char[2]"
+size = 0x2
+
+[members.0x6ca]
+name = "m_nWeaponGunflashStateRightHand"
+offset = 0x6ca
 type = ""
 size = 0x2
