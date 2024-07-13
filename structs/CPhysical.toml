@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:58:07.419580Z
+last_change = 2024-07-13T02:58:07.423581Z
 name = "CPhysical"
-size = 0x194
+size = 0x1a0
 
 [members.0x0]
 name = "entity"
@@ -89,5 +89,11 @@ size = 0x6c
 [members.0x190]
 name = "m_fContactSurfaceBrightness"
 offset = 0x190
-type = ""
+type = "float"
 size = 0x4
+
+[members.0x194]
+name = "field_198"
+offset = 0x194
+type = ""
+size = 0xc
