@@ -1,4 +1,4 @@
-last_change = 2024-07-12T23:54:12.419486Z
+last_change = 2024-07-12T23:54:12.422487Z
 name = "CPad"
 size = 0x14c
 
@@ -275,5 +275,11 @@ size = 0x1
 [members.0x149]
 name = "bSetSteeringMode"
 offset = 0x149
+type = "uint8_t"
+size = 0x1
+
+[members.0x14a]
+name = "bSetTouchLayout"
+offset = 0x14a
 type = ""
 size = 0x1
