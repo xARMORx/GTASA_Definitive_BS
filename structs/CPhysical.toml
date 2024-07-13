@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:58:07.374570Z
+last_change = 2024-07-13T02:58:07.377571Z
 name = "CPhysical"
-size = 0x68
+size = 0x6c
 
 [members.0x0]
 name = "entity"
@@ -11,5 +11,11 @@ size = 0x60
 [members.0x60]
 name = "field_0"
 offset = 0x60
-type = ""
+type = "char[8]"
 size = 0x8
+
+[members.0x68]
+name = "m_dwFlags"
+offset = 0x68
+type = ""
+size = 0x4
