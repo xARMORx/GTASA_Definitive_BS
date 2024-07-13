@@ -1521,3 +1521,9 @@ last_change = 2024-07-13T02:25:39.569375Z
 addr = 0x4ea9f80
 name = "xmmword_4EA9F80"
 size = 0x10
+
+[0x4ea9f90]
+last_change = 2024-07-13T02:25:39.572375Z
+addr = 0x4ea9f90
+name = "qword_4EA9F90"
+size = 0x8
