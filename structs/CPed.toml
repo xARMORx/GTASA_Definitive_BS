@@ -1,5 +1,9 @@
-last_change = 2024-07-13T02:45:31.516987Z
+last_change = 2024-07-13T02:45:31.521249Z
 name = "CPed"
-size = 0x0
+size = 0x1a0
 
-[members]
+[members.0x0]
+name = "physical"
+offset = 0x0
+type = ""
+size = 0x1a0
