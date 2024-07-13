@@ -1,12 +1,6 @@
-last_change = 2024-07-13T02:58:07.315557Z
+last_change = 2024-07-13T02:58:07.319557Z
 name = "CPhysical"
 size = 0x1a0
-
-[members.0x60]
-name = "field_0"
-offset = 0x60
-type = "char[8]"
-size = 0x8
 
 [members.0x68]
 name = "m_dwFlags"
