@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:58:07.405577Z
+last_change = 2024-07-13T02:58:07.409578Z
 name = "CPhysical"
-size = 0x108
+size = 0x120
 
 [members.0x0]
 name = "entity"
@@ -65,5 +65,11 @@ size = 0x7
 [members.0xf0]
 name = "m_vLastCollisionDirection"
 offset = 0xf0
+type = "CVectorLong"
+size = 0x18
+
+[members.0x108]
+name = "m_vecLastCollisionPosn"
+offset = 0x108
 type = ""
 size = 0x18
