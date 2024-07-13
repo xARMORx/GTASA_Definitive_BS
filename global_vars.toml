@@ -1523,10 +1523,10 @@ name = ""
 size = 0x1
 
 [0x4ea9f90]
-last_change = 2024-07-13T02:25:39.572375Z
+last_change = 2024-07-13T02:25:39.586379Z
 addr = 0x4ea9f90
-name = "qword_4EA9F90"
-size = 0x8
+name = ""
+size = 0x1
 
 [0x4ea9f98]
 last_change = 2024-07-13T02:25:39.575376Z
