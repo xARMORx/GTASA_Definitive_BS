@@ -1,9 +1,5 @@
-last_change = 2024-07-13T02:20:58.964274Z
+last_change = 2024-07-13T02:20:58.967563Z
 name = "CEntity"
-size = 0x60
+size = 0x0
 
-[members.0x5b]
-name = "field_6B"
-offset = 0x5b
-type = "char[5]"
-size = 0x5
+[members]
