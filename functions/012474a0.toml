@@ -1,11 +1,11 @@
-last_change = 2024-07-13T02:28:50.116848Z
+last_change = 2024-07-13T02:28:28.685780Z
 addr = 0x12474a0
 size = 0x5cc
-type = "double"
+type = "long long"
 
 [header]
-last_change = 2024-07-13T02:28:50.116848Z
+last_change = 2024-07-13T02:28:28.685780Z
 addr = 0x12474a0
-type = "double"
+type = "long long"
 
 [header.args]
