@@ -1,6 +1,6 @@
-last_change = 2024-07-13T03:08:28.779281Z
+last_change = 2024-07-13T03:08:28.782281Z
 name = "CPlayerInfo"
-size = 0x111
+size = 0x112
 
 [members.0x0]
 name = "m_pPed"
@@ -47,5 +47,11 @@ size = 0x24
 [members.0x110]
 name = "m_nPlayerState"
 offset = 0x110
+type = "char"
+size = 0x1
+
+[members.0x111]
+name = "m_bAfterRemoteVehicleExplosion"
+offset = 0x111
 type = ""
 size = 0x1
