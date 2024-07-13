@@ -1559,10 +1559,10 @@ name = ""
 size = 0x40
 
 [0x54abe04]
-last_change = 2024-07-13T02:25:40.435530Z
+last_change = 2024-07-13T02:25:40.464884Z
 addr = 0x54abe04
-name = "dword_54ABE04"
-size = 0x4
+name = ""
+size = 0x3c
 
 [0x54abe08]
 last_change = 2024-07-13T02:25:40.437531Z
