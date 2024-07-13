@@ -1,9 +1,5 @@
-last_change = 2024-07-13T03:08:28.750447Z
+last_change = 2024-07-13T03:08:28.753448Z
 name = "CPlayerInfo"
-size = 0x1c0
+size = 0x0
 
-[members.0x184]
-name = "field_184"
-offset = 0x184
-type = "char[60]"
-size = 0x3c
+[members]
