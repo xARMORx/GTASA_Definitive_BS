@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:58:07.413579Z
+last_change = 2024-07-13T02:58:07.416580Z
 name = "CPhysical"
-size = 0x124
+size = 0x190
 
 [members.0x0]
 name = "entity"
@@ -77,5 +77,11 @@ size = 0x18
 [members.0x120]
 name = "m_fMovingSpeed"
 offset = 0x120
-type = ""
+type = "float"
 size = 0x4
+
+[members.0x124]
+name = "field_124"
+offset = 0x124
+type = ""
+size = 0x6c
