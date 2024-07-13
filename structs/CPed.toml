@@ -1,12 +1,6 @@
-last_change = 2024-07-13T02:45:50.362473Z
+last_change = 2024-07-13T02:45:50.366476Z
 name = "CPed"
 size = 0xa46
-
-[members.0x788]
-name = "m_aWeapon"
-offset = 0x788
-type = "CWeapon[13]"
-size = 0x208
 
 [members.0x990]
 name = "m_nSavedWeapon"
