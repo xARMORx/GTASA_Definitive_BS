@@ -1,5 +1,9 @@
-last_change = 2024-07-13T02:58:07.368569Z
+last_change = 2024-07-13T02:58:07.371569Z
 name = "CPhysical"
-size = 0x0
+size = 0x60
 
-[members]
+[members.0x0]
+name = "entity"
+offset = 0x0
+type = ""
+size = 0x60
