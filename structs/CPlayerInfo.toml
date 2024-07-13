@@ -1,6 +1,6 @@
-last_change = 2024-07-13T03:08:28.789284Z
+last_change = 2024-07-13T03:08:28.792285Z
 name = "CPlayerInfo"
-size = 0x17a
+size = 0x183
 
 [members.0x0]
 name = "m_pPed"
@@ -65,5 +65,11 @@ size = 0x66
 [members.0x178]
 name = "m_nNumHoursNotEating"
 offset = 0x178
-type = ""
+type = "unsigned short"
 size = 0x2
+
+[members.0x17a]
+name = "field_17A"
+offset = 0x17a
+type = ""
+size = 0x9
