@@ -1,12 +1,6 @@
-last_change = 2024-07-13T03:08:28.744447Z
+last_change = 2024-07-13T03:08:28.747447Z
 name = "CPlayerInfo"
 size = 0x1c0
-
-[members.0x17a]
-name = "field_17A"
-offset = 0x17a
-type = "char[9]"
-size = 0x9
 
 [members.0x183]
 name = "m_nHealthSaved"
