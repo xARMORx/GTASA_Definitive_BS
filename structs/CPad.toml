@@ -1,6 +1,6 @@
-last_change = 2024-07-12T23:54:12.248909Z
+last_change = 2024-07-12T23:54:12.251909Z
 name = "CPad"
-size = 0x124
+size = 0x128
 
 [members.0x0]
 name = "NewState"
@@ -155,5 +155,11 @@ size = 0x1
 [members.0x123]
 name = "bDoorsLocked"
 offset = 0x123
+type = "uint8_t"
+size = 0x1
+
+[members.0x124]
+name = "bRegainControl"
+offset = 0x124
 type = ""
 size = 0x1
