@@ -1,4 +1,4 @@
-last_change = 2024-07-13T02:36:08.259967Z
+last_change = 2024-07-13T02:36:08.262967Z
 name = "CMatrix"
 size = 0x40
 
@@ -41,5 +41,11 @@ size = 0x4
 [members.0x30]
 name = "pos"
 offset = 0x30
-type = ""
+type = "CVector"
 size = 0xc
+
+[members.0x3c]
+name = "_pad3"
+offset = 0x3c
+type = ""
+size = 0x4
