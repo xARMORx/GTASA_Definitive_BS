@@ -1,11 +1,11 @@
-last_change = 2024-07-13T02:25:12.802767Z
+last_change = 2024-07-13T02:25:12.803767Z
 addr = 0x1228560
 size = 0x1749
 
-[stack_vars.-0x148]
-last_change = 2024-07-13T02:25:12.802767Z
-offset = -328
-name = "var_120"
-type = "CQuaternion"
-size = 0x10
+[stack_vars.-0x218]
+last_change = 2024-07-13T02:25:12.803767Z
+offset = -536
+name = "var_1F0"
+type = "CMatrix"
+size = 0x50
 addr = 0x1228560
