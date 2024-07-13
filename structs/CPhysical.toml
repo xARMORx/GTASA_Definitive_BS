@@ -1,6 +1,6 @@
-last_change = 2024-07-13T02:58:07.381571Z
+last_change = 2024-07-13T02:58:07.384573Z
 name = "CPhysical"
-size = 0x78
+size = 0x84
 
 [members.0x0]
 name = "entity"
@@ -23,5 +23,11 @@ size = 0x4
 [members.0x6c]
 name = "m_vecMoveSpeed"
 offset = 0x6c
+type = "CVector"
+size = 0xc
+
+[members.0x78]
+name = "m_vecTurnSpeed"
+offset = 0x78
 type = ""
 size = 0xc
