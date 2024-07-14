@@ -1,0 +1,11 @@
+last_change = 2024-07-14T18:12:01.252492Z
+addr = 0x1b6ae60
+size = 0x18e0
+name = "WndProcCaller"
+
+[header]
+last_change = 2024-07-14T18:12:01.252492Z
+name = "WndProcCaller"
+addr = 0x1b6ae60
+
+[header.args]
