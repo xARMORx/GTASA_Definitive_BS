@@ -1,11 +1,11 @@
-last_change = 2024-07-14T19:08:10.113669Z
+last_change = 2024-07-14T19:08:55.374236Z
 addr = 0x1b6ae60
 size = 0x18e0
-name = "CallWndProc"
+name = "sub_1B6AE60"
 
 [header]
-last_change = 2024-07-14T18:52:27.325581Z
-name = "CallWndProc"
+last_change = 2024-07-14T19:08:55.374236Z
+name = "sub_1B6AE60"
 addr = 0x1b6ae60
 
 [header.args]
