@@ -1,12 +1,6 @@
-last_change = 2024-07-18T01:58:15.169121Z
+last_change = 2024-07-18T01:58:15.171630Z
 name = "CRunningScript"
 size = 0x130
-
-[members.0x68]
-name = "m_nSP"
-offset = 0x68
-type = "uint16_t"
-size = 0x2
 
 [members.0x6c]
 name = "m_aLocalVars"
