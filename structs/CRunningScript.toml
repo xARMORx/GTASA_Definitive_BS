@@ -1,4 +1,4 @@
-last_change = 2024-07-18T01:58:18.051460Z
+last_change = 2024-07-18T01:58:18.054842Z
 name = "CRunningScript"
 size = 0x120
 
@@ -83,5 +83,11 @@ size = 0x1
 [members.0x119]
 name = "m_nScriptBrainType"
 offset = 0x119
-type = ""
+type = "int8_t"
 size = 0x1
+
+[members.0x11c]
+name = "m_nWakeTime"
+offset = 0x11c
+type = ""
+size = 0x4
