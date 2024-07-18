@@ -1,4 +1,4 @@
-last_change = 2024-07-18T01:58:18.042923Z
+last_change = 2024-07-18T01:58:18.051460Z
 name = "CRunningScript"
 size = 0x120
 
@@ -77,5 +77,11 @@ size = 0x1
 [members.0x118]
 name = "m_bTextBlockOverride"
 offset = 0x118
+type = "uint8_t"
+size = 0x1
+
+[members.0x119]
+name = "m_nScriptBrainType"
+offset = 0x119
 type = ""
 size = 0x1
