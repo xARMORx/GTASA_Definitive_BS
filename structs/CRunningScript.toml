@@ -1,12 +1,6 @@
-last_change = 2024-07-18T01:40:39.082205Z
+last_change = 2024-07-18T01:40:39.085714Z
 name = "CRunningScript"
 size = 0x130
-
-[members.0x128]
-name = "m_nEndOfScriptedCutscenePC"
-offset = 0x128
-type = "int32_t"
-size = 0x4
 
 [members.0x12c]
 name = "m_bIsMission"
