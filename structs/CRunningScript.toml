@@ -1,6 +1,6 @@
-last_change = 2024-07-18T01:58:18.054842Z
+last_change = 2024-07-18T01:58:18.060833Z
 name = "CRunningScript"
-size = 0x120
+size = 0x128
 
 [members.0x0]
 name = "pNext"
@@ -89,5 +89,11 @@ size = 0x1
 [members.0x11c]
 name = "m_nWakeTime"
 offset = 0x11c
-type = ""
+type = "uint32_t"
 size = 0x4
+
+[members.0x120]
+name = "m_nLogicalOp"
+offset = 0x120
+type = ""
+size = 0x2
