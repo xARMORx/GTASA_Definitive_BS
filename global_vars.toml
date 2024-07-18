@@ -1605,3 +1605,9 @@ last_change = 2024-07-18T01:39:51.777462Z
 addr = 0x6c90
 name = "qword_6C90"
 size = 0xa80
+
+[0x4ffd5f4]
+last_change = 2024-07-18T02:06:14.185588Z
+addr = 0x4ffd5f4
+name = "_jumptableSize"
+size = 0x2
