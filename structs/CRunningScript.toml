@@ -1,4 +1,4 @@
-last_change = 2024-07-18T01:58:18.022845Z
+last_change = 2024-07-18T01:58:18.031857Z
 name = "CRunningScript"
 size = 0x118
 
@@ -47,5 +47,11 @@ size = 0x2
 [members.0x6c]
 name = "m_aLocalVars"
 offset = 0x6c
-type = ""
+type = "int32_t[42]"
 size = 0xa8
+
+[members.0x114]
+name = "m_bIsActive"
+offset = 0x114
+type = ""
+size = 0x1
