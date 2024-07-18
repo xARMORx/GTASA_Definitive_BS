@@ -1,9 +1,5 @@
-last_change = 2024-07-18T01:40:39.085714Z
+last_change = 2024-07-18T01:40:39.088224Z
 name = "CRunningScript"
-size = 0x130
+size = 0x0
 
-[members.0x12c]
-name = "m_bIsMission"
-offset = 0x12c
-type = "uint8_t"
-size = 0x1
+[members]
