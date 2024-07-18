@@ -1,12 +1,6 @@
-last_change = 2024-07-18T01:58:15.208279Z
+last_change = 2024-07-18T01:58:15.211790Z
 name = "CRunningScript"
 size = 0x130
-
-[members.0x120]
-name = "m_nLogicalOp"
-offset = 0x120
-type = "uint16_t"
-size = 0x2
 
 [members.0x122]
 name = "m_bNotFlag"
