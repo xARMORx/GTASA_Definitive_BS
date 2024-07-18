@@ -1,12 +1,6 @@
-last_change = 2024-07-18T01:40:39.011621Z
+last_change = 2024-07-18T01:40:39.016309Z
 name = "CRunningScript"
 size = 0x130
-
-[members.0x114]
-name = "m_bIsActive"
-offset = 0x114
-type = "uint8_t"
-size = 0x1
 
 [members.0x115]
 name = "m_bCondResult"
