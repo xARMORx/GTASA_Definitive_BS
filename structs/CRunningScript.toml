@@ -1,6 +1,6 @@
-last_change = 2024-07-18T01:58:15.262421Z
+last_change = 2024-07-18T01:58:15.264936Z
 name = "CRunningScript"
-size = 0x10
+size = 0x18
 
 [members.0x0]
 name = "pNext"
@@ -11,5 +11,11 @@ size = 0x8
 [members.0x8]
 name = "m_pPrev"
 offset = 0x8
+type = "CRunningScript *"
+size = 0x8
+
+[members.0x10]
+name = "m_szName"
+offset = 0x10
 type = ""
 size = 0x8
