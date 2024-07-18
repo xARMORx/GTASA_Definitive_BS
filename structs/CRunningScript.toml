@@ -1,6 +1,6 @@
 last_change = 2024-07-18T01:58:18.042923Z
 name = "CRunningScript"
-size = 0x118
+size = 0x120
 
 [members.0x0]
 name = "pNext"
@@ -71,5 +71,11 @@ size = 0x1
 [members.0x117]
 name = "m_bIsExternal"
 offset = 0x117
+type = "uint8_t"
+size = 0x1
+
+[members.0x118]
+name = "m_bTextBlockOverride"
+offset = 0x118
 type = ""
 size = 0x1
