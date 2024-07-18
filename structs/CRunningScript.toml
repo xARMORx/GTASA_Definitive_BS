@@ -1,6 +1,6 @@
-last_change = 2024-07-18T01:39:51.426790Z
+last_change = 2024-07-18T01:39:51.430790Z
 name = "CRunningScript"
-size = 0x18
+size = 0x20
 
 [members.0x0]
 name = "pNext"
@@ -17,5 +17,11 @@ size = 0x8
 [members.0x10]
 name = "m_szName"
 offset = 0x10
+type = "char[8]"
+size = 0x8
+
+[members.0x18]
+name = "m_pBaseIP"
+offset = 0x18
 type = ""
 size = 0x8
