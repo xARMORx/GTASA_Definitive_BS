@@ -1,4 +1,4 @@
-last_change = 2024-07-18T01:58:18.067708Z
+last_change = 2024-07-18T01:58:18.072488Z
 name = "CRunningScript"
 size = 0x128
 
@@ -107,5 +107,11 @@ size = 0x1
 [members.0x123]
 name = "m_bWastedBustedCheck"
 offset = 0x123
+type = "uint8_t"
+size = 0x1
+
+[members.0x124]
+name = "m_bWastedOrBusted"
+offset = 0x124
 type = ""
 size = 0x1
