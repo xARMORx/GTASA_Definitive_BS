@@ -1,12 +1,6 @@
-last_change = 2024-07-18T01:40:38.999474Z
+last_change = 2024-07-18T01:40:39.003830Z
 name = "CRunningScript"
 size = 0x130
-
-[members.0x28]
-name = "m_apStack"
-offset = 0x28
-type = "uint8_t *[8]"
-size = 0x40
 
 [members.0x68]
 name = "m_nSP"
