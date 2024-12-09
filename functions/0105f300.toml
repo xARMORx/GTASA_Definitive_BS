@@ -1,0 +1,19 @@
+last_change = 2024-07-12T16:27:02.103425Z
+addr = 0x105f300
+size = 0xbcd
+name = "CHud::DrawPlayerInfo"
+
+[header]
+last_change = 2024-07-12T16:27:02.103425Z
+name = "CHud::DrawPlayerInfo"
+addr = 0x105f300
+
+[header.args]
+
+[stack_vars.-0x338]
+last_change = 2024-07-12T16:16:55.719337Z
+offset = -824
+name = "pPos"
+type = "CRect"
+size = 0x10
+addr = 0x105f300

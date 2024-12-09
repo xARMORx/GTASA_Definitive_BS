@@ -1,0 +1,19 @@
+last_change = 2024-07-14T19:22:36.442529Z
+addr = 0x1b6ae60
+size = 0x18e0
+name = "sub_1B6AE60"
+
+[header]
+last_change = 2024-07-14T19:22:36.442529Z
+name = "sub_1B6AE60"
+addr = 0x1b6ae60
+
+[header.args]
+
+[stack_vars.0x0]
+last_change = 2024-07-14T18:59:14.896789Z
+offset = 0x0
+name = "lParam"
+type = "LPARAM"
+size = 0x8
+addr = 0x1b6ae60

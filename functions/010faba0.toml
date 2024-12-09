@@ -1,0 +1,29 @@
+last_change = 2024-07-12T16:13:04.889903Z
+addr = 0x10faba0
+size = 0x1a7
+name = "_ZN9CSprite2d11SetVerticesERK5CRectRK5CRGBAS5_S5_S5_"
+type = "int"
+
+[header]
+last_change = 2024-07-12T16:13:02.626923Z
+name = "_ZN9CSprite2d11SetVerticesERK5CRectRK5CRGBAS5_S5_S5_"
+addr = 0x10faba0
+type = "int"
+
+[header.args]
+
+[stack_vars.0x0]
+last_change = 2024-07-12T16:09:56.781119Z
+offset = 0x0
+name = "bDrawBox"
+type = "float"
+size = 0x4
+addr = 0x10faba0
+
+[stack_vars.-0x8]
+last_change = 2024-07-12T16:12:39.075260Z
+offset = -8
+name = "a5"
+type = "RwRGBA *"
+size = 0x8
+addr = 0x10faba0

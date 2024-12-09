@@ -1,0 +1,21 @@
+last_change = 2024-07-12T02:33:46.834413Z
+name = "CAEAudioEntity"
+size = 0x78
+
+[members.0x0]
+name = "vmt"
+offset = 0x0
+type = "void *"
+size = 0x8
+
+[members.0x8]
+name = "m_pEntity"
+offset = 0x8
+type = "CVehicle *"
+size = 0x8
+
+[members.0x10]
+name = "sound"
+offset = 0x10
+type = ""
+size = 0x68

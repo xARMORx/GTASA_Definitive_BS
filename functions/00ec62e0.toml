@@ -1,0 +1,13 @@
+last_change = 2024-07-12T22:41:19.597704Z
+addr = 0xec62e0
+size = 0x84
+name = "_ZN9CColStore18RemoveAllCollisionEv"
+type = "CPool *"
+
+[header]
+last_change = 2024-07-12T22:41:19.597704Z
+name = "_ZN9CColStore18RemoveAllCollisionEv"
+addr = 0xec62e0
+type = "CPool *"
+
+[header.args]

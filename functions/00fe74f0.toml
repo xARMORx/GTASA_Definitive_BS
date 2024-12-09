@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:24:40.698782Z
+addr = 0xfe74f0
+size = 0x60
+name = "_ZN13CQuadTreeNode10FindSectorERK9CVector2D"
+
+[header]
+last_change = 2024-07-12T20:24:40.698782Z
+name = "_ZN13CQuadTreeNode10FindSectorERK9CVector2D"
+addr = 0xfe74f0
+
+[header.args]

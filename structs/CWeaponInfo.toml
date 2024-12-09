@@ -1,0 +1,183 @@
+last_change = 2024-07-12T16:21:37.148379Z
+name = "CWeaponInfo"
+size = 0x70
+
+[members.0x0]
+name = "m_eFireType"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "targetRange"
+offset = 0x4
+type = "float"
+size = 0x4
+
+[members.0x8]
+name = "m_fWeaponRange"
+offset = 0x8
+type = "float"
+size = 0x4
+
+[members.0xc]
+name = "dwModelId1"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "dwModelId2"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "nSlot"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "m_nFlags"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "AssocGroupId"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "ammoClip"
+offset = 0x20
+type = "short"
+size = 0x2
+
+[members.0x22]
+name = "damage"
+offset = 0x22
+type = "short"
+size = 0x2
+
+[members.0x24]
+name = "fireOffset"
+offset = 0x24
+type = "CVector"
+size = 0xc
+
+[members.0x30]
+name = "skillLevel"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x34]
+name = "reqStatLevelToGetThisWeaponSkilLevel"
+offset = 0x34
+type = "int"
+size = 0x4
+
+[members.0x38]
+name = "m_fAccuracy"
+offset = 0x38
+type = "float"
+size = 0x4
+
+[members.0x3c]
+name = "moveSpeed"
+offset = 0x3c
+type = "float"
+size = 0x4
+
+[members.0x40]
+name = "animLoopStart"
+offset = 0x40
+type = "float"
+size = 0x4
+
+[members.0x44]
+name = "animLoopEnd"
+offset = 0x44
+type = "float"
+size = 0x4
+
+[members.0x48]
+name = "animLoopFire"
+offset = 0x48
+type = "int"
+size = 0x4
+
+[members.0x4c]
+name = "animLoop2Start"
+offset = 0x4c
+type = "int"
+size = 0x4
+
+[members.0x50]
+name = "animLoop2End"
+offset = 0x50
+type = "int"
+size = 0x4
+
+[members.0x54]
+name = "animLoop2Fire"
+offset = 0x54
+type = "int"
+size = 0x4
+
+[members.0x58]
+name = "breakoutTime"
+offset = 0x58
+type = "float"
+size = 0x4
+
+[members.0x5c]
+name = "speed"
+offset = 0x5c
+type = "float"
+size = 0x4
+
+[members.0x60]
+name = "radius"
+offset = 0x60
+type = "int"
+size = 0x4
+
+[members.0x64]
+name = "lifespan"
+offset = 0x64
+type = "float"
+size = 0x4
+
+[members.0x68]
+name = "spread"
+offset = 0x68
+type = "float"
+size = 0x4
+
+[members.0x6c]
+name = "AssocGroupId2"
+offset = 0x6c
+type = "char"
+size = 0x1
+
+[members.0x6d]
+name = "field_6D"
+offset = 0x6d
+type = "char"
+size = 0x1
+
+[members.0x6e]
+name = "baseCombo"
+offset = 0x6e
+type = "char"
+size = 0x1
+
+[members.0x6f]
+name = "m_nNumCombos"
+offset = 0x6f
+type = ""
+size = 0x1

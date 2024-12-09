@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:38:03.635339Z
+addr = 0xf97de0
+size = 0x2c38
+
+[stack_vars.-0xe0]
+last_change = 2024-07-12T20:38:03.635339Z
+offset = -224
+name = "var_D8"
+type = "CPool *"
+size = 0x8
+addr = 0xf97de0

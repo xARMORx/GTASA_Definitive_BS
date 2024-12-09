@@ -1,0 +1,19 @@
+last_change = 2024-07-12T20:38:05.677094Z
+addr = 0x10f7490
+size = 0x740
+
+[stack_vars.-0xc0]
+last_change = 2024-07-12T20:22:12.735885Z
+offset = -192
+name = "nrm_z"
+type = "float"
+size = 0x4
+addr = 0x10f7490
+
+[stack_vars.-0x94]
+last_change = 2024-07-12T20:38:05.677094Z
+offset = -148
+name = "a4"
+type = "float"
+size = 0x4
+addr = 0x10f7490

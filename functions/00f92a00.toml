@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:39:17.469097Z
+addr = 0xf92a00
+size = 0x1d73
+name = "_ZN7CCamera7ProcessEv"
+type = "void"
+
+[header]
+last_change = 2024-07-12T20:39:17.469097Z
+name = "_ZN7CCamera7ProcessEv"
+addr = 0xf92a00
+type = "void"
+
+[header.args]

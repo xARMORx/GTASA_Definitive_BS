@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:26:38.819243Z
+addr = 0xf29660
+size = 0x43a
+name = "CStuckCarCheck::process"
+type = "void"
+
+[header]
+last_change = 2024-07-12T20:26:38.819243Z
+name = "CStuckCarCheck::process"
+addr = 0xf29660
+type = "void"
+
+[header.args]

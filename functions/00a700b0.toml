@@ -1,0 +1,13 @@
+last_change = 2024-07-13T02:25:06.652221Z
+addr = 0xa700b0
+size = 0x12b
+name = "_ZN11CQuaternion3GetEP11RwMatrixTag"
+type = "void"
+
+[header]
+last_change = 2024-07-13T02:25:06.652221Z
+name = "_ZN11CQuaternion3GetEP11RwMatrixTag"
+addr = 0xa700b0
+type = "void"
+
+[header.args]

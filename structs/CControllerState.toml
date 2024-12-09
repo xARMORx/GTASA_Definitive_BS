@@ -1,0 +1,147 @@
+last_change = 2024-07-12T23:53:04.167971Z
+name = "CControllerState"
+size = 0x30
+
+[members.0x0]
+name = "LeftStickX"
+offset = 0x0
+type = "int16_t"
+size = 0x2
+
+[members.0x2]
+name = "LeftStickY"
+offset = 0x2
+type = "int16_t"
+size = 0x2
+
+[members.0x4]
+name = "RightStickX"
+offset = 0x4
+type = "int16_t"
+size = 0x2
+
+[members.0x6]
+name = "RightStickY"
+offset = 0x6
+type = "int16_t"
+size = 0x2
+
+[members.0x8]
+name = "LeftShoulder1"
+offset = 0x8
+type = "int16_t"
+size = 0x2
+
+[members.0xa]
+name = "LeftShoulder2"
+offset = 0xa
+type = "int16_t"
+size = 0x2
+
+[members.0xc]
+name = "RightShoulder1"
+offset = 0xc
+type = "int16_t"
+size = 0x2
+
+[members.0xe]
+name = "RightShoulder2"
+offset = 0xe
+type = "int16_t"
+size = 0x2
+
+[members.0x10]
+name = "DPadUp"
+offset = 0x10
+type = "int16_t"
+size = 0x2
+
+[members.0x12]
+name = "DPadDown"
+offset = 0x12
+type = "int16_t"
+size = 0x2
+
+[members.0x14]
+name = "DPadLeft"
+offset = 0x14
+type = "int16_t"
+size = 0x2
+
+[members.0x16]
+name = "DPadRight"
+offset = 0x16
+type = "int16_t"
+size = 0x2
+
+[members.0x18]
+name = "Start"
+offset = 0x18
+type = "int16_t"
+size = 0x2
+
+[members.0x1a]
+name = "Select"
+offset = 0x1a
+type = "int16_t"
+size = 0x2
+
+[members.0x1c]
+name = "ButtonSquare"
+offset = 0x1c
+type = "int16_t"
+size = 0x2
+
+[members.0x1e]
+name = "ButtonTriangle"
+offset = 0x1e
+type = "int16_t"
+size = 0x2
+
+[members.0x20]
+name = "ButtonCross"
+offset = 0x20
+type = "int16_t"
+size = 0x2
+
+[members.0x22]
+name = "ButtonCircle"
+offset = 0x22
+type = "int16_t"
+size = 0x2
+
+[members.0x24]
+name = "ShockButtonL"
+offset = 0x24
+type = "int16_t"
+size = 0x2
+
+[members.0x26]
+name = "ShockButtonR"
+offset = 0x26
+type = "int16_t"
+size = 0x2
+
+[members.0x28]
+name = "m_bChatIndicated"
+offset = 0x28
+type = "int16_t"
+size = 0x2
+
+[members.0x2a]
+name = "m_bPedWalk"
+offset = 0x2a
+type = "int16_t"
+size = 0x2
+
+[members.0x2c]
+name = "m_bVehicleMouseLook"
+offset = 0x2c
+type = "int16_t"
+size = 0x2
+
+[members.0x2e]
+name = "m_bRadioTrackSkip"
+offset = 0x2e
+type = ""
+size = 0x2

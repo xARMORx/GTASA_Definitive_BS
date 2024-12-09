@@ -1,0 +1,13 @@
+last_change = 2024-07-13T02:26:10.106995Z
+addr = 0xfe0700
+size = 0xe7
+name = "_ZN7CMatrixC2EP11RwMatrixTagb"
+type = "CMatrix *"
+
+[header]
+last_change = 2024-07-13T02:26:10.106995Z
+name = "_ZN7CMatrixC2EP11RwMatrixTagb"
+addr = 0xfe0700
+type = "CMatrix *"
+
+[header.args]

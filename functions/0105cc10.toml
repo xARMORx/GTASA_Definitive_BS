@@ -1,0 +1,19 @@
+last_change = 2024-07-12T16:10:35.367251Z
+addr = 0x105cc10
+size = 0x22c9
+
+[stack_vars.-0x1760]
+last_change = 2024-07-12T16:10:00.120402Z
+offset = -5984
+name = "rgba"
+type = "long long"
+size = 0x8
+addr = 0x105cc10
+
+[stack_vars.-0x1730]
+last_change = 2024-07-12T16:10:35.367251Z
+offset = -5936
+name = "a"
+type = "short"
+size = 0x2
+addr = 0x105cc10

@@ -1,0 +1,61 @@
+last_change = 2024-07-12T20:21:05.588296Z
+addr = 0x10f73b0
+size = 0xd5
+name = "_ZN10C3dMarkers14PlaceMarkerSetEjtR7CVectorfhhhhtfs"
+type = "void"
+
+[header]
+last_change = 2024-07-12T20:21:05.522748Z
+name = "_ZN10C3dMarkers14PlaceMarkerSetEjtR7CVectorfhhhhtfs"
+addr = 0x10f73b0
+type = "void"
+
+[header.args]
+
+[stack_vars.-0x38]
+last_change = 2024-07-12T20:21:05.564291Z
+offset = -56
+name = "r"
+type = "char"
+size = 0x1
+addr = 0x10f73b0
+
+[stack_vars.-0x30]
+last_change = 2024-07-12T20:21:05.569292Z
+offset = -48
+name = "g"
+type = "char"
+size = 0x1
+addr = 0x10f73b0
+
+[stack_vars.-0x28]
+last_change = 2024-07-12T20:21:05.573293Z
+offset = -40
+name = "b"
+type = "char"
+size = 0x1
+addr = 0x10f73b0
+
+[stack_vars.-0x20]
+last_change = 2024-07-12T20:21:05.577294Z
+offset = -32
+name = "a"
+type = "unsigned char"
+size = 0x1
+addr = 0x10f73b0
+
+[stack_vars.-0x18]
+last_change = 2024-07-12T20:21:05.580294Z
+offset = -24
+name = "pulsePeriod"
+type = "short"
+size = 0x2
+addr = 0x10f73b0
+
+[stack_vars.-0x10]
+last_change = 2024-07-12T20:21:05.588296Z
+offset = -16
+name = "pulseFraction"
+type = "float"
+size = 0x4
+addr = 0x10f73b0

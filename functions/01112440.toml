@@ -1,0 +1,11 @@
+last_change = 2024-07-13T01:36:03.959204Z
+addr = 0x1112440
+size = 0x152
+
+[stack_vars.-0x50]
+last_change = 2024-07-13T01:36:03.959204Z
+offset = -80
+name = "pos"
+type = "unsigned long long"
+size = 0x8
+addr = 0x1112440

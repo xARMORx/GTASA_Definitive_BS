@@ -1,0 +1,13 @@
+last_change = 2024-07-12T15:55:16.185293Z
+addr = 0x102d1e0
+size = 0x3c2
+name = "_ZN4CHud15DrawVehicleNameEv"
+type = "void"
+
+[header]
+last_change = 2024-07-12T15:55:16.185293Z
+name = "_ZN4CHud15DrawVehicleNameEv"
+addr = 0x102d1e0
+type = "void"
+
+[header.args]

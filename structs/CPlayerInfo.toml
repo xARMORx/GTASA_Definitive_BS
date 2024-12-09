@@ -1,0 +1,87 @@
+last_change = 2024-07-13T03:08:28.799286Z
+name = "CPlayerInfo"
+size = 0x1c0
+
+[members.0x0]
+name = "m_pPed"
+offset = 0x0
+type = "CPed *"
+size = 0x8
+
+[members.0x8]
+name = "m_pPlayerData"
+offset = 0x8
+type = "CPlayerData *"
+size = 0x8
+
+[members.0x10]
+name = "field_10"
+offset = 0x10
+type = "char[200]"
+size = 0xc8
+
+[members.0xd8]
+name = "m_pRemoteVehicle"
+offset = 0xd8
+type = "CVehicle *"
+size = 0x8
+
+[members.0xe0]
+name = "field_E0"
+offset = 0xe0
+type = "char[8]"
+size = 0x8
+
+[members.0xe8]
+name = "m_nMoneyCount"
+offset = 0xe8
+type = "int"
+size = 0x4
+
+[members.0xec]
+name = "field_100"
+offset = 0xec
+type = "char[36]"
+size = 0x24
+
+[members.0x110]
+name = "m_nPlayerState"
+offset = 0x110
+type = "char"
+size = 0x1
+
+[members.0x111]
+name = "m_bAfterRemoteVehicleExplosion"
+offset = 0x111
+type = "char"
+size = 0x1
+
+[members.0x112]
+name = "field_111"
+offset = 0x112
+type = "char[102]"
+size = 0x66
+
+[members.0x178]
+name = "m_nNumHoursNotEating"
+offset = 0x178
+type = "unsigned short"
+size = 0x2
+
+[members.0x17a]
+name = "field_17A"
+offset = 0x17a
+type = "char[9]"
+size = 0x9
+
+[members.0x183]
+name = "m_nHealthSaved"
+offset = 0x183
+type = "char"
+size = 0x1
+
+[members.0x184]
+name = "field_184"
+offset = 0x184
+type = ""
+size = 0x3c

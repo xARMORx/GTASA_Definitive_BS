@@ -1,0 +1,11 @@
+last_change = 2024-07-13T02:25:40.084593Z
+addr = 0x11fe9f0
+size = 0x1a7
+
+[stack_vars.-0xc0]
+last_change = 2024-07-13T02:25:40.084593Z
+offset = -192
+name = "var_A8"
+type = "CMatrix"
+size = 0x50
+addr = 0x11fe9f0

@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:21:21.829627Z
+addr = 0x3c34460
+size = 0x5e8
+
+[stack_vars.-0x100]
+last_change = 2024-07-12T16:21:21.829627Z
+offset = -256
+name = "var_D8"
+type = "char[40]"
+size = 0x28
+addr = 0x3c34460

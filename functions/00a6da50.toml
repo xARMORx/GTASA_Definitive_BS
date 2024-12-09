@@ -1,0 +1,13 @@
+last_change = 2024-07-13T02:25:39.405543Z
+addr = 0xa6da50
+size = 0x50
+name = "_ZN7CMatrix6AttachEP11RwMatrixTagb"
+type = "int"
+
+[header]
+last_change = 2024-07-13T02:25:39.405543Z
+name = "_ZN7CMatrix6AttachEP11RwMatrixTagb"
+addr = 0xa6da50
+type = "int"
+
+[header.args]

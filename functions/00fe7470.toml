@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:24:31.056194Z
+addr = 0xfe7470
+size = 0x72
+name = "_ZN13CQuadTreeNode14ForAllMatchingERK9CVector2DPFvS2_PvE"
+
+[header]
+last_change = 2024-07-12T20:24:31.056194Z
+name = "_ZN13CQuadTreeNode14ForAllMatchingERK9CVector2DPFvS2_PvE"
+addr = 0xfe7470
+
+[header.args]

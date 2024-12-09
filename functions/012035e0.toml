@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:38:12.534054Z
+addr = 0x12035e0
+size = 0x461
+
+[stack_vars.-0x18]
+last_change = 2024-07-12T20:38:12.534054Z
+offset = -24
+name = "a4"
+type = "float"
+size = 0x4
+addr = 0x12035e0

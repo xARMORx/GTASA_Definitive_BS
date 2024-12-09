@@ -1,0 +1,153 @@
+last_change = 2024-07-12T20:18:45.493474Z
+name = "tScriptText"
+size = 0x44
+
+[members.0x0]
+name = "letterWidth"
+offset = 0x0
+type = "float"
+size = 0x4
+
+[members.0x4]
+name = "letterHeight"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "color"
+offset = 0x8
+type = "CRGBA"
+size = 0x4
+
+[members.0xc]
+name = "m_bJustify"
+offset = 0xc
+type = "char"
+size = 0x1
+
+[members.0xd]
+name = "centered"
+offset = 0xd
+type = "char"
+size = 0x1
+
+[members.0xe]
+name = "withBackground"
+offset = 0xe
+type = "char"
+size = 0x1
+
+[members.0xf]
+name = "_pad"
+offset = 0xf
+type = "char"
+size = 0x1
+
+[members.0x10]
+name = "lineHeight"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "lineWidth"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "backgroundBoxColor"
+offset = 0x18
+type = "CRGBA"
+size = 0x4
+
+[members.0x1c]
+name = "proportional"
+offset = 0x1c
+type = "char"
+size = 0x1
+
+[members.0x1d]
+name = "backgroundColor"
+offset = 0x1d
+type = "CRGBA"
+size = 0x4
+
+[members.0x21]
+name = "shadowType"
+offset = 0x21
+type = "char"
+size = 0x1
+
+[members.0x22]
+name = "outlineType"
+offset = 0x22
+type = "char"
+size = 0x1
+
+[members.0x23]
+name = "m_bDrawBeforeFade"
+offset = 0x23
+type = "char"
+size = 0x1
+
+[members.0x24]
+name = "m_bRightJustify"
+offset = 0x24
+type = "char"
+size = 0x1
+
+[members.0x25]
+name = "_pad_25"
+offset = 0x25
+type = "char"
+size = 0x1
+
+[members.0x26]
+name = "_pad_26"
+offset = 0x26
+type = "char"
+size = 0x1
+
+[members.0x27]
+name = "_pad_27"
+offset = 0x27
+type = "char"
+size = 0x1
+
+[members.0x28]
+name = "font"
+offset = 0x28
+type = "int"
+size = 0x4
+
+[members.0x2c]
+name = "xPosition"
+offset = 0x2c
+type = "int"
+size = 0x4
+
+[members.0x30]
+name = "yPosition"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x34]
+name = "gxtEntry"
+offset = 0x34
+type = "char[8]"
+size = 0x8
+
+[members.0x3c]
+name = "param1"
+offset = 0x3c
+type = "int"
+size = 0x4
+
+[members.0x40]
+name = "param2"
+offset = 0x40
+type = ""
+size = 0x4

@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:50:40.803351Z
+addr = 0xee8e70
+size = 0x76
+name = "_ZN4CPad11ResetCheatsEv"
+type = "char"
+
+[header]
+last_change = 2024-07-12T20:50:40.803351Z
+name = "_ZN4CPad11ResetCheatsEv"
+addr = 0xee8e70
+type = "char"
+
+[header.args]

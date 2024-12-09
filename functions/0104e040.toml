@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:19:37.578671Z
+addr = 0x104e040
+size = 0x2cb
+
+[stack_vars.-0x18]
+last_change = 2024-07-12T16:19:37.578671Z
+offset = -24
+name = "arg_0"
+type = "CRGBA"
+size = 0x4
+addr = 0x104e040

@@ -1,0 +1,11 @@
+last_change = 2024-07-12T02:15:34.781877Z
+addr = 0xfa7840
+size = 0x214
+name = "_ZN7CEntity19HasPreRenderEffectsEv"
+
+[header]
+last_change = 2024-07-12T02:15:34.781877Z
+name = "_ZN7CEntity19HasPreRenderEffectsEv"
+addr = 0xfa7840
+
+[header.args]

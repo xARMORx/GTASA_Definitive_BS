@@ -1,0 +1,129 @@
+last_change = 2024-07-18T01:58:18.080499Z
+name = "CRunningScript"
+size = 0x130
+
+[members.0x0]
+name = "pNext"
+offset = 0x0
+type = "CRunningScript *"
+size = 0x8
+
+[members.0x8]
+name = "m_pPrev"
+offset = 0x8
+type = "CRunningScript *"
+size = 0x8
+
+[members.0x10]
+name = "m_szName"
+offset = 0x10
+type = "char[8]"
+size = 0x8
+
+[members.0x18]
+name = "m_pBaseIP"
+offset = 0x18
+type = "uint8_t *"
+size = 0x8
+
+[members.0x20]
+name = "m_pCurrentIP"
+offset = 0x20
+type = "uint8_t *"
+size = 0x8
+
+[members.0x28]
+name = "m_apStack"
+offset = 0x28
+type = "uint8_t *[8]"
+size = 0x40
+
+[members.0x68]
+name = "m_nSP"
+offset = 0x68
+type = "uint16_t"
+size = 0x2
+
+[members.0x6c]
+name = "m_aLocalVars"
+offset = 0x6c
+type = "int32_t[42]"
+size = 0xa8
+
+[members.0x114]
+name = "m_bIsActive"
+offset = 0x114
+type = "uint8_t"
+size = 0x1
+
+[members.0x115]
+name = "m_bCondResult"
+offset = 0x115
+type = "uint8_t"
+size = 0x1
+
+[members.0x116]
+name = "m_bUseMissionCleanup"
+offset = 0x116
+type = "uint8_t"
+size = 0x1
+
+[members.0x117]
+name = "m_bIsExternal"
+offset = 0x117
+type = "uint8_t"
+size = 0x1
+
+[members.0x118]
+name = "m_bTextBlockOverride"
+offset = 0x118
+type = "uint8_t"
+size = 0x1
+
+[members.0x119]
+name = "m_nScriptBrainType"
+offset = 0x119
+type = "int8_t"
+size = 0x1
+
+[members.0x11c]
+name = "m_nWakeTime"
+offset = 0x11c
+type = "uint32_t"
+size = 0x4
+
+[members.0x120]
+name = "m_nLogicalOp"
+offset = 0x120
+type = "uint16_t"
+size = 0x2
+
+[members.0x122]
+name = "m_bNotFlag"
+offset = 0x122
+type = "uint8_t"
+size = 0x1
+
+[members.0x123]
+name = "m_bWastedBustedCheck"
+offset = 0x123
+type = "uint8_t"
+size = 0x1
+
+[members.0x124]
+name = "m_bWastedOrBusted"
+offset = 0x124
+type = "uint8_t"
+size = 0x1
+
+[members.0x128]
+name = "m_nEndOfScriptedCutscenePC"
+offset = 0x128
+type = "int32_t"
+size = 0x4
+
+[members.0x12c]
+name = "m_bIsMission"
+offset = 0x12c
+type = ""
+size = 0x1

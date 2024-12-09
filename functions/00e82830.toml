@@ -1,0 +1,11 @@
+last_change = 2024-07-12T22:55:09.864375Z
+addr = 0xe82830
+size = 0x1e3e
+type = "char"
+
+[header]
+last_change = 2024-07-12T22:55:09.864375Z
+addr = 0xe82830
+type = "char"
+
+[header.args]

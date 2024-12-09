@@ -1,0 +1,33 @@
+last_change = 2024-07-12T02:33:46.938436Z
+name = "CAEPedAudioEntity"
+size = 0x138
+
+[members.0x0]
+name = "vmt"
+offset = 0x0
+type = "CAEAudioEntity"
+size = 0x78
+
+[members.0x78]
+name = "m_85F438"
+offset = 0x78
+type = "CAETwinLoopSoundEntity"
+size = 0xb0
+
+[members.0x128]
+name = "field_150"
+offset = 0x128
+type = "CAESound *"
+size = 0x8
+
+[members.0x130]
+name = "field_154"
+offset = 0x130
+type = "float"
+size = 0x4
+
+[members.0x134]
+name = "field_158"
+offset = 0x134
+type = ""
+size = 0x4

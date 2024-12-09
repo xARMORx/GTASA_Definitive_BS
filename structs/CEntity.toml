@@ -1,0 +1,93 @@
+last_change = 2024-07-13T02:58:17.751908Z
+name = "CEntity"
+size = 0x60
+
+[members.0x0]
+name = "placeable"
+offset = 0x0
+type = "CPlaceable"
+size = 0x20
+
+[members.0x20]
+name = "field_0"
+offset = 0x20
+type = "char[16]"
+size = 0x10
+
+[members.0x30]
+name = "m_nFlags"
+offset = 0x30
+type = "eEntityFlags"
+size = 0x4
+
+[members.0x34]
+name = "field_34"
+offset = 0x34
+type = "char[4]"
+size = 0x4
+
+[members.0x38]
+name = "m_nRandomSeed"
+offset = 0x38
+type = "unsigned short"
+size = 0x2
+
+[members.0x3a]
+name = "m_nModelIndex"
+offset = 0x3a
+type = "unsigned short"
+size = 0x2
+
+[members.0x3c]
+name = "field_3C"
+offset = 0x3c
+type = "char[4]"
+size = 0x4
+
+[members.0x40]
+name = "m_pReferences"
+offset = 0x40
+type = "CReference *"
+size = 0x8
+
+[members.0x48]
+name = "field_48"
+offset = 0x48
+type = "char[3]"
+size = 0x3
+
+[members.0x4b]
+name = "m_nbInterior"
+offset = 0x4b
+type = "char"
+size = 0x1
+
+[members.0x4c]
+name = "field_4C"
+offset = 0x4c
+type = "char[10]"
+size = 0xa
+
+[members.0x56]
+name = "m_iplIndex"
+offset = 0x56
+type = "char"
+size = 0x1
+
+[members.0x57]
+name = "field_57"
+offset = 0x57
+type = "char[3]"
+size = 0x3
+
+[members.0x5a]
+name = "m_nTypeStatus"
+offset = 0x5a
+type = "char"
+size = 0x1
+
+[members.0x5b]
+name = "field_6B"
+offset = 0x5b
+type = ""
+size = 0x5

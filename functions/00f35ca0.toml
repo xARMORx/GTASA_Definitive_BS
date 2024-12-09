@@ -1,0 +1,19 @@
+last_change = 2024-07-13T02:26:10.213018Z
+addr = 0xf35ca0
+size = 0x27d0
+
+[stack_vars.-0xc8]
+last_change = 2024-07-13T02:25:10.363757Z
+offset = -200
+name = "out"
+type = "CMatrix"
+size = 0x50
+addr = 0xf35ca0
+
+[stack_vars.-0x118]
+last_change = 2024-07-13T02:26:10.213018Z
+offset = -280
+name = "m"
+type = "int[12]"
+size = 0x30
+addr = 0xf35ca0

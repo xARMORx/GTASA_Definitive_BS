@@ -1,0 +1,173 @@
+last_change = 2024-07-12T20:38:05.672376Z
+addr = 0x10f63c0
+size = 0xfe4
+name = "_ZN10C3dMarkers11PlaceMarkerEjtR7CVectorfhhhhtfsfffb"
+type = "C3dMarker *"
+
+[header]
+last_change = 2024-07-12T20:22:36.984882Z
+name = "_ZN10C3dMarkers11PlaceMarkerEjtR7CVectorfhhhhtfsfffb"
+addr = 0x10f63c0
+type = "C3dMarker *"
+
+[header.args]
+
+[stack_vars.-0x68]
+last_change = 2024-07-12T20:22:38.157430Z
+offset = -104
+name = "size"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x60]
+last_change = 2024-07-12T20:22:38.164432Z
+offset = -96
+name = "r"
+type = "unsigned char"
+size = 0x1
+addr = 0x10f63c0
+
+[stack_vars.-0x58]
+last_change = 2024-07-12T20:22:38.171433Z
+offset = -88
+name = "g"
+type = "unsigned char"
+size = 0x1
+addr = 0x10f63c0
+
+[stack_vars.-0x50]
+last_change = 2024-07-12T20:22:38.178435Z
+offset = -80
+name = "b"
+type = "unsigned char"
+size = 0x1
+addr = 0x10f63c0
+
+[stack_vars.-0x48]
+last_change = 2024-07-12T20:22:10.467398Z
+offset = -72
+name = "pulsePeriod"
+type = "short"
+size = 0x2
+addr = 0x10f63c0
+
+[stack_vars.-0x40]
+last_change = 2024-07-12T20:22:10.473399Z
+offset = -64
+name = "pulseFraction"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x38]
+last_change = 2024-07-12T20:22:38.184436Z
+offset = -56
+name = "pulseFraction"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x30]
+last_change = 2024-07-12T20:22:10.486402Z
+offset = -48
+name = "nrm_x"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x28]
+last_change = 2024-07-12T20:22:38.191438Z
+offset = -40
+name = "nrm_x"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x20]
+last_change = 2024-07-12T20:22:38.197439Z
+offset = -32
+name = "nrm_y"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x18]
+last_change = 2024-07-12T20:22:38.203440Z
+offset = -24
+name = "nrm_z"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x10]
+last_change = 2024-07-12T20:22:38.209442Z
+offset = -16
+name = "zCheck"
+type = "char"
+size = 0x1
+addr = 0x10f63c0
+
+[stack_vars.-0x208]
+last_change = 2024-07-12T20:24:11.616815Z
+offset = -520
+name = "a1"
+type = "unsigned long long"
+size = 0x8
+addr = 0x10f63c0
+
+[stack_vars.-0x2c8]
+last_change = 2024-07-12T20:38:05.640368Z
+offset = -712
+name = "a5"
+type = "int"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x270]
+last_change = 2024-07-12T20:38:05.647369Z
+offset = -624
+name = "x"
+type = "unsigned long long"
+size = 0x8
+addr = 0x10f63c0
+
+[stack_vars.-0x268]
+last_change = 2024-07-12T20:38:05.653370Z
+offset = -616
+name = "z"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x260]
+last_change = 2024-07-12T20:38:05.660373Z
+offset = -608
+name = "a4"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x258]
+last_change = 2024-07-12T20:38:05.666374Z
+offset = -600
+name = "y"
+type = "long long"
+size = 0x8
+addr = 0x10f63c0
+
+[stack_vars.-0x250]
+last_change = 2024-07-12T20:38:05.669374Z
+offset = -592
+name = "var_1B8"
+type = "float"
+size = 0x4
+addr = 0x10f63c0
+
+[stack_vars.-0x25c]
+last_change = 2024-07-12T20:38:05.672376Z
+offset = -604
+name = "var_1C4"
+type = "float"
+size = 0x4
+addr = 0x10f63c0

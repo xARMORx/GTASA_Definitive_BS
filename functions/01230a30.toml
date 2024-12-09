@@ -1,0 +1,27 @@
+last_change = 2024-07-12T20:44:10.040786Z
+addr = 0x1230a30
+size = 0x18c
+name = "_ZN6CTrain10InitTrainsEv"
+
+[header]
+last_change = 2024-07-12T20:40:58.640942Z
+name = "_ZN6CTrain10InitTrainsEv"
+addr = 0x1230a30
+
+[header.args]
+
+[stack_vars.-0x48]
+last_change = 2024-07-12T20:44:10.036785Z
+offset = -72
+name = "a1"
+type = "long long"
+size = 0x8
+addr = 0x1230a30
+
+[stack_vars.-0x18]
+last_change = 2024-07-12T20:44:10.040786Z
+offset = -24
+name = "a2"
+type = "char"
+size = 0x1
+addr = 0x1230a30

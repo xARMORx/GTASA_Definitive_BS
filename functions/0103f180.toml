@@ -1,0 +1,37 @@
+last_change = 2024-07-12T04:28:35.791725Z
+addr = 0x103f180
+size = 0x14f
+name = "_ZN6CRadar23DrawRotatingRadarSpriteEP9CSprite2dfffh"
+type = "char"
+
+[header]
+last_change = 2024-07-12T04:28:35.791725Z
+name = "_ZN6CRadar23DrawRotatingRadarSpriteEP9CSprite2dfffh"
+addr = 0x103f180
+type = "char"
+
+[header.args]
+
+[stack_vars.0x0]
+last_change = 2024-07-12T04:26:51.827546Z
+offset = 0x0
+name = "arg30"
+type = "long long"
+size = 0x8
+addr = 0x103f180
+
+[stack_vars.-0x8]
+last_change = 2024-07-12T04:27:51.442196Z
+offset = -8
+name = "Color"
+type = "CRGBA *"
+size = 0x8
+addr = 0x103f180
+
+[stack_vars.-0x10]
+last_change = 2024-07-12T04:28:22.513061Z
+offset = -16
+name = "height"
+type = "float"
+size = 0x4
+addr = 0x103f180

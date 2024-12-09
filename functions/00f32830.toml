@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:19:34.980096Z
+addr = 0xf32830
+size = 0x266
+name = "CTheScripts::processExternalScriptTriggers"
+type = "void"
+
+[header]
+last_change = 2024-07-12T20:19:34.980096Z
+name = "CTheScripts::processExternalScriptTriggers"
+addr = 0xf32830
+type = "void"
+
+[header.args]

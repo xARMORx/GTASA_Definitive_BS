@@ -1,0 +1,15 @@
+last_change = 2024-07-13T02:25:06.765724Z
+name = "CQuaternion"
+size = 0x10
+
+[members.0x0]
+name = "imag"
+offset = 0x0
+type = "CVector"
+size = 0xc
+
+[members.0xc]
+name = "real"
+offset = 0xc
+type = ""
+size = 0x4

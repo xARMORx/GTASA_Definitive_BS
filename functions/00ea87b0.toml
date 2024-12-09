@@ -1,0 +1,13 @@
+last_change = 2024-07-13T01:40:50.842475Z
+addr = 0xea87b0
+size = 0xf7
+name = "_ZN6CWorld14ClearScanCodesEv"
+type = "void"
+
+[header]
+last_change = 2024-07-13T01:40:50.842475Z
+name = "_ZN6CWorld14ClearScanCodesEv"
+addr = 0xea87b0
+type = "void"
+
+[header.args]

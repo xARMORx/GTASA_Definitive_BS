@@ -1,0 +1,13 @@
+last_change = 2024-07-12T16:01:26.314984Z
+addr = 0x10e70a0
+size = 0x646
+name = "_ZN5CFont14GetNumberLinesEbffPh"
+type = "short"
+
+[header]
+last_change = 2024-07-12T16:01:26.314984Z
+name = "_ZN5CFont14GetNumberLinesEbffPh"
+addr = 0x10e70a0
+type = "short"
+
+[header.args]

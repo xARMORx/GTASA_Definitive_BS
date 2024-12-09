@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:47:12.461339Z
+addr = 0xf80ee0
+size = 0x4e8
+name = "_ZN7CCamera4InitEv"
+type = "void"
+
+[header]
+last_change = 2024-07-12T20:47:12.461339Z
+name = "_ZN7CCamera4InitEv"
+addr = 0xf80ee0
+type = "void"
+
+[header.args]

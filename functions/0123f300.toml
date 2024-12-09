@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:38:27.659009Z
+addr = 0x123f300
+size = 0x1887
+
+[stack_vars.-0x188]
+last_change = 2024-07-12T20:38:27.659009Z
+offset = -392
+name = "var_158"
+type = "int"
+size = 0x4
+addr = 0x123f300

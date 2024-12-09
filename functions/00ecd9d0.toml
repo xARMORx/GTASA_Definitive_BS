@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:38:25.193837Z
+addr = 0xecd9d0
+size = 0x2728
+
+[stack_vars.-0x198]
+last_change = 2024-07-12T20:38:25.193837Z
+offset = -408
+name = "pLevel"
+type = "float"
+size = 0x4
+addr = 0xecd9d0

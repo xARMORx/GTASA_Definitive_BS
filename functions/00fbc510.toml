@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:48:23.298080Z
+addr = 0xfbc510
+size = 0xa03
+name = "ReInitGameObjectVariables__5CGameFv"
+type = "int"
+
+[header]
+last_change = 2024-07-12T20:48:23.298080Z
+name = "ReInitGameObjectVariables__5CGameFv"
+addr = 0xfbc510
+type = "int"
+
+[header.args]

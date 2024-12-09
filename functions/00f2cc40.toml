@@ -1,0 +1,11 @@
+last_change = 2024-07-12T19:44:58.418131Z
+addr = 0xf2cc40
+size = 0x562
+name = "_ZN11CTheScripts7ProcessEv"
+
+[header]
+last_change = 2024-07-12T19:44:58.418131Z
+name = "_ZN11CTheScripts7ProcessEv"
+addr = 0xf2cc40
+
+[header.args]

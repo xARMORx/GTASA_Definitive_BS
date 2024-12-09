@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:24:21.575112Z
+addr = 0xec59c0
+size = 0x232
+name = "_ZN9CColStore20SetCollisionRequiredERK7CVectori"
+type = "int"
+
+[header]
+last_change = 2024-07-12T20:24:21.575112Z
+name = "_ZN9CColStore20SetCollisionRequiredERK7CVectori"
+addr = 0xec59c0
+type = "int"
+
+[header.args]

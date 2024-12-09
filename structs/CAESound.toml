@@ -1,0 +1,141 @@
+last_change = 2024-07-12T02:33:47.589062Z
+name = "CAESound"
+size = 0x68
+
+[members.0x0]
+name = "m_wBankSlotId"
+offset = 0x0
+type = "short"
+size = 0x2
+
+[members.0x2]
+name = "m_wSoundIdInSlot"
+offset = 0x2
+type = "short"
+size = 0x2
+
+[members.0x4]
+name = "field_04"
+offset = 0x4
+type = "char[4]"
+size = 0x4
+
+[members.0x8]
+name = "m_pBaseAudio"
+offset = 0x8
+type = "CAEAudioEntity *"
+size = 0x8
+
+[members.0x10]
+name = "m_pPhysicalEntity"
+offset = 0x10
+type = "CEntity *"
+size = 0x8
+
+[members.0x18]
+name = "m_dwEvent"
+offset = 0x18
+type = "unsigned int"
+size = 0x4
+
+[members.0x1c]
+name = "m_fMaxVolume"
+offset = 0x1c
+type = "float"
+size = 0x4
+
+[members.0x20]
+name = "m_fVolume"
+offset = 0x20
+type = "float"
+size = 0x4
+
+[members.0x24]
+name = "m_fSoundDistance"
+offset = 0x24
+type = "float"
+size = 0x4
+
+[members.0x28]
+name = "m_fSpeed"
+offset = 0x28
+type = "float"
+size = 0x4
+
+[members.0x2c]
+name = "field_20"
+offset = 0x2c
+type = "float"
+size = 0x4
+
+[members.0x30]
+name = "m_vCurrPosn"
+offset = 0x30
+type = "CVector"
+size = 0xc
+
+[members.0x3c]
+name = "m_vPrevPosn"
+offset = 0x3c
+type = "CVector"
+size = 0xc
+
+[members.0x48]
+name = "m_dwLastFrameUpdate"
+offset = 0x48
+type = "_DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "m_dwCurrTimeUpdate"
+offset = 0x4c
+type = "int"
+size = 0x4
+
+[members.0x50]
+name = "m_dwPrevTimeUpdate"
+offset = 0x50
+type = "int"
+size = 0x4
+
+[members.0x54]
+name = "m_fCurrCamDist"
+offset = 0x54
+type = "float"
+size = 0x4
+
+[members.0x58]
+name = "m_fPrevCamDist"
+offset = 0x58
+type = "float"
+size = 0x4
+
+[members.0x5c]
+name = "m_fTimeScale"
+offset = 0x5c
+type = "float"
+size = 0x4
+
+[members.0x60]
+name = "field_54"
+offset = 0x60
+type = "char"
+size = 0x1
+
+[members.0x61]
+name = "field_55"
+offset = 0x61
+type = "char"
+size = 0x1
+
+[members.0x62]
+name = "m_nIndividualEnvironment"
+offset = 0x62
+type = "unsigned short"
+size = 0x2
+
+[members.0x64]
+name = "m_wIsUsed"
+offset = 0x64
+type = ""
+size = 0x2

@@ -1,0 +1,99 @@
+last_change = 2024-07-12T16:04:09.419166Z
+name = "CFontChar"
+size = 0x30
+
+[members.0x0]
+name = "m_cLetter"
+offset = 0x0
+type = "char"
+size = 0x1
+
+[members.0x1]
+name = "_pad0"
+offset = 0x1
+type = "char[3]"
+size = 0x3
+
+[members.0x4]
+name = "m_vPosn"
+offset = 0x4
+type = "CVector2D"
+size = 0x8
+
+[members.0xc]
+name = "m_fWidth"
+offset = 0xc
+type = "float"
+size = 0x4
+
+[members.0x10]
+name = "m_fHeigth"
+offset = 0x10
+type = "float"
+size = 0x4
+
+[members.0x14]
+name = "m_color"
+offset = 0x14
+type = "CRGBA"
+size = 0x4
+
+[members.0x18]
+name = "m_fWrap"
+offset = 0x18
+type = "float"
+size = 0x4
+
+[members.0x1c]
+name = "m_fSlant"
+offset = 0x1c
+type = "float"
+size = 0x4
+
+[members.0x20]
+name = "m_vSlanRefPoint"
+offset = 0x20
+type = "CVector2D"
+size = 0x8
+
+[members.0x28]
+name = "m_bContainImages"
+offset = 0x28
+type = "char"
+size = 0x1
+
+[members.0x29]
+name = "m_nFontStyle"
+offset = 0x29
+type = "char"
+size = 0x1
+
+[members.0x2a]
+name = "m_bPropOn"
+offset = 0x2a
+type = "char"
+size = 0x1
+
+[members.0x2b]
+name = "_pad1"
+offset = 0x2b
+type = "char"
+size = 0x1
+
+[members.0x2c]
+name = "m_wFontTexture"
+offset = 0x2c
+type = "short"
+size = 0x2
+
+[members.0x2e]
+name = "m_nOutline"
+offset = 0x2e
+type = "char"
+size = 0x1
+
+[members.0x2f]
+name = "_pad2"
+offset = 0x2f
+type = ""
+size = 0x1

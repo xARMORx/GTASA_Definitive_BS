@@ -1,0 +1,9 @@
+last_change = 2024-07-13T01:40:20.081216Z
+name = "CPtrListSingleLink"
+size = 0x8
+
+[members.0x0]
+name = "pNode"
+offset = 0x0
+type = ""
+size = 0x8

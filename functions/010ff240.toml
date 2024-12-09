@@ -1,0 +1,11 @@
+last_change = 2024-07-13T02:26:14.582154Z
+addr = 0x10ff240
+size = 0x1616
+
+[stack_vars.-0xa40]
+last_change = 2024-07-13T02:26:14.582154Z
+offset = -2624
+name = "var_A20"
+type = "CMenuManager *"
+size = 0x8
+addr = 0x10ff240

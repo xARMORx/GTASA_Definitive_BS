@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:12:40.454491Z
+addr = 0xf2ab50
+size = 0x33c
+
+[stack_vars.-0xd8]
+last_change = 2024-07-12T16:12:40.454491Z
+offset = -216
+name = "a1"
+type = "CRect"
+size = 0x10
+addr = 0xf2ab50

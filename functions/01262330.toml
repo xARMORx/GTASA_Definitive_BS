@@ -1,0 +1,11 @@
+last_change = 2024-07-12T04:28:59.851572Z
+addr = 0x1262330
+size = 0xdc7
+
+[stack_vars.-0x190]
+last_change = 2024-07-12T04:28:59.851572Z
+offset = -400
+name = "py"
+type = "float *"
+size = 0x8
+addr = 0x1262330

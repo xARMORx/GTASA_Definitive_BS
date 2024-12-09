@@ -1,0 +1,19 @@
+last_change = 2024-07-12T20:24:21.714144Z
+addr = 0xf610d0
+size = 0x23f0
+
+[stack_vars.-0x9c0]
+last_change = 2024-07-12T20:21:09.499098Z
+offset = -2496
+name = "g"
+type = "int"
+size = 0x4
+addr = 0xf610d0
+
+[stack_vars.-0x908]
+last_change = 2024-07-12T20:24:21.714144Z
+offset = -2312
+name = "a1"
+type = "CVector"
+size = 0xc
+addr = 0xf610d0

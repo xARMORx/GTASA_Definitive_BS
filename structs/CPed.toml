@@ -1,0 +1,273 @@
+last_change = 2024-07-13T03:08:15.687013Z
+name = "CPed"
+size = 0xa46
+
+[members.0x0]
+name = "physical"
+offset = 0x0
+type = "CPhysical"
+size = 0x1a0
+
+[members.0x1a0]
+name = "field_0"
+offset = 0x1a0
+type = "char[992]"
+size = 0x3e0
+
+[members.0x580]
+name = "m_pIntelligence"
+offset = 0x580
+type = "CPedIntelligence *"
+size = 0x8
+
+[members.0x588]
+name = "m_pPlayerData"
+offset = 0x588
+type = "CPlayerData *"
+size = 0x8
+
+[members.0x590]
+name = "m_nCreatedBy"
+offset = 0x590
+type = "char"
+size = 0x1
+
+[members.0x591]
+name = "field_5A0"
+offset = 0x591
+type = "char[3]"
+size = 0x3
+
+[members.0x594]
+name = "m_nPedState"
+offset = 0x594
+type = "ePedState"
+size = 0x4
+
+[members.0x598]
+name = "field_598"
+offset = 0x598
+type = "char[52]"
+size = 0x34
+
+[members.0x5cc]
+name = "m_nPedFlags"
+offset = 0x5cc
+type = "int[4]"
+size = 0x10
+
+[members.0x5dc]
+name = "field_5EC"
+offset = 0x5dc
+type = "char[4]"
+size = 0x4
+
+[members.0x5e0]
+name = "m_apPedBones"
+offset = 0x5e0
+type = "AnimBlendFrameData *[19]"
+size = 0x98
+
+[members.0x678]
+name = "field_688"
+offset = 0x678
+type = "char[16]"
+size = 0x10
+
+[members.0x688]
+name = "m_dwAnimGroup"
+offset = 0x688
+type = "int"
+size = 0x4
+
+[members.0x68c]
+name = "field_68C"
+offset = 0x68c
+type = "char[58]"
+size = 0x3a
+
+[members.0x6c6]
+name = "m_nWeaponGunflashStateLeftHand"
+offset = 0x6c6
+type = "short"
+size = 0x2
+
+[members.0x6c8]
+name = "field_6DA"
+offset = 0x6c8
+type = "char[2]"
+size = 0x2
+
+[members.0x6ca]
+name = "m_nWeaponGunflashStateRightHand"
+offset = 0x6ca
+type = "short"
+size = 0x2
+
+[members.0x6cc]
+name = "field_6DE"
+offset = 0x6cc
+type = "char[56]"
+size = 0x38
+
+[members.0x704]
+name = "m_fHealth"
+offset = 0x704
+type = "float"
+size = 0x4
+
+[members.0x708]
+name = "m_fMaxHealth"
+offset = 0x708
+type = "float"
+size = 0x4
+
+[members.0x70c]
+name = "m_fArmour"
+offset = 0x70c
+type = "float"
+size = 0x4
+
+[members.0x710]
+name = "field_718"
+offset = 0x710
+type = "char[20]"
+size = 0x14
+
+[members.0x724]
+name = "m_fHeadingChangeRate"
+offset = 0x724
+type = "float"
+size = 0x4
+
+[members.0x728]
+name = "field_738"
+offset = 0x728
+type = "char[56]"
+size = 0x38
+
+[members.0x760]
+name = "m_pVehicle"
+offset = 0x760
+type = "CVehicle *"
+size = 0x8
+
+[members.0x768]
+name = "field_778"
+offset = 0x768
+type = "char[16]"
+size = 0x10
+
+[members.0x778]
+name = "m_nPedType"
+offset = 0x778
+type = "int"
+size = 0x4
+
+[members.0x77c]
+name = "field_78C"
+offset = 0x77c
+type = "char[4]"
+size = 0x4
+
+[members.0x780]
+name = "m_pStats"
+offset = 0x780
+type = "CPedStat *"
+size = 0x8
+
+[members.0x788]
+name = "m_aWeapon"
+offset = 0x788
+type = "CWeapon[13]"
+size = 0x208
+
+[members.0x990]
+name = "m_nSavedWeapon"
+offset = 0x990
+type = "int"
+size = 0x4
+
+[members.0x994]
+name = "m_nDelayedWeapon"
+offset = 0x994
+type = "int"
+size = 0x4
+
+[members.0x998]
+name = "m_dwDelayedWeaponAmmo"
+offset = 0x998
+type = "int"
+size = 0x4
+
+[members.0x99c]
+name = "m_nActiveWeaponSlot"
+offset = 0x99c
+type = "char"
+size = 0x1
+
+[members.0x99d]
+name = "m_nWeaponShootingRate"
+offset = 0x99d
+type = "char"
+size = 0x1
+
+[members.0x99e]
+name = "field_9AD"
+offset = 0x99e
+type = "char[38]"
+size = 0x26
+
+[members.0x9c4]
+name = "m_nWeaponSkill"
+offset = 0x9c4
+type = "char"
+size = 0x1
+
+[members.0x9c5]
+name = "field_9D5"
+offset = 0x9c5
+type = "char[31]"
+size = 0x1f
+
+[members.0x9e4]
+name = "m_dwWeaponModelId"
+offset = 0x9e4
+type = "int"
+size = 0x4
+
+[members.0x9e8]
+name = "field_9F8"
+offset = 0x9e8
+type = "char[18]"
+size = 0x12
+
+[members.0x9fa]
+name = "m_nMoneyCount"
+offset = 0x9fa
+type = "unsigned short"
+size = 0x2
+
+[members.0x9fc]
+name = "field_A0C"
+offset = 0x9fc
+type = "char[8]"
+size = 0x8
+
+[members.0xa04]
+name = "m_nLastWeaponDamage"
+offset = 0xa04
+type = "char"
+size = 0x1
+
+[members.0xa05]
+name = "field_A05"
+offset = 0xa05
+type = "char[63]"
+size = 0x3f
+
+[members.0xa44]
+name = "m_wSpecialModelIndex"
+offset = 0xa44
+type = ""
+size = 0x2

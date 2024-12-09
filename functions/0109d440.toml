@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:18:38.948385Z
+addr = 0x109d440
+size = 0xcc
+name = "_ZN4CPed14GetWeaponSkillE11eWeaponType"
+
+[header]
+last_change = 2024-07-12T16:18:38.948385Z
+name = "_ZN4CPed14GetWeaponSkillE11eWeaponType"
+addr = 0x109d440
+
+[header.args]

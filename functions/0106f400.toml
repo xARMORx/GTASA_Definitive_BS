@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:19:40.977792Z
+addr = 0x106f400
+size = 0x223
+
+[stack_vars.-0x338]
+last_change = 2024-07-12T16:19:40.977792Z
+offset = -824
+name = "nColor"
+type = "unsigned int"
+size = 0x4
+addr = 0x106f400

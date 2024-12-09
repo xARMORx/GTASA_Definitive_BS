@@ -1,0 +1,11 @@
+last_change = 2024-07-12T22:52:24.366340Z
+addr = 0xf2ca40
+size = 0xeb
+type = "CRunningScript *"
+
+[header]
+last_change = 2024-07-12T22:52:24.366340Z
+addr = 0xf2ca40
+type = "CRunningScript *"
+
+[header.args]

@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:24:08.181224Z
+addr = 0xec61e0
+size = 0xf8
+name = "CWorld::hasCollisionBeenLoaded"
+type = "char"
+
+[header]
+last_change = 2024-07-12T20:24:08.181224Z
+name = "CWorld::hasCollisionBeenLoaded"
+addr = 0xec61e0
+type = "char"
+
+[header.args]

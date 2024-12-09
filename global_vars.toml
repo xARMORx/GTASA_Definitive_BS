@@ -1,0 +1,1613 @@
+[0x5570580]
+last_change = 2024-07-12T02:15:51.406173Z
+addr = 0x5570580
+name = "_ZN11CTagManager10ms_numTagsE"
+size = 0x4
+
+[0x505f800]
+last_change = 2024-07-12T02:15:57.335358Z
+addr = 0x505f800
+name = "_ZN11CTagManager10ms_tagDescE"
+size = 0x8
+
+[0x505f808]
+last_change = 2024-07-12T02:16:40.975588Z
+addr = 0x505f808
+name = ""
+size = 0x4a8
+
+[0x419b4b0]
+last_change = 2024-07-12T02:28:40.607033Z
+addr = 0x419b4b0
+name = "_ZTV18CPedCollisionAudio"
+size = 0x1
+
+[0x409af2a]
+last_change = 2024-07-12T03:05:03.401210Z
+addr = 0x409af2a
+name = ""
+size = 0x1
+
+[0x557de54]
+last_change = 2024-07-12T03:05:03.423209Z
+addr = 0x557de54
+name = ""
+size = 0x1
+
+[0x409afba]
+last_change = 2024-07-12T03:05:03.426209Z
+addr = 0x409afba
+name = ""
+size = 0x1
+
+[0x4fab740]
+last_change = 2024-07-12T03:05:03.767317Z
+addr = 0x4fab740
+name = ""
+size = 0x1
+
+[0x4a49eac]
+last_change = 2024-07-12T04:28:22.564073Z
+addr = 0x4a49eac
+name = "height"
+size = 0x4
+
+[0x4ea9de0]
+last_change = 2024-07-12T04:28:55.192579Z
+addr = 0x4ea9de0
+name = "px"
+size = 0x8
+
+[0x556bb88]
+last_change = 2024-07-12T04:35:16.248136Z
+addr = 0x556bb88
+name = "FrontEndMenuManager"
+size = 0x8
+
+[0x42edbfc]
+last_change = 2024-07-12T04:40:01.541158Z
+addr = 0x42edbfc
+name = "nColor"
+size = 0x4
+
+[0x4118410]
+last_change = 2024-07-12T15:46:40.809908Z
+addr = 0x4118410
+name = "aLoadingscreen"
+size = 0xd
+
+[0x4118420]
+last_change = 2024-07-12T15:46:46.210646Z
+addr = 0x4118420
+name = "aPremenulegalsc"
+size = 0x12
+
+[0x4118438]
+last_change = 2024-07-12T15:47:06.314847Z
+addr = 0x4118438
+name = "aScbuttontempla"
+size = 0x10
+
+[0x41183c8]
+last_change = 2024-07-12T15:47:11.978723Z
+addr = 0x41183c8
+name = "aDialogsampleso"
+size = 0x11
+
+[0x41183b8]
+last_change = 2024-07-12T15:47:15.152916Z
+addr = 0x41183b8
+name = "aSfxsamplesound"
+size = 0xe
+
+[0x41183a0]
+last_change = 2024-07-12T15:47:18.112245Z
+addr = 0x41183a0
+name = "aScbackgroundti"
+size = 0x10
+
+[0x4118388]
+last_change = 2024-07-12T15:47:21.306938Z
+addr = 0x4118388
+name = "aScbackgroundwi"
+size = 0x12
+
+[0x4118368]
+last_change = 2024-07-12T15:47:24.736328Z
+addr = 0x4118368
+name = "aFullscreenconf"
+size = 0x1b
+
+[0x4118348]
+last_change = 2024-07-12T15:47:28.128782Z
+addr = 0x4118348
+name = "aControllerdisc"
+size = 0x19
+
+[0x4118328]
+last_change = 2024-07-12T15:47:31.346192Z
+addr = 0x4118328
+name = "aMissionretryco"
+size = 0x1d
+
+[0x4118310]
+last_change = 2024-07-12T15:47:34.811792Z
+addr = 0x4118310
+name = "aRadiovolumemul"
+size = 0x15
+
+[0x41182f0]
+last_change = 2024-07-12T15:47:38.059216Z
+addr = 0x41182f0
+name = "aSetlocalizedst"
+size = 0x1b
+
+[0x41182e0]
+last_change = 2024-07-12T15:47:42.050289Z
+addr = 0x41182e0
+name = "aTakefocus_0"
+size = 0x9
+
+[0x41182c0]
+last_change = 2024-07-12T15:47:46.411845Z
+addr = 0x41182c0
+name = "aTrytoresolveso"
+size = 0x1a
+
+[0x41182b0]
+last_change = 2024-07-12T15:47:48.069594Z
+addr = 0x41182b0
+name = "aUpdatelanguage"
+size = 0xe
+
+[0x4118298]
+last_change = 2024-07-12T15:47:49.824569Z
+addr = 0x4118298
+name = "aIswindowinfore"
+size = 0x14
+
+[0x4118288]
+last_change = 2024-07-12T15:47:53.184717Z
+addr = 0x4118288
+name = "aLaunchgame"
+size = 0xa
+
+[0x4118270]
+last_change = 2024-07-12T15:47:55.810304Z
+addr = 0x4118270
+name = "aOnsynchronizep_0"
+size = 0x17
+
+[0x4118258]
+last_change = 2024-07-12T15:48:01.343523Z
+addr = 0x4118258
+name = "aPlaymenusoundn"
+size = 0x13
+
+[0x4118240]
+last_change = 2024-07-12T15:48:03.821184Z
+addr = 0x4118240
+name = "aGetplayercontr"
+size = 0x17
+
+[0x4118228]
+last_change = 2024-07-12T15:48:07.235157Z
+addr = 0x4118228
+name = "aGetworldsettin"
+size = 0x10
+
+[0x4118218]
+last_change = 2024-07-12T15:48:08.937815Z
+addr = 0x4118218
+name = "aHandleback_0"
+size = 0xa
+
+[0x4118208]
+last_change = 2024-07-12T15:48:10.800361Z
+addr = 0x4118208
+name = "aIsplayingmovie_0"
+size = 0xe
+
+[0x41181f0]
+last_change = 2024-07-12T15:48:14.282630Z
+addr = 0x41181f0
+name = "aFinduvsfrommap"
+size = 0x12
+
+[0x41181d8]
+last_change = 2024-07-12T15:48:16.314200Z
+addr = 0x41181d8
+name = "aGetimagefilena"
+size = 0x10
+
+[0x41181c0]
+last_change = 2024-07-12T15:48:18.455282Z
+addr = 0x41181c0
+name = "aGetlastuserind"
+size = 0x10
+
+[0x41181a0]
+last_change = 2024-07-12T15:48:22.187666Z
+addr = 0x41181a0
+name = "aGetlocalizedst"
+size = 0x19
+
+[0x4118188]
+last_change = 2024-07-12T15:48:24.264503Z
+addr = 0x4118188
+name = "aLeftbuttonvert"
+size = 0x16
+
+[0x4118170]
+last_change = 2024-07-12T15:48:27.084774Z
+addr = 0x4118170
+name = "aHelptextshadow"
+size = 0x13
+
+[0x4118160]
+last_change = 2024-07-12T15:48:28.673194Z
+addr = 0x4118160
+name = "aStartupsound"
+size = 0xc
+
+[0x4118150]
+last_change = 2024-07-12T15:48:30.526876Z
+addr = 0x4118150
+name = "aExitsound"
+size = 0x9
+
+[0x4118138]
+last_change = 2024-07-12T15:48:32.557643Z
+addr = 0x4118138
+name = "aLeftbuttontemp"
+size = 0x12
+
+[0x4118128]
+last_change = 2024-07-12T15:48:34.399133Z
+addr = 0x4118128
+name = "aLeftbuttons"
+size = 0xb
+
+[0x4118110]
+last_change = 2024-07-12T15:48:36.473348Z
+addr = 0x4118110
+name = "aAltleftbuttont"
+size = 0x11
+
+[0x41180e8]
+last_change = 2024-07-12T15:48:40.599016Z
+addr = 0x41180e8
+name = "aLeftbuttonsele"
+size = 0x24
+
+[0x41180d0]
+last_change = 2024-07-12T15:48:42.976052Z
+addr = 0x41180d0
+name = "aMainbuttonsoff"
+size = 0x12
+
+[0x41180c0]
+last_change = 2024-07-12T15:48:44.348649Z
+addr = 0x41180c0
+name = "aTabareaanchors"
+size = 0xe
+
+[0x41180b0]
+last_change = 2024-07-12T15:48:46.674753Z
+addr = 0x41180b0
+name = "aTabareaoffsets"
+size = 0xe
+
+[0x41180a0]
+last_change = 2024-07-12T15:48:49.209590Z
+addr = 0x41180a0
+name = "aLogoareaanchor"
+size = 0xf
+
+[0x4118090]
+last_change = 2024-07-12T15:48:51.102989Z
+addr = 0x4118090
+name = "aBackgroundimag_0"
+size = 0xe
+
+[0x4118078]
+last_change = 2024-07-12T15:48:56.116301Z
+addr = 0x4118078
+name = "aBackgroundwidg"
+size = 0x10
+
+[0x4118068]
+last_change = 2024-07-12T15:48:58.020181Z
+addr = 0x4118068
+name = "aGameicon"
+size = 0x8
+
+[0x5001a56]
+last_change = 2024-07-12T15:51:57.259217Z
+addr = 0x5001a56
+name = "_ZN11CTheScripts11bDisplayHudE"
+size = 0x1
+
+[0x507185c]
+last_change = 2024-07-12T15:54:08.226380Z
+addr = 0x507185c
+name = "_ZN4CHud11m_ZoneStateE"
+size = 0x4
+
+[0x5002152]
+last_change = 2024-07-12T15:54:40.540729Z
+addr = 0x5002152
+name = "_ZN11CTheScripts18bPlayerIsOffTheMapE"
+size = 0x1
+
+[0x51579a0]
+last_change = 2024-07-12T16:00:31.770413Z
+addr = 0x51579a0
+name = "szText"
+size = 0x2
+
+[0x549d6a6]
+last_change = 2024-07-12T16:00:31.833072Z
+addr = 0x549d6a6
+name = "dword_549D6A6"
+size = 0x4
+
+[0x549d6aa]
+last_change = 2024-07-12T16:00:31.836072Z
+addr = 0x549d6aa
+name = ""
+size = 0x1
+
+[0x549d670]
+last_change = 2024-07-12T16:01:14.559197Z
+addr = 0x549d670
+name = "_ZN5CFont5ColorE"
+size = 0x4
+
+[0x549d689]
+last_change = 2024-07-12T16:04:55.182445Z
+addr = 0x549d689
+name = "m_bFontCentreAlign"
+size = 0x1
+
+[0x5142510]
+last_change = 2024-07-12T16:11:07.123864Z
+addr = 0x5142510
+name = "stru_5142510"
+size = 0x10
+
+[0x5142518]
+last_change = 2024-07-12T16:02:08.425837Z
+addr = 0x5142518
+name = ""
+size = 0x8
+
+[0x507d6b0]
+last_change = 2024-07-12T16:02:08.459084Z
+addr = 0x507d6b0
+name = "dword_507D6B0"
+size = 0x4
+
+[0x507d6b4]
+last_change = 2024-07-12T16:02:08.462084Z
+addr = 0x507d6b4
+name = ""
+size = 0xc
+
+[0x507d6b8]
+last_change = 2024-07-12T16:02:08.463084Z
+addr = 0x507d6b8
+name = ""
+size = 0x8
+
+[0x549d6ab]
+last_change = 2024-07-12T16:02:08.488654Z
+addr = 0x549d6ab
+name = ""
+size = 0x1
+
+[0x5553920]
+last_change = 2024-07-12T16:02:08.774586Z
+addr = 0x5553920
+name = "dword_5553920"
+size = 0x4
+
+[0x5553924]
+last_change = 2024-07-12T16:02:08.778586Z
+addr = 0x5553924
+name = ""
+size = 0xc
+
+[0x5553928]
+last_change = 2024-07-12T16:02:08.779586Z
+addr = 0x5553928
+name = ""
+size = 0x8
+
+[0x549d68b]
+last_change = 2024-07-12T16:03:54.738796Z
+addr = 0x549d68b
+name = "m_bFontBackground"
+size = 0x1
+
+[0x549d6c4]
+last_change = 2024-07-12T16:04:06.050378Z
+addr = 0x549d6c4
+name = "_ZN5CFont11RenderStateE"
+size = 0x2
+
+[0x549d6c6]
+last_change = 2024-07-12T16:04:09.432170Z
+addr = 0x549d6c6
+name = ""
+size = 0x2e
+
+[0x549d6c7]
+last_change = 2024-07-12T16:04:09.433170Z
+addr = 0x549d6c7
+name = ""
+size = 0x2d
+
+[0x549d6c8]
+last_change = 2024-07-12T16:04:09.435171Z
+addr = 0x549d6c8
+name = ""
+size = 0x2c
+
+[0x549d6d8]
+last_change = 2024-07-12T16:04:09.436171Z
+addr = 0x549d6d8
+name = ""
+size = 0x1c
+
+[0x549d6d9]
+last_change = 2024-07-12T16:04:09.437171Z
+addr = 0x549d6d9
+name = ""
+size = 0x1b
+
+[0x549d6da]
+last_change = 2024-07-12T16:04:09.439172Z
+addr = 0x549d6da
+name = ""
+size = 0x1a
+
+[0x549d6dc]
+last_change = 2024-07-12T16:04:09.440172Z
+addr = 0x549d6dc
+name = ""
+size = 0x18
+
+[0x549d6de]
+last_change = 2024-07-12T16:04:09.442172Z
+addr = 0x549d6de
+name = ""
+size = 0x16
+
+[0x549d6e8]
+last_change = 2024-07-12T16:04:09.443172Z
+addr = 0x549d6e8
+name = ""
+size = 0xc
+
+[0x549d6f0]
+last_change = 2024-07-12T16:04:09.445172Z
+addr = 0x549d6f0
+name = ""
+size = 0x4
+
+[0x549d69c]
+last_change = 2024-07-12T16:04:45.928602Z
+addr = 0x549d69c
+name = "m_FontCentreSize"
+size = 0x4
+
+[0x549d68a]
+last_change = 2024-07-12T16:05:08.682021Z
+addr = 0x549d68a
+name = "m_bFontRightAlign"
+size = 0x1
+
+[0x549d6a0]
+last_change = 2024-07-12T16:05:25.958306Z
+addr = 0x549d6a0
+name = "m_fRightJustifyWrap"
+size = 0x4
+
+[0x549d698]
+last_change = 2024-07-12T16:05:42.699158Z
+addr = 0x549d698
+name = "m_fWrapx"
+size = 0x4
+
+[0x549d674]
+last_change = 2024-07-12T16:06:23.630475Z
+addr = 0x549d674
+name = "_ZN5CFont5ScaleE"
+size = 0x8
+
+[0x549d678]
+last_change = 2024-07-12T16:06:18.075541Z
+addr = 0x549d678
+name = ""
+size = 0x4
+
+[0x549d68c]
+last_change = 2024-07-12T16:07:09.491011Z
+addr = 0x549d68c
+name = "bEnlargeBackgroundBox"
+size = 0x1
+
+[0x549d694]
+last_change = 2024-07-12T16:09:30.639241Z
+addr = 0x549d694
+name = "m_FontBackgroundColor"
+size = 0x4
+
+[0x5244bac]
+last_change = 2024-07-12T16:12:39.167664Z
+addr = 0x5244bac
+name = "a4"
+size = 0x4
+
+[0x5244bae]
+last_change = 2024-07-12T16:09:56.992349Z
+addr = 0x5244bae
+name = ""
+size = 0x2
+
+[0x54c2ee0]
+last_change = 2024-07-12T16:17:28.604443Z
+addr = 0x54c2ee0
+name = "_ZL11aWeaponInfo_0"
+size = 0x1
+
+[0x54c2ef4]
+last_change = 2024-07-12T16:18:19.320902Z
+addr = 0x54c2ef4
+name = ""
+size = 0x12c
+
+[0x54c2ee4]
+last_change = 2024-07-12T16:18:19.315901Z
+addr = 0x54c2ee4
+name = ""
+size = 0x1
+
+[0x54c2eec]
+last_change = 2024-07-12T16:18:19.317901Z
+addr = 0x54c2eec
+name = ""
+size = 0x134
+
+[0x54c2ef0]
+last_change = 2024-07-12T16:18:19.318901Z
+addr = 0x54c2ef0
+name = ""
+size = 0x130
+
+[0x4a49dc4]
+last_change = 2024-07-12T16:59:51.826044Z
+addr = 0x4a49dc4
+name = ""
+size = 0x4
+
+[0x549d6a7]
+last_change = 2024-07-12T16:59:52.050754Z
+addr = 0x549d6a7
+name = ""
+size = 0x3
+
+[0x5142521]
+last_change = 2024-07-12T16:59:52.059757Z
+addr = 0x5142521
+name = ""
+size = 0x1
+
+[0x4198bf0]
+last_change = 2024-07-12T16:59:52.070760Z
+addr = 0x4198bf0
+name = ""
+size = 0x4
+
+[0x4198bf4]
+last_change = 2024-07-12T16:59:52.071760Z
+addr = 0x4198bf4
+name = ""
+size = 0x1
+
+[0x4a49e40]
+last_change = 2024-07-12T16:59:52.097460Z
+addr = 0x4a49e40
+name = ""
+size = 0x8
+
+[0x4a493e8]
+last_change = 2024-07-12T16:59:52.108463Z
+addr = 0x4a493e8
+name = ""
+size = 0x4
+
+[0x4a4974c]
+last_change = 2024-07-12T20:21:05.628088Z
+addr = 0x4a4974c
+name = "pulseFraction"
+size = 0x4
+
+[0x5071498]
+last_change = 2024-07-12T20:14:26.073221Z
+addr = 0x5071498
+name = "ms_fTimeStepNonClipped"
+size = 0x4
+
+[0x5002674]
+last_change = 2024-07-12T20:14:38.479324Z
+addr = 0x5002674
+name = "_ZN11CTheScripts16CommandsExecutedE"
+size = 0x2
+
+[0x524321a]
+last_change = 2024-07-12T20:18:42.524334Z
+addr = 0x524321a
+name = "_ZN11CTheScripts14IntroTextLinesE"
+size = 0x1
+
+[0x524322d]
+last_change = 2024-07-12T20:18:45.495475Z
+addr = 0x524322d
+name = ""
+size = 0x6
+
+[0x5243233]
+last_change = 2024-07-12T20:18:45.497475Z
+addr = 0x5243233
+name = ""
+size = 0x11
+
+[0x5243244]
+last_change = 2024-07-12T20:18:45.503477Z
+addr = 0x5243244
+name = ""
+size = 0x1956
+
+[0x5244b94]
+last_change = 2024-07-12T20:18:45.511479Z
+addr = 0x5244b94
+name = ""
+size = 0x6
+
+[0x524324c]
+last_change = 2024-07-12T20:18:45.505477Z
+addr = 0x524324c
+name = ""
+size = 0x194e
+
+[0x5243250]
+last_change = 2024-07-12T20:18:45.507477Z
+addr = 0x5243250
+name = ""
+size = 0x194a
+
+[0x5244b90]
+last_change = 2024-07-12T20:18:45.509478Z
+addr = 0x5244b90
+name = ""
+size = 0xa
+
+[0x4ff5abf]
+last_change = 2024-07-12T20:19:06.446147Z
+addr = 0x4ff5abf
+name = "_textDrawEnbled"
+size = 0x1
+
+[0x5242b12]
+last_change = 2024-07-12T20:19:43.427573Z
+addr = 0x5242b12
+name = "_externalScriptTriggers_0"
+size = 0x1
+
+[0x4ffe5c8]
+last_change = 2024-07-12T20:19:49.220169Z
+addr = 0x4ffe5c8
+name = "_triggerEntities"
+size = 0x1
+
+[0x4a498a4]
+last_change = 2024-07-12T20:22:39.530623Z
+addr = 0x4a498a4
+name = "pulsePeriod"
+size = 0x4
+
+[0x52045b0]
+last_change = 2024-07-12T20:24:21.703143Z
+addr = 0x52045b0
+name = "byte_52045B0"
+size = 0xc
+
+[0x5570370]
+last_change = 2024-07-12T20:25:00.912725Z
+addr = 0x5570370
+name = "_ZN9CColStore11ms_pColPoolE"
+size = 0x8
+
+[0x54c0f60]
+last_change = 2024-07-12T20:25:33.857018Z
+addr = 0x54c0f60
+name = "dword_54C0F60"
+size = 0x4
+
+[0x54c0f64]
+last_change = 2024-07-12T20:25:33.861537Z
+addr = 0x54c0f64
+name = ""
+size = 0x4
+
+[0x4ffd5f8]
+last_change = 2024-07-12T20:32:41.127937Z
+addr = 0x4ffd5f8
+name = "_currentTextDrawer"
+size = 0x2
+
+[0x5571038]
+last_change = 2024-07-12T20:37:14.763488Z
+addr = 0x5571038
+name = "_ZN8CWeather14UnderWaternessE"
+size = 0x4
+
+[0x54abde8]
+last_change = 2024-07-12T20:38:08.672923Z
+addr = 0x54abde8
+name = "z"
+size = 0x4
+
+[0x557104c]
+last_change = 2024-07-12T20:38:21.565129Z
+addr = 0x557104c
+name = "pLevel"
+size = 0x4
+
+[0x50ac11f]
+last_change = 2024-07-12T20:41:03.759707Z
+addr = 0x50ac11f
+name = "_ZN6CTrain20bDisableRandomTrainsE"
+size = 0x1
+
+[0x5157f04]
+last_change = 2024-07-12T20:41:08.450300Z
+addr = 0x5157f04
+name = "_ZN6CTrain15GenTrain_StatusE"
+size = 0x4
+
+[0x4eac210]
+last_change = 2024-07-12T20:41:34.432644Z
+addr = 0x4eac210
+name = "_ZN6CTrain13aStationCoorsE"
+size = 0x4
+
+[0x5571218]
+last_change = 2024-07-12T20:42:40.344673Z
+addr = 0x5571218
+name = ""
+size = 0x118
+
+[0x5571220]
+last_change = 2024-07-12T20:42:06.619862Z
+addr = 0x5571220
+name = ""
+size = 0x18
+
+[0x5571228]
+last_change = 2024-07-12T20:42:06.621862Z
+addr = 0x5571228
+name = ""
+size = 0x10
+
+[0x5571230]
+last_change = 2024-07-12T20:42:06.622862Z
+addr = 0x5571230
+name = ""
+size = 0x8
+
+[0x41a5ed8]
+last_change = 2024-07-12T20:42:16.452400Z
+addr = 0x41a5ed8
+name = "filename"
+size = 0x16
+
+[0x55539d8]
+last_change = 2024-07-12T20:42:16.455401Z
+addr = 0x55539d8
+name = "totalDist"
+size = 0x4
+
+[0x5571214]
+last_change = 2024-07-12T20:43:36.839256Z
+addr = 0x5571214
+name = ""
+size = 0x4
+
+[0x55711b0]
+last_change = 2024-07-12T20:43:20.294676Z
+addr = 0x55711b0
+name = "dword_55711B0"
+size = 0x4
+
+[0x5571238]
+last_change = 2024-07-12T20:42:40.346674Z
+addr = 0x5571238
+name = ""
+size = 0xf8
+
+[0x557123c]
+last_change = 2024-07-12T20:42:40.348674Z
+addr = 0x557123c
+name = ""
+size = 0xf4
+
+[0x557123d]
+last_change = 2024-07-12T20:42:40.350675Z
+addr = 0x557123d
+name = ""
+size = 0xf3
+
+[0x557123e]
+last_change = 2024-07-12T20:42:40.352675Z
+addr = 0x557123e
+name = ""
+size = 0xf2
+
+[0x557123f]
+last_change = 2024-07-12T20:42:40.354675Z
+addr = 0x557123f
+name = ""
+size = 0xf1
+
+[0x5571240]
+last_change = 2024-07-12T20:42:40.357676Z
+addr = 0x5571240
+name = ""
+size = 0xf0
+
+[0x5571248]
+last_change = 2024-07-12T20:42:40.359677Z
+addr = 0x5571248
+name = ""
+size = 0xe8
+
+[0x5571250]
+last_change = 2024-07-12T20:42:40.361677Z
+addr = 0x5571250
+name = ""
+size = 0xe0
+
+[0x5571254]
+last_change = 2024-07-12T20:42:40.363678Z
+addr = 0x5571254
+name = ""
+size = 0xdc
+
+[0x5571258]
+last_change = 2024-07-12T20:42:40.366678Z
+addr = 0x5571258
+name = ""
+size = 0xd8
+
+[0x557125c]
+last_change = 2024-07-12T20:42:40.368678Z
+addr = 0x557125c
+name = ""
+size = 0xd4
+
+[0x557125d]
+last_change = 2024-07-12T20:42:40.370679Z
+addr = 0x557125d
+name = ""
+size = 0xd3
+
+[0x557125e]
+last_change = 2024-07-12T20:42:40.372679Z
+addr = 0x557125e
+name = ""
+size = 0xd2
+
+[0x557125f]
+last_change = 2024-07-12T20:42:40.374680Z
+addr = 0x557125f
+name = ""
+size = 0xd1
+
+[0x5571260]
+last_change = 2024-07-12T20:42:40.376681Z
+addr = 0x5571260
+name = ""
+size = 0xd0
+
+[0x5571261]
+last_change = 2024-07-12T20:42:40.378681Z
+addr = 0x5571261
+name = ""
+size = 0xcf
+
+[0x5571262]
+last_change = 2024-07-12T20:42:40.380681Z
+addr = 0x5571262
+name = ""
+size = 0xce
+
+[0x5571263]
+last_change = 2024-07-12T20:42:40.382682Z
+addr = 0x5571263
+name = ""
+size = 0xcd
+
+[0x5571264]
+last_change = 2024-07-12T20:42:40.384682Z
+addr = 0x5571264
+name = ""
+size = 0xcc
+
+[0x5571265]
+last_change = 2024-07-12T20:42:40.387682Z
+addr = 0x5571265
+name = ""
+size = 0xcb
+
+[0x5571266]
+last_change = 2024-07-12T20:42:40.389683Z
+addr = 0x5571266
+name = ""
+size = 0xca
+
+[0x5571267]
+last_change = 2024-07-12T20:42:40.391683Z
+addr = 0x5571267
+name = ""
+size = 0xc9
+
+[0x5571268]
+last_change = 2024-07-12T20:42:40.393684Z
+addr = 0x5571268
+name = ""
+size = 0xc8
+
+[0x5571269]
+last_change = 2024-07-12T20:42:40.395684Z
+addr = 0x5571269
+name = ""
+size = 0xc7
+
+[0x557126c]
+last_change = 2024-07-12T20:42:40.397685Z
+addr = 0x557126c
+name = ""
+size = 0xc4
+
+[0x5571270]
+last_change = 2024-07-12T20:42:40.399685Z
+addr = 0x5571270
+name = ""
+size = 0xc0
+
+[0x5571280]
+last_change = 2024-07-12T20:42:40.401686Z
+addr = 0x5571280
+name = ""
+size = 0xb0
+
+[0x5571288]
+last_change = 2024-07-12T20:42:40.403686Z
+addr = 0x5571288
+name = ""
+size = 0xa8
+
+[0x557128c]
+last_change = 2024-07-12T20:42:40.405687Z
+addr = 0x557128c
+name = ""
+size = 0xa4
+
+[0x5571290]
+last_change = 2024-07-12T20:42:40.407687Z
+addr = 0x5571290
+name = ""
+size = 0xa0
+
+[0x5571294]
+last_change = 2024-07-12T20:42:40.409688Z
+addr = 0x5571294
+name = ""
+size = 0x9c
+
+[0x5571298]
+last_change = 2024-07-12T20:42:40.412688Z
+addr = 0x5571298
+name = ""
+size = 0x98
+
+[0x557129c]
+last_change = 2024-07-12T20:42:40.414689Z
+addr = 0x557129c
+name = ""
+size = 0x94
+
+[0x55712a0]
+last_change = 2024-07-12T20:42:40.416689Z
+addr = 0x55712a0
+name = ""
+size = 0x90
+
+[0x55712a8]
+last_change = 2024-07-12T20:42:40.418689Z
+addr = 0x55712a8
+name = ""
+size = 0x88
+
+[0x55712b0]
+last_change = 2024-07-12T20:42:40.420690Z
+addr = 0x55712b0
+name = ""
+size = 0x80
+
+[0x55712b8]
+last_change = 2024-07-12T20:42:40.422691Z
+addr = 0x55712b8
+name = ""
+size = 0x78
+
+[0x55712c0]
+last_change = 2024-07-12T20:42:40.424691Z
+addr = 0x55712c0
+name = ""
+size = 0x70
+
+[0x55712c4]
+last_change = 2024-07-12T20:42:40.426691Z
+addr = 0x55712c4
+name = ""
+size = 0x6c
+
+[0x55712c8]
+last_change = 2024-07-12T20:42:40.428692Z
+addr = 0x55712c8
+name = ""
+size = 0x68
+
+[0x55712cc]
+last_change = 2024-07-12T20:42:40.430693Z
+addr = 0x55712cc
+name = ""
+size = 0x64
+
+[0x55712d0]
+last_change = 2024-07-12T20:42:40.432693Z
+addr = 0x55712d0
+name = ""
+size = 0x60
+
+[0x55712d4]
+last_change = 2024-07-12T20:42:40.434694Z
+addr = 0x55712d4
+name = ""
+size = 0x5c
+
+[0x55712d8]
+last_change = 2024-07-12T20:42:40.437694Z
+addr = 0x55712d8
+name = ""
+size = 0x58
+
+[0x55712e0]
+last_change = 2024-07-12T20:42:40.529714Z
+addr = 0x55712e0
+name = ""
+size = 0x50
+
+[0x55712e8]
+last_change = 2024-07-12T20:42:40.531715Z
+addr = 0x55712e8
+name = ""
+size = 0x48
+
+[0x55712f0]
+last_change = 2024-07-12T20:42:40.533715Z
+addr = 0x55712f0
+name = ""
+size = 0x40
+
+[0x55712f8]
+last_change = 2024-07-12T20:42:40.535715Z
+addr = 0x55712f8
+name = ""
+size = 0x38
+
+[0x5571300]
+last_change = 2024-07-12T20:42:40.537715Z
+addr = 0x5571300
+name = ""
+size = 0x30
+
+[0x5571304]
+last_change = 2024-07-12T20:42:40.539716Z
+addr = 0x5571304
+name = ""
+size = 0x2c
+
+[0x5571308]
+last_change = 2024-07-12T20:42:40.541716Z
+addr = 0x5571308
+name = ""
+size = 0x28
+
+[0x5571310]
+last_change = 2024-07-12T20:42:40.544717Z
+addr = 0x5571310
+name = ""
+size = 0x20
+
+[0x5571318]
+last_change = 2024-07-12T20:42:40.546718Z
+addr = 0x5571318
+name = ""
+size = 0x18
+
+[0x5571320]
+last_change = 2024-07-12T20:42:40.548719Z
+addr = 0x5571320
+name = ""
+size = 0x10
+
+[0x5571328]
+last_change = 2024-07-12T20:42:40.550719Z
+addr = 0x5571328
+name = ""
+size = 0x8
+
+[0x5571208]
+last_change = 2024-07-12T20:43:25.164233Z
+addr = 0x5571208
+name = "NumTrackNodes"
+size = 0x4
+
+[0x557120c]
+last_change = 2024-07-12T20:43:36.834254Z
+addr = 0x557120c
+name = ""
+size = 0xc
+
+[0x5571210]
+last_change = 2024-07-12T20:43:36.836254Z
+addr = 0x5571210
+name = ""
+size = 0x8
+
+[0x50633dc]
+last_change = 2024-07-12T20:48:45.119306Z
+addr = 0x50633dc
+name = "_ZN5CGame9currLevelE"
+size = 0x4
+
+[0x5143188]
+last_change = 2024-07-12T20:50:13.762140Z
+addr = 0x5143188
+name = "gGameState"
+size = 0x4
+
+[0x5070588]
+last_change = 2024-07-12T22:29:55.768644Z
+addr = 0x5070588
+name = "_ZN6CTimer14m_FrameCounterE"
+size = 0x4
+
+[0x5553458]
+last_change = 2024-07-12T22:29:59.908551Z
+addr = 0x5553458
+name = "_renderTimerPauseCount"
+size = 0x4
+
+[0x5072bf8]
+last_change = 2024-07-12T22:32:55.139677Z
+addr = 0x5072bf8
+name = "_timerFunction"
+size = 0x8
+
+[0x50704c8]
+last_change = 2024-07-12T22:31:36.961720Z
+addr = 0x50704c8
+name = "_ZN6CTimer13ms_fTimeScaleE_ptr"
+size = 0x4
+
+[0x507040c]
+last_change = 2024-07-12T22:31:56.932404Z
+addr = 0x507040c
+name = "_ZN6CTimer31m_snTimeInMillisecondsPauseModeE"
+size = 0x4
+
+[0x5553460]
+last_change = 2024-07-12T22:33:00.391443Z
+addr = 0x5553460
+name = "_renderStartTimeLow"
+size = 0x8
+
+[0x4ff42d0]
+last_change = 2024-07-12T22:43:03.442414Z
+addr = 0x4ff42d0
+name = "_ZN9CColStore12ms_pQuadTreeE"
+size = 0x8
+
+[0x55702f8]
+last_change = 2024-07-12T22:43:45.772715Z
+addr = 0x55702f8
+name = "_ZN9CColAccel13m_iCacheStateE"
+size = 0x4
+
+[0x4ff4550]
+last_change = 2024-07-12T22:46:35.507409Z
+addr = 0x4ff4550
+name = "_ZN10CEntryExit13ms_spawnPointE"
+size = 0x8
+
+[0x55703b8]
+last_change = 2024-07-12T22:47:54.097540Z
+addr = 0x55703b8
+name = "sectionName"
+size = 0x8
+
+[0x504e5c0]
+last_change = 2024-07-12T22:52:27.201585Z
+addr = 0x504e5c0
+name = "startIP"
+size = 0x1
+
+[0x4ffe5b8]
+last_change = 2024-07-12T22:52:39.506508Z
+addr = 0x4ffe5b8
+name = "_ZN11CTheScripts12pIdleScriptsE"
+size = 0x8
+
+[0x522cda4]
+last_change = 2024-07-12T22:52:55.206864Z
+addr = 0x522cda4
+name = ""
+size = 0x104
+
+[0x522cd70]
+last_change = 2024-07-18T01:39:51.647866Z
+addr = 0x522cd70
+name = "stru_522CD70"
+size = 0x130
+
+[0x500aff8]
+last_change = 2024-07-12T22:53:20.204196Z
+addr = 0x500aff8
+name = "_ZN11CTheScripts14pActiveScriptsE"
+size = 0x8
+
+[0x54c3894]
+last_change = 2024-07-13T01:08:05.673456Z
+addr = 0x54c3894
+name = "a3"
+size = 0x4
+
+[0x5288f70]
+last_change = 2024-07-13T01:40:17.253652Z
+addr = 0x5288f70
+name = "_ZN6CWorld15ms_aLodPtrListsE"
+size = 0x1
+
+[0x5287770]
+last_change = 2024-07-13T01:40:41.662216Z
+addr = 0x5287770
+name = "_ZN6CWorld17ms_aRepeatSectorsE"
+size = 0x8
+
+[0x1000]
+last_change = 2024-07-13T02:21:06.246723Z
+addr = 0x1000
+name = ""
+size = 0x1
+
+[0xaab0]
+last_change = 2024-07-13T02:21:06.598406Z
+addr = 0xaab0
+name = "qword_AAB0"
+size = 0xd80
+
+[0x11da735]
+last_change = 2024-07-13T02:21:19.089867Z
+addr = 0x11da735
+name = ""
+size = 0x3
+
+[0x11da726]
+last_change = 2024-07-13T02:21:19.092866Z
+addr = 0x11da726
+name = ""
+size = 0x3
+
+[0x11da717]
+last_change = 2024-07-13T02:21:19.095869Z
+addr = 0x11da717
+name = ""
+size = 0x3
+
+[0x11da708]
+last_change = 2024-07-13T02:21:19.098286Z
+addr = 0x11da708
+name = ""
+size = 0x3
+
+[0x11da6f0]
+last_change = 2024-07-13T02:21:27.799356Z
+addr = 0x11da6f0
+name = ""
+size = 0x3
+
+[0x11da79c]
+last_change = 2024-07-13T02:21:27.893377Z
+addr = 0x11da79c
+name = ""
+size = 0x3
+
+[0x11da78d]
+last_change = 2024-07-13T02:21:27.897379Z
+addr = 0x11da78d
+name = ""
+size = 0x3
+
+[0x11da77e]
+last_change = 2024-07-13T02:21:27.899379Z
+addr = 0x11da77e
+name = ""
+size = 0x3
+
+[0x11da76f]
+last_change = 2024-07-13T02:21:27.902380Z
+addr = 0x11da76f
+name = ""
+size = 0x3
+
+[0x11da76c]
+last_change = 2024-07-13T02:21:27.906381Z
+addr = 0x11da76c
+name = ""
+size = 0x2
+
+[0x11da7f4]
+last_change = 2024-07-13T02:21:27.909381Z
+addr = 0x11da7f4
+name = ""
+size = 0x3
+
+[0x11da7e5]
+last_change = 2024-07-13T02:21:27.912382Z
+addr = 0x11da7e5
+name = ""
+size = 0x3
+
+[0x11da7d6]
+last_change = 2024-07-13T02:21:27.915383Z
+addr = 0x11da7d6
+name = ""
+size = 0x3
+
+[0x11da7c7]
+last_change = 2024-07-13T02:21:27.919383Z
+addr = 0x11da7c7
+name = ""
+size = 0x3
+
+[0x11da854]
+last_change = 2024-07-13T02:21:27.922384Z
+addr = 0x11da854
+name = ""
+size = 0x3
+
+[0x11da845]
+last_change = 2024-07-13T02:21:27.928385Z
+addr = 0x11da845
+name = ""
+size = 0x3
+
+[0x11da836]
+last_change = 2024-07-13T02:21:27.931386Z
+addr = 0x11da836
+name = ""
+size = 0x3
+
+[0x11da827]
+last_change = 2024-07-13T02:21:27.936387Z
+addr = 0x11da827
+name = ""
+size = 0x3
+
+[0x11da8bc]
+last_change = 2024-07-13T02:21:27.940388Z
+addr = 0x11da8bc
+name = ""
+size = 0x3
+
+[0x11da8ad]
+last_change = 2024-07-13T02:21:27.944389Z
+addr = 0x11da8ad
+name = ""
+size = 0x3
+
+[0x11da89e]
+last_change = 2024-07-13T02:21:27.948403Z
+addr = 0x11da89e
+name = ""
+size = 0x3
+
+[0x11da88f]
+last_change = 2024-07-13T02:21:27.951391Z
+addr = 0x11da88f
+name = ""
+size = 0x3
+
+[0x11da88c]
+last_change = 2024-07-13T02:21:27.954922Z
+addr = 0x11da88c
+name = ""
+size = 0x2
+
+[0x11ee9b3]
+last_change = 2024-07-13T02:21:27.961286Z
+addr = 0x11ee9b3
+name = ""
+size = 0x5
+
+[0x11ee9cf]
+last_change = 2024-07-13T02:21:27.965287Z
+addr = 0x11ee9cf
+name = ""
+size = 0x2
+
+[0x4ea9fa0]
+last_change = 2024-07-13T02:25:39.523046Z
+addr = 0x4ea9fa0
+name = "xmmword_4EA9FA0"
+size = 0x10
+
+[0x4ea9fb0]
+last_change = 2024-07-13T02:25:39.543369Z
+addr = 0x4ea9fb0
+name = ""
+size = 0x1
+
+[0x4ea9fc0]
+last_change = 2024-07-13T02:25:39.546370Z
+addr = 0x4ea9fc0
+name = ""
+size = 0x1
+
+[0x4ea9fd0]
+last_change = 2024-07-13T02:25:39.548371Z
+addr = 0x4ea9fd0
+name = ""
+size = 0x1
+
+[0x4ea9fe0]
+last_change = 2024-07-13T02:25:39.551372Z
+addr = 0x4ea9fe0
+name = ""
+size = 0x1
+
+[0x4ea9fe8]
+last_change = 2024-07-13T02:25:39.554372Z
+addr = 0x4ea9fe8
+name = ""
+size = 0x1
+
+[0x4ea9f50]
+last_change = 2024-07-13T02:25:39.561374Z
+addr = 0x4ea9f50
+name = "xmmword_4EA9F50"
+size = 0x10
+
+[0x4ea9f60]
+last_change = 2024-07-13T02:25:39.578377Z
+addr = 0x4ea9f60
+name = ""
+size = 0x1
+
+[0x4ea9f70]
+last_change = 2024-07-13T02:25:39.580377Z
+addr = 0x4ea9f70
+name = ""
+size = 0x1
+
+[0x4ea9f80]
+last_change = 2024-07-13T02:25:39.583379Z
+addr = 0x4ea9f80
+name = ""
+size = 0x1
+
+[0x4ea9f90]
+last_change = 2024-07-13T02:25:39.586379Z
+addr = 0x4ea9f90
+name = ""
+size = 0x1
+
+[0x4ea9f98]
+last_change = 2024-07-13T02:25:39.589380Z
+addr = 0x4ea9f98
+name = ""
+size = 0x1
+
+[0x54abdf0]
+last_change = 2024-07-13T02:25:40.421528Z
+addr = 0x54abdf0
+name = "dword_54ABDF0"
+size = 0x4
+
+[0x54abdf4]
+last_change = 2024-07-13T02:25:40.454535Z
+addr = 0x54abdf4
+name = ""
+size = 0x4c
+
+[0x54abdf8]
+last_change = 2024-07-13T02:25:40.458536Z
+addr = 0x54abdf8
+name = ""
+size = 0x48
+
+[0x54abe00]
+last_change = 2024-07-13T02:25:40.461539Z
+addr = 0x54abe00
+name = ""
+size = 0x40
+
+[0x54abe04]
+last_change = 2024-07-13T02:25:40.464884Z
+addr = 0x54abe04
+name = ""
+size = 0x3c
+
+[0x54abe08]
+last_change = 2024-07-13T02:25:40.468792Z
+addr = 0x54abe08
+name = ""
+size = 0x38
+
+[0x54abe10]
+last_change = 2024-07-13T02:25:40.471793Z
+addr = 0x54abe10
+name = ""
+size = 0x30
+
+[0x54abe14]
+last_change = 2024-07-13T02:25:40.475794Z
+addr = 0x54abe14
+name = ""
+size = 0x2c
+
+[0x54abe18]
+last_change = 2024-07-13T02:25:40.479795Z
+addr = 0x54abe18
+name = ""
+size = 0x28
+
+[0x54abe30]
+last_change = 2024-07-13T02:25:40.482795Z
+addr = 0x54abe30
+name = ""
+size = 0x10
+
+[0x54abe38]
+last_change = 2024-07-13T02:25:40.486796Z
+addr = 0x54abe38
+name = ""
+size = 0x8
+
+[0x6c90]
+last_change = 2024-07-18T01:39:51.777462Z
+addr = 0x6c90
+name = "qword_6C90"
+size = 0xa80
+
+[0x4ffd5f4]
+last_change = 2024-07-18T02:06:14.185588Z
+addr = 0x4ffd5f4
+name = "_jumptableSize"
+size = 0x2

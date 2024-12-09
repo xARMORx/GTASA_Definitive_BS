@@ -1,0 +1,11 @@
+last_change = 2024-07-12T15:53:52.199878Z
+addr = 0x102cc30
+size = 0x5b0
+name = "_ZN4CHud12DrawAreaNameEv"
+
+[header]
+last_change = 2024-07-12T15:53:52.199878Z
+name = "_ZN4CHud12DrawAreaNameEv"
+addr = 0x102cc30
+
+[header.args]

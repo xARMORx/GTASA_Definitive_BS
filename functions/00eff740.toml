@@ -1,0 +1,11 @@
+last_change = 2024-07-12T22:48:37.820908Z
+addr = 0xeff740
+size = 0x1150
+name = "_ZN10CEntryExit18TransitionFinishedEP4CPed"
+
+[header]
+last_change = 2024-07-12T22:48:37.820908Z
+name = "_ZN10CEntryExit18TransitionFinishedEP4CPed"
+addr = 0xeff740
+
+[header.args]

@@ -1,0 +1,21 @@
+last_change = 2024-07-12T02:16:29.441335Z
+name = "tTagDesc"
+size = 0x10
+
+[members.0x0]
+name = "m_pEntity"
+offset = 0x0
+type = "CEntity *"
+size = 0x8
+
+[members.0x8]
+name = "m_nAlpha"
+offset = 0x8
+type = "char"
+size = 0x1
+
+[members.0x9]
+name = "_pad5"
+offset = 0x9
+type = ""
+size = 0x3

@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:45:49.746035Z
+addr = 0xfc9060
+size = 0x181
+name = "_ZN4CPad5ClearEb"
+type = "int"
+
+[header]
+last_change = 2024-07-12T20:45:49.746035Z
+name = "_ZN4CPad5ClearEb"
+addr = 0xfc9060
+type = "int"
+
+[header.args]

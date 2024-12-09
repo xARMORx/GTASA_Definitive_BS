@@ -1,0 +1,99 @@
+last_change = 2024-07-13T02:58:07.423581Z
+name = "CPhysical"
+size = 0x1a0
+
+[members.0x0]
+name = "entity"
+offset = 0x0
+type = "CEntity"
+size = 0x60
+
+[members.0x60]
+name = "field_0"
+offset = 0x60
+type = "char[8]"
+size = 0x8
+
+[members.0x68]
+name = "m_dwFlags"
+offset = 0x68
+type = "int"
+size = 0x4
+
+[members.0x6c]
+name = "m_vecMoveSpeed"
+offset = 0x6c
+type = "CVector"
+size = 0xc
+
+[members.0x78]
+name = "m_vecTurnSpeed"
+offset = 0x78
+type = "CVector"
+size = 0xc
+
+[members.0x84]
+name = "field_7C"
+offset = 0x84
+type = "char[84]"
+size = 0x54
+
+[members.0xd8]
+name = "m_pCollisionList"
+offset = 0xd8
+type = "int"
+size = 0x4
+
+[members.0xdc]
+name = "field_DC"
+offset = 0xdc
+type = "char[12]"
+size = 0xc
+
+[members.0xe8]
+name = "m_nNumEntitiesCollided"
+offset = 0xe8
+type = "char"
+size = 0x1
+
+[members.0xe9]
+name = "field_FA"
+offset = 0xe9
+type = "char[7]"
+size = 0x7
+
+[members.0xf0]
+name = "m_vLastCollisionDirection"
+offset = 0xf0
+type = "CVectorLong"
+size = 0x18
+
+[members.0x108]
+name = "m_vecLastCollisionPosn"
+offset = 0x108
+type = "CVectorLong"
+size = 0x18
+
+[members.0x120]
+name = "m_fMovingSpeed"
+offset = 0x120
+type = "float"
+size = 0x4
+
+[members.0x124]
+name = "field_124"
+offset = 0x124
+type = "char[108]"
+size = 0x6c
+
+[members.0x190]
+name = "m_fContactSurfaceBrightness"
+offset = 0x190
+type = "float"
+size = 0x4
+
+[members.0x194]
+name = "field_198"
+offset = 0x194
+type = ""
+size = 0xc

@@ -1,0 +1,303 @@
+last_change = 2024-07-12T23:54:12.434490Z
+name = "CPad"
+size = 0x158
+
+[members.0x0]
+name = "NewState"
+offset = 0x0
+type = "CControllerState"
+size = 0x30
+
+[members.0x30]
+name = "OldState"
+offset = 0x30
+type = "CControllerState"
+size = 0x30
+
+[members.0x60]
+name = "currentPadId"
+offset = 0x60
+type = "int32_t"
+size = 0x4
+
+[members.0x64]
+name = "SteeringLeftRightBuffer"
+offset = 0x64
+type = "int16_t[10]"
+size = 0x14
+
+[members.0x78]
+name = "DrunkDrivingBufferUsed"
+offset = 0x78
+type = "int32_t"
+size = 0x4
+
+[members.0x7c]
+name = "PCTempKeyState"
+offset = 0x7c
+type = "CControllerState"
+size = 0x30
+
+[members.0xac]
+name = "PCTempJoyState"
+offset = 0xac
+type = "CControllerState"
+size = 0x30
+
+[members.0xdc]
+name = "PCTempMouseState"
+offset = 0xdc
+type = "CControllerState"
+size = 0x30
+
+[members.0x10c]
+name = "Phase"
+offset = 0x10c
+type = "uint8_t"
+size = 0x1
+
+[members.0x10e]
+name = "ShakeDur"
+offset = 0x10e
+type = "int16_t"
+size = 0x2
+
+[members.0x110]
+name = "DisablePlayerControls"
+offset = 0x110
+type = "uint16_t"
+size = 0x2
+
+[members.0x112]
+name = "ShakeFreq"
+offset = 0x112
+type = "uint8_t"
+size = 0x1
+
+[members.0x113]
+name = "JustOutOfFrontEnd"
+offset = 0x113
+type = "uint8_t"
+size = 0x1
+
+[members.0x114]
+name = "fCruisingSpeed"
+offset = 0x114
+type = "float"
+size = 0x4
+
+[members.0x118]
+name = "bRhythm"
+offset = 0x118
+type = "uint8_t"
+size = 0x1
+
+[members.0x119]
+name = "bWheelie"
+offset = 0x119
+type = "uint8_t"
+size = 0x1
+
+[members.0x11a]
+name = "bStoppie"
+offset = 0x11a
+type = "uint8_t"
+size = 0x1
+
+[members.0x11b]
+name = "bApplyGas"
+offset = 0x11b
+type = "uint8_t"
+size = 0x1
+
+[members.0x11c]
+name = "bApplyBrake"
+offset = 0x11c
+type = "uint8_t"
+size = 0x1
+
+[members.0x11d]
+name = "bLaneCorrection"
+offset = 0x11d
+type = "uint8_t"
+size = 0x1
+
+[members.0x11e]
+name = "bUsingDebugCamera"
+offset = 0x11e
+type = "uint8_t"
+size = 0x1
+
+[members.0x11f]
+name = "bUsingDebugPlayerFreeze"
+offset = 0x11f
+type = "uint8_t"
+size = 0x1
+
+[members.0x120]
+name = "bHasCheated"
+offset = 0x120
+type = "uint8_t"
+size = 0x1
+
+[members.0x121]
+name = "bDisableForbiddenTerr"
+offset = 0x121
+type = "uint8_t"
+size = 0x1
+
+[members.0x122]
+name = "bStopRhythmSprites"
+offset = 0x122
+type = "uint8_t"
+size = 0x1
+
+[members.0x123]
+name = "bDoorsLocked"
+offset = 0x123
+type = "uint8_t"
+size = 0x1
+
+[members.0x124]
+name = "bRegainControl"
+offset = 0x124
+type = "uint8_t"
+size = 0x1
+
+[members.0x128]
+name = "fBikeStickY"
+offset = 0x128
+type = "float"
+size = 0x4
+
+[members.0x12c]
+name = "bApplyBrakes"
+offset = 0x12c
+type = "uint8_t"
+size = 0x1
+
+[members.0x12d]
+name = "bDisablePlayerEnterCar"
+offset = 0x12d
+type = "uint8_t"
+size = 0x1
+
+[members.0x12e]
+name = "bDisablePlayerDuck"
+offset = 0x12e
+type = "uint8_t"
+size = 0x1
+
+[members.0x12f]
+name = "bDisablePlayerFireWeapon"
+offset = 0x12f
+type = "uint8_t"
+size = 0x1
+
+[members.0x130]
+name = "bDisablePlayerFireWeaponWithL1"
+offset = 0x130
+type = "uint8_t"
+size = 0x1
+
+[members.0x131]
+name = "bDisablePlayerCycleWeapon"
+offset = 0x131
+type = "uint8_t"
+size = 0x1
+
+[members.0x132]
+name = "bDisablePlayerJump"
+offset = 0x132
+type = "uint8_t"
+size = 0x1
+
+[members.0x133]
+name = "bDisablePlayerDisplayVitalStats"
+offset = 0x133
+type = "uint8_t"
+size = 0x1
+
+[members.0x134]
+name = "LastTimeTouched"
+offset = 0x134
+type = "uint32_t"
+size = 0x4
+
+[members.0x138]
+name = "AverageWeapon"
+offset = 0x138
+type = "int32_t"
+size = 0x4
+
+[members.0x13c]
+name = "AverageEntries"
+offset = 0x13c
+type = "int32_t"
+size = 0x4
+
+[members.0x140]
+name = "NoShakeBeforeThis"
+offset = 0x140
+type = "uint32_t"
+size = 0x4
+
+[members.0x144]
+name = "NoShakeFreq"
+offset = 0x144
+type = "uint8_t"
+size = 0x1
+
+[members.0x145]
+name = "bHasJetPack"
+offset = 0x145
+type = "uint8_t"
+size = 0x1
+
+[members.0x146]
+name = "bRocketLocked"
+offset = 0x146
+type = "uint8_t"
+size = 0x1
+
+[members.0x147]
+name = "bTrainPassenger"
+offset = 0x147
+type = "uint8_t"
+size = 0x1
+
+[members.0x148]
+name = "bSavedForTrain"
+offset = 0x148
+type = "uint8_t"
+size = 0x1
+
+[members.0x149]
+name = "bSetSteeringMode"
+offset = 0x149
+type = "uint8_t"
+size = 0x1
+
+[members.0x14a]
+name = "bSetTouchLayout"
+offset = 0x14a
+type = "uint8_t"
+size = 0x1
+
+[members.0x14c]
+name = "m_fAccelX"
+offset = 0x14c
+type = "float"
+size = 0x4
+
+[members.0x150]
+name = "m_fAccelY"
+offset = 0x150
+type = "float"
+size = 0x4
+
+[members.0x154]
+name = "m_fAccelZ"
+offset = 0x154
+type = ""
+size = 0x4

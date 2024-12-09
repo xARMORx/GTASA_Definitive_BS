@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:26:23.016473Z
+addr = 0xf282f0
+size = 0x1f4
+name = "CMissionCleanupList__process"
+type = "int"
+
+[header]
+last_change = 2024-07-12T20:26:23.016473Z
+name = "CMissionCleanupList__process"
+addr = 0xf282f0
+type = "int"
+
+[header.args]

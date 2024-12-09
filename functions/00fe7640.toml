@@ -1,0 +1,13 @@
+last_change = 2024-07-12T22:42:52.944422Z
+addr = 0xfe7640
+size = 0x1a2
+name = "_ZN13CQuadTreeNode7AddItemEPvRK5CRect"
+type = "char"
+
+[header]
+last_change = 2024-07-12T22:42:52.944422Z
+name = "_ZN13CQuadTreeNode7AddItemEPvRK5CRect"
+addr = 0xfe7640
+type = "char"
+
+[header.args]

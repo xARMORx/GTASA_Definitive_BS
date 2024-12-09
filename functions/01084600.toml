@@ -1,0 +1,11 @@
+last_change = 2024-07-12T21:03:11.678833Z
+addr = 0x1084600
+size = 0x23a
+name = "StartGame"
+
+[header]
+last_change = 2024-07-12T21:03:11.678833Z
+name = "StartGame"
+addr = 0x1084600
+
+[header.args]

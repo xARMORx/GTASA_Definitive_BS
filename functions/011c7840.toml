@@ -1,0 +1,11 @@
+last_change = 2024-07-12T04:28:57.687792Z
+addr = 0x11c7840
+size = 0x6c0
+
+[stack_vars.-0x30]
+last_change = 2024-07-12T04:28:57.687792Z
+offset = -48
+name = "py"
+type = "unsigned int"
+size = 0x4
+addr = 0x11c7840

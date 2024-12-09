@@ -1,0 +1,11 @@
+last_change = 2024-07-12T16:19:38.275485Z
+addr = 0x1058ef0
+size = 0x30f
+
+[stack_vars.-0x398]
+last_change = 2024-07-12T16:19:38.275485Z
+offset = -920
+name = "nColor"
+type = "CRGBA"
+size = 0x4
+addr = 0x1058ef0

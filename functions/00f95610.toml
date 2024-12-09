@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:38:27.637004Z
+addr = 0xf95610
+size = 0xb9
+
+[stack_vars.0x0]
+last_change = 2024-07-12T20:38:27.637004Z
+offset = 0x0
+name = "arg_10"
+type = "int"
+size = 0x4
+addr = 0xf95610

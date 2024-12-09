@@ -1,0 +1,19 @@
+last_change = 2024-07-12T16:10:01.562511Z
+addr = 0x1070650
+size = 0x6f7
+
+[stack_vars.-0x13]
+last_change = 2024-07-12T16:10:01.558511Z
+offset = -19
+name = "arg_8"
+type = "short"
+size = 0x2
+addr = 0x1070650
+
+[stack_vars.-0x113]
+last_change = 2024-07-12T16:10:01.562511Z
+offset = -275
+name = "bDrawBox"
+type = "float"
+size = 0x4
+addr = 0x1070650

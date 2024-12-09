@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:44:11.674299Z
+addr = 0x12339e0
+size = 0x562
+
+[stack_vars.-0x148]
+last_change = 2024-07-12T20:44:11.674299Z
+offset = -328
+name = "var_108"
+type = "CVector"
+size = 0xc
+addr = 0x12339e0

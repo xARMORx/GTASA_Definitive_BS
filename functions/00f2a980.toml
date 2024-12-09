@@ -1,0 +1,13 @@
+last_change = 2024-07-12T22:52:55.148852Z
+addr = 0xf2a980
+size = 0xcd
+name = "_ZN14CRunningScript4InitEv"
+type = "int"
+
+[header]
+last_change = 2024-07-12T22:52:55.148852Z
+name = "_ZN14CRunningScript4InitEv"
+addr = 0xf2a980
+type = "int"
+
+[header.args]

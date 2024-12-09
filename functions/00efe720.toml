@@ -1,0 +1,11 @@
+last_change = 2024-07-12T22:42:54.787159Z
+addr = 0xefe720
+size = 0x448
+
+[stack_vars.-0x178]
+last_change = 2024-07-12T22:42:54.787159Z
+offset = -376
+name = "itemRect"
+type = "CRect"
+size = 0x10
+addr = 0xefe720

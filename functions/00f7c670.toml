@@ -1,0 +1,13 @@
+last_change = 2024-07-12T20:47:32.081174Z
+addr = 0xf7c670
+size = 0x184
+name = "_ZN4CCam4InitEv"
+type = "int"
+
+[header]
+last_change = 2024-07-12T20:47:32.081174Z
+name = "_ZN4CCam4InitEv"
+addr = 0xf7c670
+type = "int"
+
+[header.args]

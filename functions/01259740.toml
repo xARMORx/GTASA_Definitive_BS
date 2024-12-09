@@ -1,0 +1,11 @@
+last_change = 2024-07-12T20:38:14.797575Z
+addr = 0x1259740
+size = 0xca8
+
+[stack_vars.-0x13c]
+last_change = 2024-07-12T20:38:14.797575Z
+offset = -316
+name = "var_F4"
+type = "float"
+size = 0x4
+addr = 0x1259740
